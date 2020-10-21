@@ -1,0 +1,150 @@
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_hillclimbing_b.rsf) = 7252
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_hillclimbing_a.rsf) = 8957
+The Mojo value is 7252
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_ga_b.rsf) = 7866
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_ga_a.rsf) = 8845
+The Mojo value is 7866
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_exhaustive_b.rsf) = 8311
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.9_exhaustive_a.rsf) = 8961
+The Mojo value is 8311
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_hillclimbing_b.rsf) = 8009
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_hillclimbing_a.rsf) = 8974
+The Mojo value is 8009
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_ga_b.rsf) = 7471
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_ga_a.rsf) = 8961
+The Mojo value is 7471
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_exhaustive_b.rsf) = 7538
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.8_exhaustive_a.rsf) = 8994
+The Mojo value is 7538
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_hillclimbing_b.rsf) = 7803
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_hillclimbing_a.rsf) = 9015
+The Mojo value is 7803
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_ga_b.rsf) = 7543
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_ga_a.rsf) = 8797
+The Mojo value is 7543
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_exhaustive_b.rsf) = 7695
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.7_exhaustive_a.rsf) = 8876
+The Mojo value is 7695
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_hillclimbing_b.rsf) = 7675
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_hillclimbing_a.rsf) = 8957
+The Mojo value is 7675
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_ga_b.rsf) = 7593
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_ga_a.rsf) = 9031
+The Mojo value is 7593
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_exhaustive_b.rsf) = 7597
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.6_exhaustive_a.rsf) = 8755
+The Mojo value is 7597
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_hillclimbing_b.rsf) = 7594
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_hillclimbing_a.rsf) = 8813
+The Mojo value is 7594
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_ga_b.rsf) = 7506
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_ga_a.rsf) = 8757
+The Mojo value is 7506
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_exhaustive_b.rsf) = 7328
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.5_exhaustive_a.rsf) = 9012
+The Mojo value is 7328
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_hillclimbing_b.rsf) = 7616
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_hillclimbing_a.rsf) = 8848
+The Mojo value is 7616
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_ga_b.rsf) = 8062
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_ga_a.rsf) = 8788
+The Mojo value is 8062
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_exhaustive_b.rsf) = 7638
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.4_exhaustive_a.rsf) = 8709
+The Mojo value is 7638
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_hillclimbing_b.rsf) = 7446
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_hillclimbing_a.rsf) = 8843
+The Mojo value is 7446
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_ga_b.rsf) = 7765
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_ga_a.rsf) = 8732
+The Mojo value is 7765
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_exhaustive_b.rsf) = 7448
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.3_exhaustive_a.rsf) = 8742
+The Mojo value is 7448
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_hillclimbing_b.rsf) = 6361
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_hillclimbing_a.rsf) = 8934
+The Mojo value is 6361
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_ga_b.rsf) = 7395
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_ga_a.rsf) = 8770
+The Mojo value is 7395
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_exhaustive_b.rsf) = 5497
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.2_exhaustive_a.rsf) = 8936
+The Mojo value is 5497
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_hillclimbing_b.rsf) = 8288
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_hillclimbing_a.rsf) = 9141
+The Mojo value is 8288
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_ga_b.rsf) = 8224
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_ga_a.rsf) = 9128
+The Mojo value is 8224
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_exhaustive_b.rsf) = 6982
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.18_exhaustive_a.rsf) = 9174
+The Mojo value is 6982
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_hillclimbing_b.rsf) = 7969
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_hillclimbing_a.rsf) = 9063
+The Mojo value is 7969
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_ga_b.rsf) = 7751
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_ga_a.rsf) = 8966
+The Mojo value is 7751
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_exhaustive_b.rsf) = 8407
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hibernate-hibernate-orm/hibernate-hibernate-orm_5.4.17_exhaustive_a.rsf) = 8762
+The Mojo value is 8407

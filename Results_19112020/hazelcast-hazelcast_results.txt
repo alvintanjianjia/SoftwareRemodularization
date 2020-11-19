@@ -1,0 +1,1050 @@
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_complete_b.rsf) = 3204
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_complete_a.rsf) = 4103
+The Mojo value is 3204
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_average_b.rsf) = 4534
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_average_a.rsf) = 4116
+The Mojo value is 4116
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_single_b.rsf) = 1258
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_euclidean_single_a.rsf) = 4062
+The Mojo value is 1258
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_complete_b.rsf) = 3125
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_complete_a.rsf) = 4079
+The Mojo value is 3125
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_average_b.rsf) = 1470
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_average_a.rsf) = 4067
+The Mojo value is 1470
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_single_b.rsf) = 1293
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l1_single_a.rsf) = 4060
+The Mojo value is 1293
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_complete_b.rsf) = 3204
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_complete_a.rsf) = 4103
+The Mojo value is 3204
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_average_b.rsf) = 4534
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_average_a.rsf) = 4116
+The Mojo value is 4116
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_single_b.rsf) = 1258
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_l2_single_a.rsf) = 4062
+The Mojo value is 1258
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_complete_b.rsf) = 3125
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_complete_a.rsf) = 4079
+The Mojo value is 3125
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_average_b.rsf) = 1470
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_average_a.rsf) = 4067
+The Mojo value is 1470
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_single_b.rsf) = 1293
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_manhattan_single_a.rsf) = 4060
+The Mojo value is 1293
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_complete_b.rsf) = 4539
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_complete_a.rsf) = 4080
+The Mojo value is 4080
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_average_b.rsf) = 4502
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_average_a.rsf) = 4094
+The Mojo value is 4094
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_single_b.rsf) = 1255
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_5_cosine_single_a.rsf) = 4065
+The Mojo value is 1255
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_complete_b.rsf) = 2756
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_complete_a.rsf) = 4056
+The Mojo value is 2756
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_average_b.rsf) = 4515
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_average_a.rsf) = 4093
+The Mojo value is 4093
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_single_b.rsf) = 1042
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_euclidean_single_a.rsf) = 4031
+The Mojo value is 1042
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_complete_b.rsf) = 2157
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_complete_a.rsf) = 4047
+The Mojo value is 2157
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_average_b.rsf) = 1154
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_average_a.rsf) = 4037
+The Mojo value is 1154
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_single_b.rsf) = 1033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l1_single_a.rsf) = 4033
+The Mojo value is 1033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_complete_b.rsf) = 2756
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_complete_a.rsf) = 4056
+The Mojo value is 2756
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_average_b.rsf) = 4515
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_average_a.rsf) = 4093
+The Mojo value is 4093
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_single_b.rsf) = 1042
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_l2_single_a.rsf) = 4031
+The Mojo value is 1042
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_complete_b.rsf) = 2157
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_complete_a.rsf) = 4047
+The Mojo value is 2157
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_average_b.rsf) = 1154
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_average_a.rsf) = 4037
+The Mojo value is 1154
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_single_b.rsf) = 1033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_manhattan_single_a.rsf) = 4033
+The Mojo value is 1033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_complete_b.rsf) = 4454
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_complete_a.rsf) = 4069
+The Mojo value is 4069
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_average_b.rsf) = 4457
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_average_a.rsf) = 4071
+The Mojo value is 4071
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_single_b.rsf) = 1019
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_7_cosine_single_a.rsf) = 4038
+The Mojo value is 1019
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_complete_b.rsf) = 2460
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_complete_a.rsf) = 4030
+The Mojo value is 2460
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_average_b.rsf) = 4503
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_average_a.rsf) = 4070
+The Mojo value is 4070
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_single_b.rsf) = 848
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_euclidean_single_a.rsf) = 4012
+The Mojo value is 848
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_complete_b.rsf) = 1453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_complete_a.rsf) = 4019
+The Mojo value is 1453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_average_b.rsf) = 911
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_average_a.rsf) = 4013
+The Mojo value is 911
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_single_b.rsf) = 838
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l1_single_a.rsf) = 4017
+The Mojo value is 838
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_complete_b.rsf) = 2460
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_complete_a.rsf) = 4030
+The Mojo value is 2460
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_average_b.rsf) = 4503
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_average_a.rsf) = 4070
+The Mojo value is 4070
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_single_b.rsf) = 848
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_l2_single_a.rsf) = 4012
+The Mojo value is 848
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_complete_b.rsf) = 1453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_complete_a.rsf) = 4019
+The Mojo value is 1453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_average_b.rsf) = 911
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_average_a.rsf) = 4013
+The Mojo value is 911
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_single_b.rsf) = 838
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_manhattan_single_a.rsf) = 4017
+The Mojo value is 838
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_complete_b.rsf) = 3830
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_complete_a.rsf) = 4053
+The Mojo value is 3830
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_average_b.rsf) = 4341
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_average_a.rsf) = 4044
+The Mojo value is 4044
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_single_b.rsf) = 841
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_10_cosine_single_a.rsf) = 4025
+The Mojo value is 841
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_complete_b.rsf) = 1642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_complete_a.rsf) = 4014
+The Mojo value is 1642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_average_b.rsf) = 4462
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_average_a.rsf) = 4070
+The Mojo value is 4070
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_single_b.rsf) = 677
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_euclidean_single_a.rsf) = 4014
+The Mojo value is 677
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_complete_b.rsf) = 1156
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_complete_a.rsf) = 4012
+The Mojo value is 1156
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_average_b.rsf) = 731
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_average_a.rsf) = 4014
+The Mojo value is 731
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_single_b.rsf) = 698
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l1_single_a.rsf) = 4020
+The Mojo value is 698
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_complete_b.rsf) = 1642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_complete_a.rsf) = 4014
+The Mojo value is 1642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_average_b.rsf) = 4462
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_average_a.rsf) = 4070
+The Mojo value is 4070
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_single_b.rsf) = 677
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_l2_single_a.rsf) = 4014
+The Mojo value is 677
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_complete_b.rsf) = 1156
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_complete_a.rsf) = 4012
+The Mojo value is 1156
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_average_b.rsf) = 731
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_average_a.rsf) = 4014
+The Mojo value is 731
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_single_b.rsf) = 698
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_manhattan_single_a.rsf) = 4020
+The Mojo value is 698
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_complete_b.rsf) = 3098
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_complete_a.rsf) = 4028
+The Mojo value is 3098
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_average_b.rsf) = 4236
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_average_a.rsf) = 4018
+The Mojo value is 4018
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_single_b.rsf) = 692
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_15_cosine_single_a.rsf) = 4016
+The Mojo value is 692
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_complete_b.rsf) = 1343
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_complete_a.rsf) = 4003
+The Mojo value is 1343
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_average_b.rsf) = 3807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_average_a.rsf) = 4056
+The Mojo value is 3807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_single_b.rsf) = 618
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_euclidean_single_a.rsf) = 4010
+The Mojo value is 618
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_complete_b.rsf) = 1046
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_complete_a.rsf) = 4013
+The Mojo value is 1046
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_average_b.rsf) = 642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_average_a.rsf) = 4026
+The Mojo value is 642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_single_b.rsf) = 625
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l1_single_a.rsf) = 4021
+The Mojo value is 625
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_complete_b.rsf) = 1343
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_complete_a.rsf) = 4003
+The Mojo value is 1343
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_average_b.rsf) = 3807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_average_a.rsf) = 4056
+The Mojo value is 3807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_single_b.rsf) = 618
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_l2_single_a.rsf) = 4010
+The Mojo value is 618
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_complete_b.rsf) = 1046
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_complete_a.rsf) = 4013
+The Mojo value is 1046
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_average_b.rsf) = 642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_average_a.rsf) = 4026
+The Mojo value is 642
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_single_b.rsf) = 625
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_manhattan_single_a.rsf) = 4021
+The Mojo value is 625
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_complete_b.rsf) = 2620
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_complete_a.rsf) = 4031
+The Mojo value is 2620
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_average_b.rsf) = 4147
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_average_a.rsf) = 4015
+The Mojo value is 4015
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_single_b.rsf) = 611
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_20_cosine_single_a.rsf) = 4018
+The Mojo value is 611
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_complete_b.rsf) = 1133
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_complete_a.rsf) = 3998
+The Mojo value is 1133
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_average_b.rsf) = 2966
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_average_a.rsf) = 4045
+The Mojo value is 2966
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_single_b.rsf) = 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_euclidean_single_a.rsf) = 4009
+The Mojo value is 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_complete_b.rsf) = 1002
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_complete_a.rsf) = 4015
+The Mojo value is 1002
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_average_b.rsf) = 598
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_average_a.rsf) = 4026
+The Mojo value is 598
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_single_b.rsf) = 580
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l1_single_a.rsf) = 4025
+The Mojo value is 580
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_complete_b.rsf) = 1133
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_complete_a.rsf) = 3998
+The Mojo value is 1133
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_average_b.rsf) = 2966
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_average_a.rsf) = 4045
+The Mojo value is 2966
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_single_b.rsf) = 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_l2_single_a.rsf) = 4009
+The Mojo value is 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_complete_b.rsf) = 1002
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_complete_a.rsf) = 4015
+The Mojo value is 1002
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_average_b.rsf) = 598
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_average_a.rsf) = 4026
+The Mojo value is 598
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_single_b.rsf) = 580
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_manhattan_single_a.rsf) = 4025
+The Mojo value is 580
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_complete_b.rsf) = 2351
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_complete_a.rsf) = 4030
+The Mojo value is 2351
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_average_b.rsf) = 4095
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_average_a.rsf) = 4030
+The Mojo value is 4030
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_single_b.rsf) = 571
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_25_cosine_single_a.rsf) = 4024
+The Mojo value is 571
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_complete_b.rsf) = 3160
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_complete_a.rsf) = 4125
+The Mojo value is 3160
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_average_b.rsf) = 4531
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_average_a.rsf) = 4082
+The Mojo value is 4082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_single_b.rsf) = 1285
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_euclidean_single_a.rsf) = 4054
+The Mojo value is 1285
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_complete_b.rsf) = 2915
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_complete_a.rsf) = 4074
+The Mojo value is 2915
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_average_b.rsf) = 1477
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_average_a.rsf) = 4052
+The Mojo value is 1477
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_single_b.rsf) = 1287
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l1_single_a.rsf) = 4061
+The Mojo value is 1287
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_complete_b.rsf) = 3160
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_complete_a.rsf) = 4125
+The Mojo value is 3160
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_average_b.rsf) = 4531
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_average_a.rsf) = 4082
+The Mojo value is 4082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_single_b.rsf) = 1285
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_l2_single_a.rsf) = 4054
+The Mojo value is 1285
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_complete_b.rsf) = 2915
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_complete_a.rsf) = 4074
+The Mojo value is 2915
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_average_b.rsf) = 1477
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_average_a.rsf) = 4052
+The Mojo value is 1477
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_single_b.rsf) = 1287
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_manhattan_single_a.rsf) = 4061
+The Mojo value is 1287
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_complete_b.rsf) = 4543
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_complete_a.rsf) = 4086
+The Mojo value is 4086
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_average_b.rsf) = 4498
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_average_a.rsf) = 4076
+The Mojo value is 4076
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_single_b.rsf) = 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_5_cosine_single_a.rsf) = 4073
+The Mojo value is 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_complete_b.rsf) = 2754
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_complete_a.rsf) = 4079
+The Mojo value is 2754
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_average_b.rsf) = 4522
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_average_a.rsf) = 4045
+The Mojo value is 4045
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_single_b.rsf) = 1048
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_euclidean_single_a.rsf) = 4024
+The Mojo value is 1048
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_complete_b.rsf) = 2220
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_complete_a.rsf) = 4038
+The Mojo value is 2220
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_average_b.rsf) = 1149
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_average_a.rsf) = 4036
+The Mojo value is 1149
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_single_b.rsf) = 1018
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l1_single_a.rsf) = 4042
+The Mojo value is 1018
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_complete_b.rsf) = 2754
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_complete_a.rsf) = 4079
+The Mojo value is 2754
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_average_b.rsf) = 4522
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_average_a.rsf) = 4045
+The Mojo value is 4045
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_single_b.rsf) = 1048
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_l2_single_a.rsf) = 4024
+The Mojo value is 1048
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_complete_b.rsf) = 2220
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_complete_a.rsf) = 4038
+The Mojo value is 2220
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_average_b.rsf) = 1149
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_average_a.rsf) = 4036
+The Mojo value is 1149
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_single_b.rsf) = 1018
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_manhattan_single_a.rsf) = 4042
+The Mojo value is 1018
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_complete_b.rsf) = 4432
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_complete_a.rsf) = 4070
+The Mojo value is 4070
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_average_b.rsf) = 4452
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_average_a.rsf) = 4033
+The Mojo value is 4033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_single_b.rsf) = 1024
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_7_cosine_single_a.rsf) = 4041
+The Mojo value is 1024
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_complete_b.rsf) = 2110
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_complete_a.rsf) = 4039
+The Mojo value is 2110
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_average_b.rsf) = 4517
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_average_a.rsf) = 4039
+The Mojo value is 4039
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_single_b.rsf) = 855
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_euclidean_single_a.rsf) = 4002
+The Mojo value is 855
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_complete_b.rsf) = 1502
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_complete_a.rsf) = 4014
+The Mojo value is 1502
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_average_b.rsf) = 895
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_average_a.rsf) = 4025
+The Mojo value is 895
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_single_b.rsf) = 823
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l1_single_a.rsf) = 4017
+The Mojo value is 823
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_complete_b.rsf) = 2110
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_complete_a.rsf) = 4039
+The Mojo value is 2110
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_average_b.rsf) = 4517
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_average_a.rsf) = 4039
+The Mojo value is 4039
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_single_b.rsf) = 855
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_l2_single_a.rsf) = 4002
+The Mojo value is 855
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_complete_b.rsf) = 1502
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_complete_a.rsf) = 4014
+The Mojo value is 1502
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_average_b.rsf) = 895
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_average_a.rsf) = 4025
+The Mojo value is 895
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_single_b.rsf) = 823
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_manhattan_single_a.rsf) = 4017
+The Mojo value is 823
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_complete_b.rsf) = 3836
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_complete_a.rsf) = 4034
+The Mojo value is 3836
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_average_b.rsf) = 4319
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_average_a.rsf) = 4029
+The Mojo value is 4029
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_single_b.rsf) = 844
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_10_cosine_single_a.rsf) = 4018
+The Mojo value is 844
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_complete_b.rsf) = 1561
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_complete_a.rsf) = 4019
+The Mojo value is 1561
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_average_b.rsf) = 4475
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_average_a.rsf) = 4033
+The Mojo value is 4033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_single_b.rsf) = 689
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_euclidean_single_a.rsf) = 4009
+The Mojo value is 689
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_complete_b.rsf) = 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_complete_a.rsf) = 4006
+The Mojo value is 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_average_b.rsf) = 717
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_average_a.rsf) = 4010
+The Mojo value is 717
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_single_b.rsf) = 682
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l1_single_a.rsf) = 4015
+The Mojo value is 682
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_complete_b.rsf) = 1561
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_complete_a.rsf) = 4019
+The Mojo value is 1561
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_average_b.rsf) = 4475
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_average_a.rsf) = 4033
+The Mojo value is 4033
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_single_b.rsf) = 689
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_l2_single_a.rsf) = 4009
+The Mojo value is 689
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_complete_b.rsf) = 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_complete_a.rsf) = 4006
+The Mojo value is 1265
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_average_b.rsf) = 717
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_average_a.rsf) = 4010
+The Mojo value is 717
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_single_b.rsf) = 682
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_manhattan_single_a.rsf) = 4015
+The Mojo value is 682
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_complete_b.rsf) = 3102
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_complete_a.rsf) = 4016
+The Mojo value is 3102
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_average_b.rsf) = 4214
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_average_a.rsf) = 4029
+The Mojo value is 4029
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_single_b.rsf) = 706
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_15_cosine_single_a.rsf) = 4008
+The Mojo value is 706
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_complete_b.rsf) = 1286
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_complete_a.rsf) = 4010
+The Mojo value is 1286
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_average_b.rsf) = 3784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_average_a.rsf) = 4039
+The Mojo value is 3784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_single_b.rsf) = 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_euclidean_single_a.rsf) = 4019
+The Mojo value is 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_complete_b.rsf) = 1117
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_complete_a.rsf) = 4004
+The Mojo value is 1117
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_average_b.rsf) = 635
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_average_a.rsf) = 4019
+The Mojo value is 635
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_single_b.rsf) = 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l1_single_a.rsf) = 4023
+The Mojo value is 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_complete_b.rsf) = 1286
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_complete_a.rsf) = 4010
+The Mojo value is 1286
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_average_b.rsf) = 3784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_average_a.rsf) = 4039
+The Mojo value is 3784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_single_b.rsf) = 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_l2_single_a.rsf) = 4019
+The Mojo value is 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_complete_b.rsf) = 1117
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_complete_a.rsf) = 4004
+The Mojo value is 1117
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_average_b.rsf) = 635
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_average_a.rsf) = 4019
+The Mojo value is 635
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_single_b.rsf) = 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_manhattan_single_a.rsf) = 4023
+The Mojo value is 617
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_complete_b.rsf) = 2614
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_complete_a.rsf) = 4017
+The Mojo value is 2614
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_average_b.rsf) = 4155
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_average_a.rsf) = 4028
+The Mojo value is 4028
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_single_b.rsf) = 622
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_20_cosine_single_a.rsf) = 4011
+The Mojo value is 622
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_complete_b.rsf) = 1122
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_complete_a.rsf) = 4016
+The Mojo value is 1122
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_average_b.rsf) = 2914
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_average_a.rsf) = 4030
+The Mojo value is 2914
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_single_b.rsf) = 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_euclidean_single_a.rsf) = 4013
+The Mojo value is 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_complete_b.rsf) = 1082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_complete_a.rsf) = 4010
+The Mojo value is 1082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_average_b.rsf) = 595
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_average_a.rsf) = 4019
+The Mojo value is 595
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_single_b.rsf) = 576
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l1_single_a.rsf) = 4027
+The Mojo value is 576
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_complete_b.rsf) = 1122
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_complete_a.rsf) = 4016
+The Mojo value is 1122
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_average_b.rsf) = 2914
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_average_a.rsf) = 4030
+The Mojo value is 2914
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_single_b.rsf) = 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_l2_single_a.rsf) = 4013
+The Mojo value is 574
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_complete_b.rsf) = 1082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_complete_a.rsf) = 4010
+The Mojo value is 1082
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_average_b.rsf) = 595
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_average_a.rsf) = 4019
+The Mojo value is 595
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_single_b.rsf) = 576
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_manhattan_single_a.rsf) = 4027
+The Mojo value is 576
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_complete_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_complete_b.rsf) = 2364
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_complete_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_complete_a.rsf) = 4015
+The Mojo value is 2364
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_average_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_average_b.rsf) = 4083
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_average_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_average_a.rsf) = 4026
+The Mojo value is 4026
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_single_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_single_b.rsf) = 579
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_single_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_25_cosine_single_a.rsf) = 4012
+The Mojo value is 579
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_hillclimbing_b.rsf) = 4360
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_hillclimbing_a.rsf) = 4607
+The Mojo value is 4360
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_ga_b.rsf) = 4455
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_ga_a.rsf) = 4684
+The Mojo value is 4455
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_exhaustive_b.rsf) = 4455
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-c1_exhaustive_a.rsf) = 4652
+The Mojo value is 4455
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_hillclimbing_b.rsf) = 4728
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_hillclimbing_a.rsf) = 4720
+The Mojo value is 4720
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_ga_b.rsf) = 3981
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_ga_a.rsf) = 4595
+The Mojo value is 3981
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_exhaustive_b.rsf) = 4359
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt2_exhaustive_a.rsf) = 4683
+The Mojo value is 4359
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_hillclimbing_b.rsf) = 4363
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_hillclimbing_a.rsf) = 4624
+The Mojo value is 4363
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_ga_b.rsf) = 4498
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_ga_a.rsf) = 4582
+The Mojo value is 4498
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_exhaustive_b.rsf) = 3517
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4-atnt_exhaustive_a.rsf) = 4720
+The Mojo value is 3517
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_hillclimbing_b.rsf) = 4145
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_hillclimbing_a.rsf) = 4636
+The Mojo value is 4145
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_ga_b.rsf) = 4361
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_ga_a.rsf) = 4392
+The Mojo value is 4361
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_exhaustive_b.rsf) = 3789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.4_exhaustive_a.rsf) = 4716
+The Mojo value is 3789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_hillclimbing_b.rsf) = 4570
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_hillclimbing_a.rsf) = 4726
+The Mojo value is 4570
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_ga_b.rsf) = 4254
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_ga_a.rsf) = 4553
+The Mojo value is 4254
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_exhaustive_b.rsf) = 2816
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.3_exhaustive_a.rsf) = 4729
+The Mojo value is 2816
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_hillclimbing_b.rsf) = 4248
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_hillclimbing_a.rsf) = 4393
+The Mojo value is 4248
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_ga_b.rsf) = 4380
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_ga_a.rsf) = 4497
+The Mojo value is 4380
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_exhaustive_b.rsf) = 4640
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.2_exhaustive_a.rsf) = 4657
+The Mojo value is 4640
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_hillclimbing_b.rsf) = 4393
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_hillclimbing_a.rsf) = 4543
+The Mojo value is 4393
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_ga_b.rsf) = 3328
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_ga_a.rsf) = 4645
+The Mojo value is 3328
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_exhaustive_b.rsf) = 4301
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9.1_exhaustive_a.rsf) = 4511
+The Mojo value is 4301
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_hillclimbing_b.rsf) = 3890
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_hillclimbing_a.rsf) = 4516
+The Mojo value is 3890
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_ga_b.rsf) = 4137
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_ga_a.rsf) = 4487
+The Mojo value is 4137
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_exhaustive_b.rsf) = 4063
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9-EA_exhaustive_a.rsf) = 4097
+The Mojo value is 4063
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_hillclimbing_b.rsf) = 4566
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_hillclimbing_a.rsf) = 4688
+The Mojo value is 4566
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_ga_b.rsf) = 4365
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_ga_a.rsf) = 4500
+The Mojo value is 4365
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_exhaustive_b.rsf) = 4554
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.9_exhaustive_a.rsf) = 4620
+The Mojo value is 4554
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_hillclimbing_b.rsf) = 4158
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_hillclimbing_a.rsf) = 4224
+The Mojo value is 4158
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_ga_b.rsf) = 3678
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_ga_a.rsf) = 4316
+The Mojo value is 3678
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_exhaustive_b.rsf) = 4290
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/hazelcast-hazelcast/hazelcast-hazelcast_v3.8.9_exhaustive_a.rsf) = 4225
+The Mojo value is 4225

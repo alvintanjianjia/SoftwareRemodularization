@@ -20,6 +20,7 @@ flyway,314
 google-cdep,188
 google-dagger,1052
 google-error-prone,1486
+google-exoplayer,0
 google-gitiles,125
 google-openrtb-doubleclick,42
 google-openrtb,44
@@ -31,6 +32,7 @@ immutables-immutables,712
 ionic-team-capacitor,82
 iSoron-uhabits,337
 jankotek-mapdb,154
+java-native-accessjna,123
 javafunk-funk,268
 javaparser-javaparser,1371
 jboss-switchyard-release,167

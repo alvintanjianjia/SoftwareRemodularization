@@ -1,0 +1,375 @@
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincrw_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincrw_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_basicmq_b.rsf) = 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_basicmq_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincr_b.rsf) = 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqincr_a.rsf) = 799
+The Mojo value is 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomq_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomq_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqw_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_hillclimbing_turbomqw_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincrw_b.rsf) = 791
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincrw_a.rsf) = 791
+The Mojo value is 791
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_basicmq_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_basicmq_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincr_b.rsf) = 790
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqincr_a.rsf) = 790
+The Mojo value is 790
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomq_b.rsf) = 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomq_a.rsf) = 804
+The Mojo value is 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqw_b.rsf) = 773
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_exhaustive_turbomqw_a.rsf) = 773
+The Mojo value is 773
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincrw_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincrw_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_basicmq_b.rsf) = 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_basicmq_a.rsf) = 801
+The Mojo value is 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincr_b.rsf) = 788
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqincr_a.rsf) = 788
+The Mojo value is 788
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomq_b.rsf) = 805
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomq_a.rsf) = 805
+The Mojo value is 805
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqw_b.rsf) = 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.6_ga_turbomqw_a.rsf) = 796
+The Mojo value is 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincrw_b.rsf) = 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincrw_a.rsf) = 804
+The Mojo value is 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_basicmq_b.rsf) = 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_basicmq_a.rsf) = 799
+The Mojo value is 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincr_b.rsf) = 809
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqincr_a.rsf) = 809
+The Mojo value is 809
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomq_b.rsf) = 790
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomq_a.rsf) = 790
+The Mojo value is 790
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqw_b.rsf) = 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_hillclimbing_turbomqw_a.rsf) = 799
+The Mojo value is 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincrw_b.rsf) = 806
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincrw_a.rsf) = 806
+The Mojo value is 806
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_basicmq_b.rsf) = 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_basicmq_a.rsf) = 792
+The Mojo value is 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincr_b.rsf) = 769
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqincr_a.rsf) = 769
+The Mojo value is 769
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomq_b.rsf) = 773
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomq_a.rsf) = 773
+The Mojo value is 773
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqw_b.rsf) = 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_exhaustive_turbomqw_a.rsf) = 794
+The Mojo value is 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincrw_b.rsf) = 793
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincrw_a.rsf) = 793
+The Mojo value is 793
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_basicmq_b.rsf) = 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_basicmq_a.rsf) = 804
+The Mojo value is 804
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincr_b.rsf) = 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqincr_a.rsf) = 801
+The Mojo value is 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomq_b.rsf) = 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomq_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqw_b.rsf) = 779
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.5_ga_turbomqw_a.rsf) = 779
+The Mojo value is 779
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincrw_b.rsf) = 775
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincrw_a.rsf) = 775
+The Mojo value is 775
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_basicmq_b.rsf) = 807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_basicmq_a.rsf) = 807
+The Mojo value is 807
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincr_b.rsf) = 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqincr_a.rsf) = 801
+The Mojo value is 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomq_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomq_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqw_b.rsf) = 793
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_hillclimbing_turbomqw_a.rsf) = 793
+The Mojo value is 793
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincrw_b.rsf) = 771
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincrw_a.rsf) = 771
+The Mojo value is 771
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_basicmq_b.rsf) = 788
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_basicmq_a.rsf) = 788
+The Mojo value is 788
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincr_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqincr_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomq_b.rsf) = 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomq_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqw_b.rsf) = 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_exhaustive_turbomqw_a.rsf) = 792
+The Mojo value is 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincrw_b.rsf) = 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincrw_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_basicmq_b.rsf) = 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_basicmq_a.rsf) = 796
+The Mojo value is 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincr_b.rsf) = 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqincr_a.rsf) = 794
+The Mojo value is 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomq_b.rsf) = 789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomq_a.rsf) = 789
+The Mojo value is 789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqw_b.rsf) = 781
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.4_ga_turbomqw_a.rsf) = 781
+The Mojo value is 781
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincrw_b.rsf) = 805
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincrw_a.rsf) = 805
+The Mojo value is 805
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_basicmq_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_basicmq_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincr_b.rsf) = 797
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqincr_a.rsf) = 797
+The Mojo value is 797
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomq_b.rsf) = 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomq_a.rsf) = 799
+The Mojo value is 799
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqw_b.rsf) = 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_hillclimbing_turbomqw_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincrw_b.rsf) = 782
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincrw_a.rsf) = 782
+The Mojo value is 782
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_basicmq_b.rsf) = 789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_basicmq_a.rsf) = 789
+The Mojo value is 789
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincr_b.rsf) = 798
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqincr_a.rsf) = 798
+The Mojo value is 798
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomq_b.rsf) = 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomq_a.rsf) = 802
+The Mojo value is 802
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqw_b.rsf) = 743
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_exhaustive_turbomqw_a.rsf) = 743
+The Mojo value is 743
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincrw_b.rsf) = 784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincrw_a.rsf) = 784
+The Mojo value is 784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_basicmq_b.rsf) = 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_basicmq_a.rsf) = 794
+The Mojo value is 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincr_b.rsf) = 768
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqincr_a.rsf) = 768
+The Mojo value is 768
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomq_b.rsf) = 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomq_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqw_b.rsf) = 791
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.3_ga_turbomqw_a.rsf) = 791
+The Mojo value is 791
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincrw_b.rsf) = 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincrw_a.rsf) = 794
+The Mojo value is 794
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_basicmq_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_basicmq_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincr_b.rsf) = 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqincr_a.rsf) = 796
+The Mojo value is 796
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomq_b.rsf) = 776
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomq_a.rsf) = 776
+The Mojo value is 776
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqw_b.rsf) = 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_hillclimbing_turbomqw_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincrw_b.rsf) = 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincrw_a.rsf) = 783
+The Mojo value is 783
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_basicmq_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_basicmq_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincr_b.rsf) = 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqincr_a.rsf) = 800
+The Mojo value is 800
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomq_b.rsf) = 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomq_a.rsf) = 795
+The Mojo value is 795
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqw_b.rsf) = 787
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_exhaustive_turbomqw_a.rsf) = 787
+The Mojo value is 787
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincrw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincrw_b.rsf) = 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincrw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincrw_a.rsf) = 792
+The Mojo value is 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_basicmq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_basicmq_b.rsf) = 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_basicmq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_basicmq_a.rsf) = 801
+The Mojo value is 801
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincr_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincr_b.rsf) = 782
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincr_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqincr_a.rsf) = 782
+The Mojo value is 782
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomq_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomq_b.rsf) = 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomq_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomq_a.rsf) = 792
+The Mojo value is 792
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqw_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqw_b.rsf) = 784
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqw_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/google-exoplayer/google-exoplayer_r2.9.2_ga_turbomqw_a.rsf) = 784
+The Mojo value is 784

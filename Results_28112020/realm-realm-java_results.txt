@@ -1,0 +1,150 @@
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_hillclimbing_b.rsf) = 393
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_hillclimbing_a.rsf) = 468
+The Mojo value is 393
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_ga_b.rsf) = 435
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_ga_a.rsf) = 495
+The Mojo value is 435
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_exhaustive_b.rsf) = 347
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.1_exhaustive_a.rsf) = 471
+The Mojo value is 347
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_hillclimbing_b.rsf) = 449
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_hillclimbing_a.rsf) = 422
+The Mojo value is 422
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_ga_b.rsf) = 477
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_ga_a.rsf) = 435
+The Mojo value is 435
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_exhaustive_b.rsf) = 423
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.9.0_exhaustive_a.rsf) = 450
+The Mojo value is 423
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_hillclimbing_b.rsf) = 414
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_hillclimbing_a.rsf) = 462
+The Mojo value is 414
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_ga_b.rsf) = 456
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_ga_a.rsf) = 435
+The Mojo value is 435
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_exhaustive_b.rsf) = 331
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA2_exhaustive_a.rsf) = 454
+The Mojo value is 331
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_hillclimbing_b.rsf) = 440
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_hillclimbing_a.rsf) = 429
+The Mojo value is 429
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_ga_b.rsf) = 446
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_ga_a.rsf) = 466
+The Mojo value is 446
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_exhaustive_b.rsf) = 406
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0-BETA1_exhaustive_a.rsf) = 450
+The Mojo value is 406
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_hillclimbing_b.rsf) = 411
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_hillclimbing_a.rsf) = 454
+The Mojo value is 411
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_ga_b.rsf) = 426
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_ga_a.rsf) = 454
+The Mojo value is 426
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_exhaustive_b.rsf) = 440
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.8.0_exhaustive_a.rsf) = 442
+The Mojo value is 440
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_hillclimbing_b.rsf) = 353
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_hillclimbing_a.rsf) = 473
+The Mojo value is 353
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_ga_b.rsf) = 366
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_ga_a.rsf) = 456
+The Mojo value is 366
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_exhaustive_b.rsf) = 457
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.1_exhaustive_a.rsf) = 435
+The Mojo value is 435
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_hillclimbing_b.rsf) = 459
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_hillclimbing_a.rsf) = 430
+The Mojo value is 430
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_ga_b.rsf) = 422
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_ga_a.rsf) = 467
+The Mojo value is 422
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_exhaustive_b.rsf) = 405
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.7.0_exhaustive_a.rsf) = 455
+The Mojo value is 405
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_hillclimbing_b.rsf) = 441
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_hillclimbing_a.rsf) = 460
+The Mojo value is 441
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_ga_b.rsf) = 473
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_ga_a.rsf) = 462
+The Mojo value is 462
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_exhaustive_b.rsf) = 453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.6.0_exhaustive_a.rsf) = 466
+The Mojo value is 453
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_hillclimbing_b.rsf) = 411
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_hillclimbing_a.rsf) = 459
+The Mojo value is 411
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_ga_b.rsf) = 452
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_ga_a.rsf) = 447
+The Mojo value is 447
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_exhaustive_b.rsf) = 455
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.5.0_exhaustive_a.rsf) = 407
+The Mojo value is 407
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_hillclimbing_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_hillclimbing_b.rsf) = 373
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_hillclimbing_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_hillclimbing_a.rsf) = 393
+The Mojo value is 373
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_ga_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_ga_b.rsf) = 456
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_ga_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_ga_a.rsf) = 431
+The Mojo value is 431
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_exhaustive_a.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_exhaustive_b.rsf) = 450
+
+MoJo(C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_exhaustive_b.rsf,C:/Users/user/Desktop/SoftwareRemodularization/MoJo_1.2.1/realm-realm-java/realm-realm-java_v5.4.2_exhaustive_a.rsf) = 451
+The Mojo value is 450

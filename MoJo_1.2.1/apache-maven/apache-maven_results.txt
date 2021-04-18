@@ -1,0 +1,33 @@
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.2.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.1.txt) = 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.2.txt) = 0
+The Mojo value is 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.0.txt) = 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.0.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.6.1.txt) = 0
+The Mojo value is 0
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.4.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.3.txt) = 1
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.3.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.4.txt) = 1
+The Mojo value is 1
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.3.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.2.txt) = 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.2.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.3.txt) = 0
+The Mojo value is 0
+The total number of ojbects in source file does not equal the total number of objects in target file
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-beta-1.txt) = 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-beta-1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.1.txt) = 0
+The Mojo value is 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-beta-1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-alpha-1.txt) = 0
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-alpha-1.txt,C:/Users/tanji/Desktop/SoftwareRemodularization/groundtruth/apache-maven/apache-maven_maven-3.5.0-beta-1.txt) = 0
+The Mojo value is 0

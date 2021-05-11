@@ -1,0 +1,90 @@
+dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
+MoJo(temp_1.txt,temp_2.txt) = 26
+
+MoJo(temp_2.txt,temp_1.txt) = 26
+The Mojo value is 26
+dropwizard_v2.0.9,dropwizard_v2.0.8
+MoJo(temp_1.txt,temp_2.txt) = 5
+
+MoJo(temp_2.txt,temp_1.txt) = 5
+The Mojo value is 5
+dropwizard_v2.0.8,dropwizard_v2.0.7
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.7,dropwizard_v2.0.6
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.6,dropwizard_v2.0.5
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.5,dropwizard_v2.0.4
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.4,dropwizard_v2.0.3
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.3,dropwizard_v2.0.21
+MoJo(temp_1.txt,temp_2.txt) = 28
+
+MoJo(temp_2.txt,temp_1.txt) = 28
+The Mojo value is 28
+dropwizard_v2.0.21,dropwizard_v2.0.20
+MoJo(temp_1.txt,temp_2.txt) = 1
+
+MoJo(temp_2.txt,temp_1.txt) = 1
+The Mojo value is 1
+dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
+MoJo(temp_1.txt,temp_2.txt) = 26
+
+MoJo(temp_2.txt,temp_1.txt) = 26
+The Mojo value is 26
+dropwizard_v2.0.9,dropwizard_v2.0.8
+MoJo(temp_1.txt,temp_2.txt) = 5
+
+MoJo(temp_2.txt,temp_1.txt) = 5
+The Mojo value is 5
+dropwizard_v2.0.8,dropwizard_v2.0.7
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.7,dropwizard_v2.0.6
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.6,dropwizard_v2.0.5
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.5,dropwizard_v2.0.4
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.4,dropwizard_v2.0.3
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+dropwizard_v2.0.3,dropwizard_v2.0.21
+MoJo(temp_1.txt,temp_2.txt) = 28
+
+MoJo(temp_2.txt,temp_1.txt) = 28
+The Mojo value is 28
+dropwizard_v2.0.21,dropwizard_v2.0.20
+MoJo(temp_1.txt,temp_2.txt) = 1
+
+MoJo(temp_2.txt,temp_1.txt) = 1
+The Mojo value is 1

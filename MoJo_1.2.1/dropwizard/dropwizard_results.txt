@@ -1,323 +1,71 @@
 dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9[('jetty', 'Jetty93InstrumentedConnectionFactory.java'), ('jetty', 'ZipExceptionHandlingInputStreamTest.java'), ('ssl', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('junit5', 'AbstractDropwizardAppExtensionTest.java'), ('junit5', 'DropwizardAppExtensionWithConfiguredCommandTest.java'), ('testing', 'ConfigOverrideRandomPorts.java'), ('junit5', 'DropwizardAppExtensionWithCustomCommandTest.java'), ('errors', 'EofExceptionWriterInterceptorTest.java'), ('validation', 'ValidatedBean.java'), ('errors', 'EofExceptionWriterInterceptorJerseyTest.java'), ('junit5', 'LogbackExcludedTest.java'), ('auth', 'DefaultAuthorizationContext.java'), ('client', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('errors', 'EofExceptionWriterInterceptor.java'), ('hibernate', 'TransactionHandlingTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamExceptionTest.java'), ('configuration', 'Issue3796Test.java'), ('junit5', 'DropwizardAppExtensionRegisterExtensionTest.java'), ('logging', 'TestPatternLayoutFactory.java'), ('optional', 'OptionalBeanParamResourceTest.java'), ('configuration', 'ConfigurationMetadata.java'), ('configuration', 'ConfigurationMetadataTest.java'), ('validation', 'BeanValidatorTest.java'), ('junit5', 'DropwizardAppExtensionRandomPortsConfigOverrideTest.java'), ('testing', 'ConfigOverrideValue.java'), ('jetty', 'ZipExceptionHandlingInputStreamDelegateTest.java'), ('junit5', 'DropwizardAppExtensionWithCheckCommandTest.java')]
-MoJo(temp_1.txt,temp_2.txt) = 26
-
-MoJo(temp_2.txt,temp_1.txt) = 26
-The Mojo value is 26
-dropwizard_v2.0.9,dropwizard_v2.0.8[('helloworld', 'DockerIntegrationTest.java'), ('db', 'PersonDAOIntegrationTest.java'), ('junit5', 'ResourceExtensionRandomPortsTest.java'), ('junit5', 'ResourceExtensionMocksTest.java'), ('junit5', 'ResourceExtensionWithJettyTest.java')]
-MoJo(temp_1.txt,temp_2.txt) = 5
-
-MoJo(temp_2.txt,temp_1.txt) = 5
-The Mojo value is 5
-dropwizard_v2.0.8,dropwizard_v2.0.7[]
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.7,dropwizard_v2.0.6[]
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.6,dropwizard_v2.0.5[]
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.5,dropwizard_v2.0.4[]
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.4,dropwizard_v2.0.3[]
-MoJo(temp_1.txt,temp_2.txt) = 0
-
-MoJo(temp_2.txt,temp_1.txt) = 0
-The Mojo value is 0
-dropwizard_v2.0.3,dropwizard_v2.0.21[('junit5', 'AbstractDropwizardAppExtensionTest.java'), ('helloworld', 'DockerIntegrationTest.java'), ('junit5', 'DropwizardAppExtensionWithConfiguredCommandTest.java'), ('testing', 'ConfigOverrideRandomPorts.java'), ('junit5', 'DropwizardAppExtensionWithCustomCommandTest.java'), ('errors', 'EofExceptionWriterInterceptorTest.java'), ('validation', 'ValidatedBean.java'), ('errors', 'EofExceptionWriterInterceptorJerseyTest.java'), ('junit5', 'LogbackExcludedTest.java'), ('client', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('errors', 'EofExceptionWriterInterceptor.java'), ('jetty', 'ZipExceptionHandlingInputStreamExceptionTest.java'), ('configuration', 'Issue3796Test.java'), ('junit5', 'DropwizardAppExtensionRegisterExtensionTest.java'), ('logging', 'TestPatternLayoutFactory.java'), ('optional', 'OptionalBeanParamResourceTest.java'), ('configuration', 'ConfigurationMetadata.java'), ('junit5', 'ResourceExtensionRandomPortsTest.java'), ('configuration', 'ConfigurationMetadataTest.java'), ('validation', 'BeanValidatorTest.java'), ('junit5', 'ResourceExtensionMocksTest.java'), ('junit5', 'DropwizardAppExtensionRandomPortsConfigOverrideTest.java'), ('testing', 'ConfigOverrideValue.java'), ('junit5', 'DropwizardAppExtensionWithCheckCommandTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamDelegateTest.java'), ('db', 'PersonDAOIntegrationTest.java'), ('junit5', 'ResourceExtensionWithJettyTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamTest.java'), ('ssl', 'DropwizardSSLConnectionSocketFactoryTest.java')]
-MoJo(temp_1.txt,temp_2.txt) = 28
-
-MoJo(temp_2.txt,temp_1.txt) = 28
-The Mojo value is 28
-dropwizard_v2.0.21,dropwizard_v2.0.20[('configuration', 'Issue3796Test.java')]
-MoJo(temp_1.txt,temp_2.txt) = 1
-
-MoJo(temp_2.txt,temp_1.txt) = 1
-The Mojo value is 1
-dropwizard_v2.1.0-beta.1,dropwizard_v2.0.9
 [('jetty', 'Jetty93InstrumentedConnectionFactory.java'), ('jetty', 'ZipExceptionHandlingInputStreamTest.java'), ('ssl', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('junit5', 'AbstractDropwizardAppExtensionTest.java'), ('junit5', 'DropwizardAppExtensionWithConfiguredCommandTest.java'), ('testing', 'ConfigOverrideRandomPorts.java'), ('junit5', 'DropwizardAppExtensionWithCustomCommandTest.java'), ('errors', 'EofExceptionWriterInterceptorTest.java'), ('validation', 'ValidatedBean.java'), ('errors', 'EofExceptionWriterInterceptorJerseyTest.java'), ('junit5', 'LogbackExcludedTest.java'), ('auth', 'DefaultAuthorizationContext.java'), ('client', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('errors', 'EofExceptionWriterInterceptor.java'), ('hibernate', 'TransactionHandlingTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamExceptionTest.java'), ('configuration', 'Issue3796Test.java'), ('junit5', 'DropwizardAppExtensionRegisterExtensionTest.java'), ('logging', 'TestPatternLayoutFactory.java'), ('optional', 'OptionalBeanParamResourceTest.java'), ('configuration', 'ConfigurationMetadata.java'), ('configuration', 'ConfigurationMetadataTest.java'), ('validation', 'BeanValidatorTest.java'), ('junit5', 'DropwizardAppExtensionRandomPortsConfigOverrideTest.java'), ('testing', 'ConfigOverrideValue.java'), ('jetty', 'ZipExceptionHandlingInputStreamDelegateTest.java'), ('junit5', 'DropwizardAppExtensionWithCheckCommandTest.java')]
+Hours taken:430.0
+
 MoJo(temp_1.txt,temp_2.txt) = 26
 
 MoJo(temp_2.txt,temp_1.txt) = 26
 The Mojo value is 26
 dropwizard_v2.0.9,dropwizard_v2.0.8
 [('helloworld', 'DockerIntegrationTest.java'), ('db', 'PersonDAOIntegrationTest.java'), ('junit5', 'ResourceExtensionRandomPortsTest.java'), ('junit5', 'ResourceExtensionMocksTest.java'), ('junit5', 'ResourceExtensionWithJettyTest.java')]
+Hours taken:457.0
+
 MoJo(temp_1.txt,temp_2.txt) = 5
 
 MoJo(temp_2.txt,temp_1.txt) = 5
 The Mojo value is 5
 dropwizard_v2.0.8,dropwizard_v2.0.7
 []
+Hours taken:107.0
+
 MoJo(temp_1.txt,temp_2.txt) = 0
 
 MoJo(temp_2.txt,temp_1.txt) = 0
 The Mojo value is 0
 dropwizard_v2.0.7,dropwizard_v2.0.6
 []
+Hours taken:136.0
+
 MoJo(temp_1.txt,temp_2.txt) = 0
 
 MoJo(temp_2.txt,temp_1.txt) = 0
 The Mojo value is 0
 dropwizard_v2.0.6,dropwizard_v2.0.5
 []
+Hours taken:157.0
+
 MoJo(temp_1.txt,temp_2.txt) = 0
 
 MoJo(temp_2.txt,temp_1.txt) = 0
 The Mojo value is 0
 dropwizard_v2.0.5,dropwizard_v2.0.4
 []
+Hours taken:32.0
+
 MoJo(temp_1.txt,temp_2.txt) = 0
 
 MoJo(temp_2.txt,temp_1.txt) = 0
 The Mojo value is 0
 dropwizard_v2.0.4,dropwizard_v2.0.3
 []
+Hours taken:21.0
+
 MoJo(temp_1.txt,temp_2.txt) = 0
 
 MoJo(temp_2.txt,temp_1.txt) = 0
 The Mojo value is 0
 dropwizard_v2.0.3,dropwizard_v2.0.21
 [('junit5', 'AbstractDropwizardAppExtensionTest.java'), ('helloworld', 'DockerIntegrationTest.java'), ('junit5', 'DropwizardAppExtensionWithConfiguredCommandTest.java'), ('testing', 'ConfigOverrideRandomPorts.java'), ('junit5', 'DropwizardAppExtensionWithCustomCommandTest.java'), ('errors', 'EofExceptionWriterInterceptorTest.java'), ('validation', 'ValidatedBean.java'), ('errors', 'EofExceptionWriterInterceptorJerseyTest.java'), ('junit5', 'LogbackExcludedTest.java'), ('client', 'DropwizardSSLConnectionSocketFactoryTest.java'), ('errors', 'EofExceptionWriterInterceptor.java'), ('jetty', 'ZipExceptionHandlingInputStreamExceptionTest.java'), ('configuration', 'Issue3796Test.java'), ('junit5', 'DropwizardAppExtensionRegisterExtensionTest.java'), ('logging', 'TestPatternLayoutFactory.java'), ('optional', 'OptionalBeanParamResourceTest.java'), ('configuration', 'ConfigurationMetadata.java'), ('junit5', 'ResourceExtensionRandomPortsTest.java'), ('configuration', 'ConfigurationMetadataTest.java'), ('validation', 'BeanValidatorTest.java'), ('junit5', 'ResourceExtensionMocksTest.java'), ('junit5', 'DropwizardAppExtensionRandomPortsConfigOverrideTest.java'), ('testing', 'ConfigOverrideValue.java'), ('junit5', 'DropwizardAppExtensionWithCheckCommandTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamDelegateTest.java'), ('db', 'PersonDAOIntegrationTest.java'), ('junit5', 'ResourceExtensionWithJettyTest.java'), ('jetty', 'ZipExceptionHandlingInputStreamTest.java'), ('ssl', 'DropwizardSSLConnectionSocketFactoryTest.java')]
+Hours taken:0.0
+
 MoJo(temp_1.txt,temp_2.txt) = 28
 
 MoJo(temp_2.txt,temp_1.txt) = 28
 The Mojo value is 28
 dropwizard_v2.0.21,dropwizard_v2.0.20
 [('configuration', 'Issue3796Test.java')]
+Hours taken:1012.0
+
 MoJo(temp_1.txt,temp_2.txt) = 1
 
 MoJo(temp_2.txt,temp_1.txt) = 1

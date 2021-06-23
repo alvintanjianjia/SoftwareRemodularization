@@ -1,0 +1,72 @@
+okhttp_parent-4.9.1,okhttp_parent-4.9.0
+[]
+Hours taken:2774.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.9.0,okhttp_parent-4.8.1
+[]
+Hours taken:871.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.8.1,okhttp_parent-4.8.0
+[]
+Hours taken:620.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.8.0,okhttp_parent-4.7.2
+[]
+Hours taken:1252.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.7.2,okhttp_parent-4.7.1
+[]
+Hours taken:39.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.7.1,okhttp_parent-4.7.0
+[]
+Hours taken:27.0
+
+MoJo(temp_1.txt,temp_2.txt) = 0
+
+MoJo(temp_2.txt,temp_1.txt) = 0
+The Mojo value is 0
+okhttp_parent-4.7.0,okhttp_parent-4.6.0
+[('tls', 'CertificatesJavaTest.java')]
+Hours taken:445.0
+
+MoJo(temp_1.txt,temp_2.txt) = 1
+
+MoJo(temp_2.txt,temp_1.txt) = 1
+The Mojo value is 1
+okhttp_parent-4.6.0,okhttp_parent-4.5.0
+[('okhttp3', 'FakeProxySelector.java'), ('okhttp3', 'UppercaseResponseInterceptor.java'), ('io', 'InMemoryFileSystem.java'), ('okhttp3', 'FakeDns.java'), ('okhttp3', 'RecordingCookieJar.java'), ('okhttp3', 'UppercaseRequestInterceptor.java'), ('okhttp3', 'ForwardingResponseBody.java'), ('okhttp3', 'TestUtil.java'), ('http', 'CancelTest.java'), ('cache', 'DiskLruCacheTest.java'), ('okhttp3', 'RecordingHostnameVerifier.java'), ('okhttp3', 'ForwardingRequestBody.java'), ('okhttp3', 'FakeSSLSession.java'), ('duplex', 'AsyncRequestBody.java')]
+Hours taken:541.0
+
+MoJo(temp_1.txt,temp_2.txt) = 12
+
+MoJo(temp_2.txt,temp_1.txt) = 12
+The Mojo value is 12
+okhttp_parent-4.5.0,okhttp_parent-4.10.0-RC1
+[('internal', 'Event.java'), ('internal', 'EventSourceRecorder.java'), ('internal', 'ServerSentEventIteratorTest.java'), ('osgi', 'OsgiTest.java'), ('tls', 'CertificatesJavaTest.java'), ('internal', 'EventSourceHttpTest.java'), ('okhttp3', 'FakeProxySelector.java'), ('okhttp3', 'UppercaseResponseInterceptor.java'), ('sse', 'ServerSentEventIteratorTest.java'), ('sse', 'Event.java'), ('io', 'InMemoryFileSystem.java'), ('okhttp3', 'FakeDns.java'), ('okhttp3', 'RecordingCookieJar.java'), ('sse', 'EventSourceRecorder.java'), ('okhttp3', 'UppercaseRequestInterceptor.java'), ('okhttp3', 'ForwardingResponseBody.java'), ('okhttp3', 'TestUtil.java'), ('http', 'CancelTest.java'), ('cache', 'DiskLruCacheTest.java'), ('okhttp3', 'RecordingHostnameVerifier.java'), ('okhttp3', 'ForwardingRequestBody.java'), ('sse', 'EventSourceHttpTest.java'), ('okhttp3', 'FakeSSLSession.java'), ('duplex', 'AsyncRequestBody.java')]
+Hours taken:467.0
+
+MoJo(temp_1.txt,temp_2.txt) = 14
+
+MoJo(temp_2.txt,temp_1.txt) = 17
+The Mojo value is 14

@@ -1,0 +1,30 @@
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203

@@ -70,3 +70,33 @@ MoJo(temp_1.txt,temp_2.txt) = 14
 
 MoJo(temp_2.txt,temp_1.txt) = 17
 The Mojo value is 14
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf) = 64
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Okhttp/Okhttp_parent-5.0.0-alpha.2_30_cosine_single_a.rsf) = 50
+The Mojo value is 50

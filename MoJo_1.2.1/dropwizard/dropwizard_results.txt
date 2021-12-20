@@ -70,3 +70,38 @@ MoJo(temp_1.txt,temp_2.txt) = 1
 
 MoJo(temp_2.txt,temp_1.txt) = 1
 The Mojo value is 1
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf) = 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf) = 735
+The Mojo value is 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf) = 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf) = 735
+The Mojo value is 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf) = 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf) = 735
+The Mojo value is 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf) = 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf) = 735
+The Mojo value is 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf) = 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_30_cosine_single_a.rsf) = 735
+The Mojo value is 86
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349

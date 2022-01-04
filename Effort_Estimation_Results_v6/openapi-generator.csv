@@ -1,0 +1,3162 @@
+kmean_label,time_taken_mean,time_taken_min,time_taken_max,time_taken_q10,time_taken_q20,time_taken_q25,time_taken_q30,time_taken_q40,time_taken_q50,time_taken_q60,time_taken_q70,time_taken_q75,time_taken_q80,time_taken_q90,sha,name,email,date,login,message,parent_sha,parent_date,time_taken,contains_refactoring,project_name,commit_compared_with,cbo_mean,cbo_min,cbo_max,cbo_std,wmc_mean,wmc_min,wmc_max,wmc_std,dit_mean,dit_min,dit_max,dit_std,rfc_mean,rfc_min,rfc_max,rfc_std,lcom_mean,lcom_min,lcom_max,lcom_std,totalMethods_mean,totalMethods_min,totalMethods_max,totalMethods_std,staticMethods_mean,staticMethods_min,staticMethods_max,staticMethods_std,publicMethods_mean,publicMethods_min,publicMethods_max,publicMethods_std,privateMethods_mean,privateMethods_min,privateMethods_max,privateMethods_std,protectedMethods_mean,protectedMethods_min,protectedMethods_max,protectedMethods_std,defaultMethods_mean,defaultMethods_min,defaultMethods_max,defaultMethods_std,abstractMethods_mean,abstractMethods_min,abstractMethods_max,abstractMethods_std,finalMethods_mean,finalMethods_min,finalMethods_max,finalMethods_std,synchronizedMethods_mean,synchronizedMethods_min,synchronizedMethods_max,synchronizedMethods_std,totalFields_mean,totalFields_min,totalFields_max,totalFields_std,staticFields_mean,staticFields_min,staticFields_max,staticFields_std,publicFields_mean,publicFields_min,publicFields_max,publicFields_std,privateFields_mean,privateFields_min,privateFields_max,privateFields_std,protectedFields_mean,protectedFields_min,protectedFields_max,protectedFields_std,defaultFields_mean,defaultFields_min,defaultFields_max,defaultFields_std,finalFields_mean,finalFields_min,finalFields_max,finalFields_std,synchronizedFields_mean,synchronizedFields_min,synchronizedFields_max,synchronizedFields_std,nosi_mean,nosi_min,nosi_max,nosi_std,loc_mean,loc_min,loc_max,loc_std,returnQty_mean,returnQty_min,returnQty_max,returnQty_std,loopQty_mean,loopQty_min,loopQty_max,loopQty_std,comparisonsQty_mean,comparisonsQty_min,comparisonsQty_max,comparisonsQty_std,tryCatchQty_mean,tryCatchQty_min,tryCatchQty_max,tryCatchQty_std,parenthesizedExpsQty_mean,parenthesizedExpsQty_min,parenthesizedExpsQty_max,parenthesizedExpsQty_std,stringLiteralsQty_mean,stringLiteralsQty_min,stringLiteralsQty_max,stringLiteralsQty_std,numbersQty_mean,numbersQty_min,numbersQty_max,numbersQty_std,assignmentsQty_mean,assignmentsQty_min,assignmentsQty_max,assignmentsQty_std,mathOperationsQty_mean,mathOperationsQty_min,mathOperationsQty_max,mathOperationsQty_std,variablesQty_mean,variablesQty_min,variablesQty_max,variablesQty_std,maxNestedBlocks_mean,maxNestedBlocks_min,maxNestedBlocks_max,maxNestedBlocks_std,anonymousClassesQty_mean,anonymousClassesQty_min,anonymousClassesQty_max,anonymousClassesQty_std,subClassesQty_mean,subClassesQty_min,subClassesQty_max,subClassesQty_std,lambdasQty_mean,lambdasQty_min,lambdasQty_max,lambdasQty_std,uniqueWordsQty_mean,uniqueWordsQty_min,uniqueWordsQty_max,uniqueWordsQty_std,modifiers_mean,modifiers_min,modifiers_max,modifiers_std,num_dependency_mean,num_dependency_min,num_dependency_max,num_dependency_std,num_line_affected_mean,num_line_affected_min,num_line_affected_max,num_line_affected_std,actual_num_of_classes_touched_mean,actual_num_of_classes_touched_min,actual_num_of_classes_touched_max,actual_num_of_classes_touched_std
+0,15.85,1.0,166.0,1.0,2.0,3.0,3.0,5.0,7.0,10.0,15.0,18.0,21.0,38.0,976b4aa757e989fbaa28f92a721ade39735332e6,Oleh Kurpiak,oleh.kurpiak@gmail.com,2021-03-04 15:33:00,borsch,"[Java] Additional enum type annotations (#8389)
+
+* [Java] Additional enum type annotations
+
+* [Java] Additional enum type annotations",e18d4b97e0e33ede75030316c00a811de82bce66,2021-03-04 08:02:31,7.0,1,openapi-generator,976b4aa757e989fbaa28f92a721ade39735332e6,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,27.0,27,27,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,-1.0,-1,-1,0.0,0.0,0,0,0.0,-1.0,-1,-1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,40.75,28.0,47.0,8.65544144839919,37.0,37,37,0.0,17.0,10,24,8.082903768654761
+0,15.85,1.0,166.0,1.0,2.0,3.0,3.0,5.0,7.0,10.0,15.0,18.0,21.0,38.0,8c1f6fcdc14b09a63a533049e8fe279e096be3db,William Cheng,wing328hk@gmail.com,2020-08-27 03:42:48,wing328,"[Java][jersey2]Support enum discriminator value in child objects (#7267)
+
+* support enum discriminator value in child (java jersey2)
+
+* update samples
+
+* add tests, use public",f11b2e6772a66f9c1daa68e3cf7440c5413f45ae,2020-08-27 01:38:22,2.0,1,openapi-generator,8c1f6fcdc14b09a63a533049e8fe279e096be3db,7.5,5,10,2.7386127875258306,19.0,16,22,3.286335345030997,2.0,1,3,1.0954451150103321,14.5,11,18,3.8340579025361627,0.0,0,0,0.0,11.5,10,13,1.6431676725154984,0.0,0,0,0.0,10.5,9,12,1.6431676725154984,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,5.5,5,6,0.5477225575051661,3.0,3,3,0.0,3.0,3,3,0.0,2.5,2,3,0.5477225575051661,0.0,0,0,0.0,0,0,0,0.0,3.0,3,3,0.0,0,0,0,0.0,7.0,6,8,1.0954451150103321,114.5,95,135,19.997499843730466,13.0,11,15,2.1908902300206643,0.0,0,0,0.0,4.0,3,5,1.0954451150103321,0.0,0,0,0.0,0.0,0,0,0.0,23.5,20,27,3.8340579025361627,0.0,0,0,0.0,11.0,10,12,1.0954451150103321,2.0,2,2,0.0,8.0,7,9,1.0954451150103321,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,79.33333333333333,65,94,15.705625319186328,1.0,1,1,0.0,141.5,29.0,330.0,113.23029629917957,143.5,119,168,26.83840531775314,3.0,2,4,1.0954451150103321
+0,15.85,1.0,166.0,1.0,2.0,3.0,3.0,5.0,7.0,10.0,15.0,18.0,21.0,38.0,5f8e28a39d1b3fbba574ab7de4f4e9438bb7ef0c,William Cheng,wing328hk@gmail.com,2020-07-24 08:43:39,wing328,"Fix string comparison in Python generator's abstract class (#7030)
+
+* fix string comparison in PythonAbstractConnexionServerCodegen.java
+
+* rename abstract class
+
+* put public first",276a983fe8aa708c182a44c1e9e273b5196b3b02,2020-07-24 04:08:30,4.0,1,openapi-generator,5f8e28a39d1b3fbba574ab7de4f4e9438bb7ef0c,27.333333333333332,27,28,0.5163977794943223,182.0,129,209,41.0560592361225,2.3333333333333335,2,3,0.5163977794943222,147.33333333333334,121,162,20.441787266935997,817.3333333333334,462,995,275.2400164704738,42.0,32,47,7.745966692414834,3.6666666666666665,3,4,0.5163977794943222,34.333333333333336,25,39,7.229568912920512,6.666666666666667,6,7,0.5163977794943224,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,16.0,16,16,0.0,7.0,7,7,0.0,5.333333333333333,5,6,0.5163977794943224,1.0,1,1,0.0,8.666666666666666,8,9,0.5163977794943222,0,0,0,0.0,7.333333333333333,7,8,0.5163977794943224,0,0,0,0.0,28.0,16,34,9.2951600308978,727.0,551,817,136.34074959453613,38.333333333333336,23,46,11.877148928369413,21.0,21,21,0.0,16.333333333333332,9,20,5.680375574437544,0.6666666666666666,0,1,0.5163977794943222,2.3333333333333335,1,3,1.0327955589886444,311.3333333333333,204,366,83.1448535188238,16.333333333333332,14,18,1.8618986725025255,137.33333333333334,105,154,25.049284753594602,61.333333333333336,41,72,15.756480148391859,86.33333333333333,81,89,4.131182235954578,9.0,9,9,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,322.6666666666667,279,345,33.827010903517134,1025.0,1025,1025,0.0,358.6666666666667,177.0,711.0,272.96055881146395,995.0,995,995,0.0,1.5,1,2,0.5477225575051661
+1,14.566958698372966,1.0,167.0,1.0,2.0,2.0,3.0,4.0,7.0,10.0,14.0,17.0,21.0,33.0,763f65f2934b7d152c41c0a7a3c9e386fc09f9ad,William Cheng,wing328hk@gmail.com,2021-05-28 13:38:36,wing328,"[Wsdl] minor improvements, bug fixes (#9613)
+
+* minor improvements to wsdl-schema gen
+
+* better code format
+
+* update readme",28c3e1d544d22feb55b91781040e33988bcb5b4f,2021-05-28 02:26:48,11.0,1,openapi-generator,763f65f2934b7d152c41c0a7a3c9e386fc09f9ad,13.5,12,15,2.1213203435596424,32.5,13,52,27.577164466275352,1.5,1,2,0.7071067811865476,32.5,25,40,10.606601717798213,45.5,0,91,64.34671708797582,13.5,13,14,0.7071067811865476,0.0,0,0,0.0,12.5,12,13,0.7071067811865476,1.0,0,2,1.4142135623730951,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,3.0,2,4,1.4142135623730951,1.0,0,2,1.4142135623730951,0.5,0,1,0.7071067811865476,2.0,0,4,2.8284271247461903,0.0,0,0,0.0,0,0,0,0.0,1.0,0,2,1.4142135623730951,0,0,0,0.0,21.5,8,35,19.091883092036785,218.5,213,224,7.7781745930520225,6.0,0,12,8.48528137423857,5.0,0,10,7.0710678118654755,1.5,0,3,2.1213203435596424,0.0,0,0,0.0,0.0,0,0,0.0,96.0,59,133,52.32590180780452,8.5,1,16,10.606601717798213,42.5,39,46,4.949747468305833,14.5,6,23,12.020815280171307,31.5,24,39,10.606601717798213,1.5,0,3,2.1213203435596424,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,129.5,115,144,20.506096654409877,1.0,1,1,0.0,148.5,141.0,156.0,10.606601717798213,241.5,241,242,0.7071067811865476,1.5,1,2,0.7071067811865476
+3,9.383116883116884,1.0,119.0,1.0,2.0,2.0,2.8999999999999986,4.0,5.0,7.0,10.0,12.0,14.0,22.10000000000005,3bf8ca748493122592b0f0c05e3adb4c06a929eb,William Cheng,wing328hk@gmail.com,2020-11-18 06:34:00,wing328,"[python] Renames python generators (#7965)
+
+* python->python-legacy, python-experimental->python
+
+* test with openjdk8
+
+* test with openjdk11
+
+* comment out rm
+
+* move kotlin tests to circleci
+
+* move kotlin tests
+
+* move tests to circleci
+
+* fix circleci
+
+* rearrange test
+
+* move tests
+
+* use wrapper
+
+Co-authored-by: Justin Black <justin.a.black@gmail.com>",c08f14500e0e9e8b7d843d25a0850befede9675b,2020-11-18 05:08:55,1.0,1,openapi-generator,3bf8ca748493122592b0f0c05e3adb4c06a929eb,16.666666666666668,12,20,2.958039891549808,64.88888888888889,15,222,88.66149734304689,1.4444444444444444,1,3,0.7264831572567789,72.44444444444444,42,145,40.761842178412124,363.6666666666667,105,1199,461.30196184278253,24.22222222222222,15,51,15.097829130191018,0.2222222222222222,0,1,0.4409585518440985,23.77777777777778,15,49,14.228297313608698,0.2222222222222222,0,1,0.4409585518440985,0.2222222222222222,0,1,0.4409585518440985,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,4.333333333333333,0,14,6.557438524302,1.5555555555555556,0,5,2.3511226632776476,1.3333333333333333,0,4,2.0,0.6666666666666666,0,2,1.0,2.3333333333333335,0,8,3.6055512754639887,0,0,0,0.0,1.6666666666666667,0,5,2.5,0,0,0,0.0,17.0,1,57,22.983689869122408,441.55555555555554,294,822,215.90108331774942,16.555555555555557,0,66,28.368605495825445,2.0,0,8,3.4641016151377544,3.5555555555555554,0,16,7.055336829505576,0.5555555555555556,0,2,0.881917103688197,0.8888888888888888,0,3,1.3642254619787417,230.77777777777777,157,398,95.34251121322767,22.22222222222222,6,28,6.8698212818416495,93.44444444444444,46,166,42.37366844843361,18.11111111111111,0,71,30.37039859980621,68.88888888888889,24,91,19.75123062270073,1.4444444444444444,0,5,2.242270674512285,0.0,0,0,0.0,0.0,0,0,0.0,0.3333333333333333,0,1,0.5,149.11111111111111,87,273,74.02270672645733,1.0,1,1,0.0,154.66666666666666,29.0,198.0,55.07721852090935,577.3333333333334,330,1012,327.03363741364586,62.333333333333336,1,184,91.25102739147653
+3,9.383116883116884,1.0,119.0,1.0,2.0,2.0,2.8999999999999986,4.0,5.0,7.0,10.0,12.0,14.0,22.10000000000005,9236d5699d57857c259f590dcbf65eac2a1a3901,Guillaume GILL,gillg@users.noreply.github.com,2020-10-06 00:11:30,gillg,"Expose batch subcommand (#7608)
+
+Co-authored-by: Guillaume GILL <g.gill@oceasoft.com>",8c11c8f582eea5491211beca6c1b40d90e19f2db,2020-10-05 20:54:50,3.0,1,openapi-generator,9236d5699d57857c259f590dcbf65eac2a1a3901,12.0,12,12,0.0,13.0,13,13,0.0,3.0,3,3,0.0,40.0,40,40,0.0,1.0,1,1,0.0,2.0,2,2,0.0,1.0,1,1,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,11.0,11,11,0.0,2.6666666666666665,2,3,0.5773502691896258,0.0,0,0,0.0,11.0,11,11,0.0,0.0,0,0,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,20.0,20,20,0.0,255.0,255,255,0.0,1.0,1,1,0.0,0.0,0,0,0.0,1.0,1,1,0.0,1.0,1,1,0.0,1.0,1,1,0.0,30.0,30,30,0.0,12.0,12,12,0.0,20.0,20,20,0.0,1.0,1,1,0.0,23.0,23,23,0.0,2.0,2,2,0.0,1.0,1,1,0.0,2.0,2,2,0.0,4.0,4,4,0.0,191.0,191,191,0.0,1.0,1,1,0.0,125.66666666666667,101.0,139.0,21.385353243127255,297.0,297,297,0.0,2.0,2,2,0.0
+3,9.383116883116884,1.0,119.0,1.0,2.0,2.0,2.8999999999999986,4.0,5.0,7.0,10.0,12.0,14.0,22.10000000000005,968f32b55e2c9d71a0f7cd25b40f7054e2ade90f,Sebastien Rosset,serosset@cisco.com,2020-07-18 13:56:41,sebastien-rosset,"[Java][Jersey2] Add JsonTypeName annotation (#6551)
+
+* Mustache template should use invokerPackage tag to generate import
+
+* add JsonSubTypes annotation to handle scenario when OAS name has special characters
+
+* add JsonSubTypes annotation to handle scenario when OAS name has special characters. Add unit test
+
+* run sample scripts
+
+* fix unit test
+
+* run sample scripts
+
+* add minimal openapi document to show issue with special characters and discriminators
+
+* Add 'isClassnameSanitized' tag
+
+* Add 'isClassnameSanitized' tag
+
+* Add 'isClassnameSanitized' tag
+
+* Add 'isClassnameSanitized' tag
+
+* Add 'isClassnameSanitized' tag
+
+* Add 'isClassnameSanitized' tag
+
+* Add unit tests for unmarshaling of discriminators with special characters
+
+* Add unit tests for unmarshaling of discriminators with special characters
+
+* use JsonTypeName
+
+Co-authored-by: Vikrant Balyan (vvb) <vvb@cisco.com>
+Co-authored-by: William Cheng <wing328hk@gmail.com>",8a774f636b18bedd929eda7197f08e769bb02e50,2020-07-18 10:04:03,3.0,1,openapi-generator,968f32b55e2c9d71a0f7cd25b40f7054e2ade90f,9.0,8,10,1.044465935734187,13.75,11,22,4.9749371855331,2.25,2,3,0.45226701686664533,12.75,11,18,3.1658691180665177,0.0,0,0,0.0,8.5,7,13,2.7136021011998723,0.0,0,0,0.0,7.5,6,12,2.7136021011998723,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,3.0,2,6,1.8090680674665818,1.5,1,3,0.9045340337332909,1.5,1,3,0.9045340337332909,1.5,1,3,0.9045340337332909,0.0,0,0,0.0,0,0,0,0.0,1.5,1,3,0.9045340337332909,0,0,0,0.0,3.5,2,8,2.7136021011998723,86.16666666666667,70,135,28.06755918828495,10.5,9,15,2.7136021011998723,0.0,0,0,0.0,3.5,3,5,0.9045340337332909,0.0,0,0,0.0,0.0,0,0,0.0,16.75,13,27,6.19567297687375,0.0,0,0,0.0,6.75,5,12,3.165869118066518,0.5,0,2,0.9045340337332909,5.25,4,9,2.261335084333227,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,60.666666666666664,48,94,20.015145780285003,1.0,1,1,0.0,75.0,15.0,190.0,67.85948047921595,116.25,87,126,17.638413657799173,3.5,2,5,1.1677484162422844
+3,9.383116883116884,1.0,119.0,1.0,2.0,2.0,2.8999999999999986,4.0,5.0,7.0,10.0,12.0,14.0,22.10000000000005,d9957ad0a9b4ecfae6e78710d41d7e235cf558a9,Jochen Schalanda,jochen@schalanda.name,2020-07-01 07:08:28,joschi,"[Java][client][native][Gradle] Add missing jackson-databind-nullable (#6802)
+
+* Add missing jackson-databind-nullable to java-native Gradle build
+
+Closes #6801
+
+* Regenerate java-native samples
+
+* update samples
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>",323cd38b5c7085321dcad0f65cb3a293603bae13,2020-07-01 01:14:34,5.0,1,openapi-generator,d9957ad0a9b4ecfae6e78710d41d7e235cf558a9,7.0,5,14,3.307744922237541,7.833333333333333,2,16,5.3933510264136935,1.0,1,1,0.0,3.1666666666666665,1,10,3.2764758686196758,40.5,1,120,44.141816908686486,7.833333333333333,2,16,5.3933510264136935,0.0,0,0,0.0,7.833333333333333,2,16,5.3933510264136935,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,53.833333333333336,20,126,38.30565923478885,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,14.666666666666666,2,50,17.398444825700405,0.0,0,0,0.0,14.666666666666666,2,50,17.398444825700405,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,61.5,19,116,34.028102572813,1.0,1,1,0.0,182.05555555555554,177.0,197.0,6.301001061663533,121.66666666666667,26,287,94.45571635926106,7.0,2,12,3.5146751167740367
+3,9.383116883116884,1.0,119.0,1.0,2.0,2.0,2.8999999999999986,4.0,5.0,7.0,10.0,12.0,14.0,22.10000000000005,0693a83cfeaaed4b751a6119ecda9b4e9f52da24,Slavek Kabrda,slavek.kabrda@datadoghq.com,2020-02-10 21:26:32,bkabrda,"[go-experimental] Add oneOf support (#5150)
+
+* [go-experimental] Add oneOf support
+
+* Fix docs for the oneOf models
+
+* isOneOfInterface => x-is-one-of-interface
+
+* Add proper warnings when inline models are used in oneOf choices
+
+* Add a convenience method to oneOf implementing structs to cast them as the oneOf interface
+
+* Update modules/openapi-generator/src/main/resources/go-experimental/model.mustache
+
+Co-Authored-By: Jiri Kuncar <jiri.kuncar@gmail.com>
+
+* Fix retrieving data from additionalDataMap
+
+* Add basic tests
+
+Co-authored-by: Jiri Kuncar <jiri.kuncar@gmail.com>",cd91a15953dead68b9963f24e1e1eff80b1c2a48,2020-02-10 15:32:42,5.0,1,openapi-generator,0693a83cfeaaed4b751a6119ecda9b4e9f52da24,5.0,5,5,0.0,18.5,17,20,1.7320508075688772,1.0,1,1,0.0,18.0,18,18,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,5.0,5,5,0.0,1.0,1,1,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,0.0,0,0,0.0,80.0,76,84,4.618802153517004,2.0,2,2,0.0,7.0,7,7,0.0,0.5,0,1,0.5773502691896257,0.0,0,0,0.0,0.0,0,0,0.0,11.0,11,11,0.0,3.0,1,5,2.309401076758503,12.5,11,14,1.7320508075688772,3.0,2,4,1.1547005383792515,11.0,11,11,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,110.0,109,111,1.1547005383792495,1.0,1,1,0.0,1133.0,131.0,2135.0,1157.00993945601,135.0,135,135,0.0,1.5,1,2,0.5773502691896257
+7,21.95744680851064,1.0,166.0,1.0,2.0,2.0,3.0,5.0,11.5,16.0,20.0,24.0,31.599999999999994,63.200000000000045,0173acd1d31a858676a8e505f2916b408ca84863,typhoon2k,2978290+typhoon2k@users.noreply.github.com,2020-09-14 08:59:49,typhoon2k,Fix package declaration (https://github.com/OpenAPITools/openapi-generator/issues/7122). (#7395),bf0bd29ef16d9a9934ef16466bc9b19410b5c231,2020-09-12 22:09:59,34.0,1,openapi-generator,0173acd1d31a858676a8e505f2916b408ca84863,8.0,8,8,0.0,1.0,1,1,0.0,1.0,1,1,0.0,10.0,10,10,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4.0,4,4,0.0,30.0,30,30,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,7.0,7,7,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,24.0,24,24,0.0,1.0,1,1,0.0,118.33333333333333,29.0,188.0,81.30395644329576,32.0,32,32,0.0,1.0,1,1,0.0
+8,14.22970297029703,1.0,147.0,1.0,1.0,2.0,2.0,4.0,6.0,8.0,12.0,15.0,18.0,34.0,206f698a98de60d3afbde1aed65c6dfb3422e408,Arthur Mogliev,arthur@htc-cs.com,2020-12-20 13:48:37,Articus,"[php-ze-ph][php-mezzio-ph] Migration from Zend to Laminas and corresponding generator rename (#8145)
+
+* Migration from php-ze-ph to php-mezzio-ph
+
+* Sample regen after rebase
+
+* update samples
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>",d1dcdad3d5309dbf12a0793205d11fa81cb75ee9,2020-12-20 07:32:57,6.0,1,openapi-generator,206f698a98de60d3afbde1aed65c6dfb3422e408,25.0,25,25,0.0,60.0,60,60,0.0,3.0,3,3,0.0,75.0,75,75,0.0,89.0,89,89,0.0,14.0,14,14,0.0,0.0,0,0,0.0,9.0,9,9,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,5.0,5,5,0.0,4.333333333333333,4,5,0.5773502691896257,4.0,4,4,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0,0,0,0.0,5.0,5,5,0.0,0,0,0,0.0,1.0,1,1,0.0,292.0,292,292,0.0,9.0,9,9,0.0,9.0,9,9,0.0,8.0,8,8,0.0,0.0,0,0,0.0,3.0,3,3,0.0,92.0,92,92,0.0,5.0,5,5,0.0,66.0,66,66,0.0,14.0,14,14,0.0,35.0,35,35,0.0,7.0,7,7,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,171.0,171,171,0.0,1.0,1,1,0.0,158.66666666666666,110.0,188.0,42.44211744639201,340.0,340,340,0.0,1.0,1,1,0.0
+8,14.22970297029703,1.0,147.0,1.0,1.0,2.0,2.0,4.0,6.0,8.0,12.0,15.0,18.0,34.0,32adeddd8fd6e217eca2092f4bf370e6d6e7ea33,Jochen Schalanda,jochen@schalanda.name,2020-06-14 09:01:18,joschi,"Fix usage of javax.annotation (#6645)
+
+* Fix usage of javax.annotation:javax.annotation-api
+
+* Regenerate samples
+
+```
+bin/generate-samples.sh bin/configs/java-* bin/configs/jaxrs-* bin/configs/spring-* bin/configs/kotlin-* bin/configs/other/java-* bin/configs/other/jaxrs-* bin/configs/other/kotlin-* bin/configs/other/openapi3/jaxrs-cxf-client.yaml bin/configs/other/openapi3/kotlin-*
+```",e07f084e2ab5bd3f49499a34bb06e1a651419a5f,2020-06-13 22:57:14,10.0,1,openapi-generator,32adeddd8fd6e217eca2092f4bf370e6d6e7ea33,5.648086706480867,0,33,4.687658407455306,16.241318292413183,1,113,16.036794889953377,1.3875248838752487,1,9,0.8889266307775658,7.552090245520902,0,52,4.827267028830281,98.70205706702058,0,4140,493.4572063789791,11.858770183587701,1,100,13.806917668444333,0.11347047113470471,0,6,0.43763591712006705,10.997345719973458,0,99,13.759785755887469,0.6997345719973457,0,3,0.4883080911004614,0.003981420039814201,0,3,0.10922329322157645,0.04280026542800265,0,16,0.6686723385212192,0.14244636142446362,0,15,1.1494134679311934,0,0,0,0.0,0.017695200176952003,0,4,0.2654721733698707,3.75669099756691,0,58,6.819579223760344,1.0700066357000664,0,29,3.2302882662216486,1.0319619553196195,0,29,3.2317102626391505,2.659256801592568,0,29,4.341662747965044,0.013934970139349702,0,1,0.117227584539545,0,0,0,0.0,1.1734129617341296,0,29,3.224211725963993,0,0,0,0.0,3.187679716876797,0,35,4.654273481830908,90.7992700729927,9,659,87.48221913934229,10.741760672417607,0,74,10.386928705322065,0.11159035611590357,0,9,0.7699997436410513,3.004313205043132,0,26,3.759688024429109,0.09931431099314311,0,8,0.8106153193506449,0.4531077195310772,0,16,2.2120877782262003,22.195974341959744,0,217,30.433796780008592,1.5105065251050653,0,25,4.33197536985545,10.018248175182482,0,133,15.998409904158104,0.5019907100199071,0,16,2.2150320569457134,6.515593895155939,0,132,10.808261971801874,0.7555850475558504,-1,3,0.6859342548038637,0.030081840300818403,0,5,0.29293523861904236,0.045233355452333555,0,4,0.33957030526160925,0.040588365405883654,0,28,0.7391963510637419,47.61557177615572,5,188,24.955036941744712,25.461844724618448,1,1025,156.37535470163166,129.21964167219642,1.0,3009.0,333.22795635767443,132.8551205485512,-9,1393,157.263623845487,2843.7229595222298,2,5696,1618.7064711875182
+8,14.22970297029703,1.0,147.0,1.0,1.0,2.0,2.0,4.0,6.0,8.0,12.0,15.0,18.0,34.0,056a3ec0f65d79e0461cfb0e43b6cc7ece883097,William Cheng,wing328hk@gmail.com,2020-02-20 01:25:11,wing328,"[K6] minor improvements (#5368)
+
+* update readme
+
+* minor improvement
+
+* add windows batch file for k6
+
+* update template to reference openapi-generator
+
+* update samples
+
+* update doc",b16e07cff4192acd11cce8e2aa6fe46e354ab998,2020-02-19 16:30:08,8.0,1,openapi-generator,056a3ec0f65d79e0461cfb0e43b6cc7ece883097,29.0,29,29,0.0,116.0,116,116,0.0,2.0,2,2,0.0,112.0,112,112,0.0,346.0,346,346,0.0,29.0,29,29,0.0,1.0,1,1,0.0,22.0,22,22,0.0,7.0,7,7,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,18.0,18,18,0.0,9.0,9,9,0.0,6.0,6,6,0.0,2.0,2,2,0.0,8.0,8,8,0.0,0,0,0,0.0,9.0,9,9,0.0,0,0,0,0.0,10.0,10,10,0.0,505.0,505,505,0.0,22.0,22,22,0.0,14.0,14,14,0.0,7.0,7,7,0.0,1.0,1,1,0.0,6.0,6,6,0.0,83.0,83,83,0.0,15.0,15,15,0.0,93.0,93,93,0.0,9.0,9,9,0.0,62.0,62,62,0.0,6.0,6,6,0.0,0.0,0,0,0.0,6.0,6,6,0.0,0.0,0,0,0.0,235.0,235,235,0.0,1.0,1,1,0.0,103.0,29.0,177.0,104.65180361560904,535.0,535,535,0.0,1.0,1,1,0.0
+8,14.22970297029703,1.0,147.0,1.0,1.0,2.0,2.0,4.0,6.0,8.0,12.0,15.0,18.0,34.0,ae430a8c14c727141e534c419ffea71ceebb84aa,William Cheng,wing328hk@gmail.com,2021-05-25 15:55:16,wing328,"[cpp][tiny] rename generator, update samples (#9560)
+
+* rename generator, update samples
+
+* add doc
+
+* update readme",6c40192706cf95329f03e4c80ea628fb32a8ecab,2021-05-24 05:01:16,34.0,1,openapi-generator,ae430a8c14c727141e534c419ffea71ceebb84aa,12.0,12,12,,40.0,40,40,,3.0,3,3,,50.0,50,50,,116.0,116,116,,16.0,16,16,,0.0,0,0,,15.0,15,15,,1.0,1,1,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,8.0,8,8,,7.0,7,7,,3.0,3,3,,3.0,3,3,,1.0,1,1,,0,0,0,,7.0,7,7,,0,0,0,,14.0,14,14,,257.0,257,257,,28.0,28,28,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,128.0,128,128,,5.0,5,5,,30.0,30,30,,11.0,11,11,,15.0,15,15,,2.0,2,2,,1.0,1,1,,0.0,0,0,,1.0,1,1,,131.0,131,131,,1.0,1,1,,188.0,188.0,188.0,,307.0,307,307,,1.0,1,1,
+9,12.223264540337711,1.0,166.0,1.0,1.0,2.0,2.0,4.0,6.0,9.0,13.0,16.0,17.0,27.80000000000001,233087c5aa585341aeade7df875a1e60cbf16ca9,William Cheng,wing328hk@gmail.com,2020-06-09 16:38:11,wing328,"[Java][Jersey2] various improvements (#6518)
+
+* [java][jersey2] Add support for discriminator, fix nullable typo and nullable deserialization (#6495)
+
+* Mustache template should use invokerPackage tag to generate import
+
+* fix typo, fix script issue, add log statement for troubleshooting
+
+* Add java jersey2 samples with OpenAPI doc that has HTTP signature security scheme
+
+* Add sample for Java jersey2 and HTTP signature scheme
+
+* Add unit test for oneOf schema deserialization
+
+* Add unit test for oneOf schema deserialization
+
+* Add log statements
+
+* Add profile for jersey2
+
+* Temporarily disable unit test
+
+* Temporarily disable unit test
+
+* support for discriminator in jersey2
+
+* fix typo in pom.xml
+
+* disable unit test because jersey2 deserialization is broken
+
+* disable unit test because jersey2 deserialization is broken
+
+* fix duplicate jersey2 samples
+
+* fix duplicate jersey2 samples
+
+* Add code comments
+
+* fix duplicate artifact id
+
+* fix duplicate jersey2 samples
+
+* run samples scripts
+
+* resolve merge conflicts
+
+* Add unit tests
+
+* fix unit tests
+
+* continue implementation of discriminator lookup
+
+* throw deserialization exception when value is null and schema does not allow null value
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* Add more unit tests
+
+* Add unit tests for anyOf
+
+* Add unit tests
+
+Co-authored-by: Vikrant Balyan (vvb) <vvb@cisco.com>
+
+* update samples
+
+* add tests to oas3 java jersey2 petstore
+
+* comment out jersey2 ensure uptodate
+
+* Jersey2 supports additional properties with composed schema (#6523)
+
+* Mustache template should use invokerPackage tag to generate import
+
+* fix typo, fix script issue, add log statement for troubleshooting
+
+* Add java jersey2 samples with OpenAPI doc that has HTTP signature security scheme
+
+* Add sample for Java jersey2 and HTTP signature scheme
+
+* Add unit test for oneOf schema deserialization
+
+* Add unit test for oneOf schema deserialization
+
+* Add log statements
+
+* Add profile for jersey2
+
+* Temporarily disable unit test
+
+* Temporarily disable unit test
+
+* support for discriminator in jersey2
+
+* fix typo in pom.xml
+
+* disable unit test because jersey2 deserialization is broken
+
+* disable unit test because jersey2 deserialization is broken
+
+* fix duplicate jersey2 samples
+
+* fix duplicate jersey2 samples
+
+* Add code comments
+
+* fix duplicate artifact id
+
+* fix duplicate jersey2 samples
+
+* run samples scripts
+
+* resolve merge conflicts
+
+* Add unit tests
+
+* fix unit tests
+
+* continue implementation of discriminator lookup
+
+* throw deserialization exception when value is null and schema does not allow null value
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* Add more unit tests
+
+* Add unit tests for anyOf
+
+* Add unit tests
+
+* Set supportsAdditionalPropertiesWithComposedSchema to true for Java jersey2
+
+* Support additional properties as nested field
+
+* Support additional properties as nested field
+
+* add code comments
+
+* add customer deserializer
+
+* Fix 'method too big' error with generated code
+
+* resolve merge conflicts
+
+Co-authored-by: Vikrant Balyan (vvb) <vvb@cisco.com>
+
+* [Jersey2] Fix code generation of 'registerDiscriminator' method for large models (#6535)
+
+* Mustache template should use invokerPackage tag to generate import
+
+* fix typo, fix script issue, add log statement for troubleshooting
+
+* Add java jersey2 samples with OpenAPI doc that has HTTP signature security scheme
+
+* Add sample for Java jersey2 and HTTP signature scheme
+
+* Add unit test for oneOf schema deserialization
+
+* Add unit test for oneOf schema deserialization
+
+* Add log statements
+
+* Add profile for jersey2
+
+* Temporarily disable unit test
+
+* Temporarily disable unit test
+
+* support for discriminator in jersey2
+
+* fix typo in pom.xml
+
+* disable unit test because jersey2 deserialization is broken
+
+* disable unit test because jersey2 deserialization is broken
+
+* fix duplicate jersey2 samples
+
+* fix duplicate jersey2 samples
+
+* Add code comments
+
+* fix duplicate artifact id
+
+* fix duplicate jersey2 samples
+
+* run samples scripts
+
+* resolve merge conflicts
+
+* Add unit tests
+
+* fix unit tests
+
+* continue implementation of discriminator lookup
+
+* throw deserialization exception when value is null and schema does not allow null value
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* continue implementation of compose schema
+
+* Add more unit tests
+
+* Add unit tests for anyOf
+
+* Add unit tests
+
+* Fix 'method too big' error with generated code
+
+* resolve merge conflicts
+
+Co-authored-by: Vikrant Balyan (vvb) <vvb@cisco.com>
+
+* update samples
+
+* comment out tests
+
+* support additional properties in serialize and deserialize
+
+* add discriminator lookup
+
+* remove oneof/anyof logic in apilcient
+
+* add serializer to mammal.java
+
+* add serialize to oneOf model
+
+* add serializer to anyof model
+
+* comment out test cases that are subject to further discussion
+
+* add back files
+
+* update configs, samples
+
+Co-authored-by: Sebastien Rosset <serosset@cisco.com>
+Co-authored-by: Vikrant Balyan (vvb) <vvb@cisco.com>",60ceded171e173810198a1bf6145beb928d289d0,2020-06-09 10:28:58,6.0,1,openapi-generator,233087c5aa585341aeade7df875a1e60cbf16ca9,14.6,13,16,1.127738831376694,16.0,8,21,3.987158875369264,4.0,4,4,0.0,15.75,8,19,4.661627315730981,37.425,8,73,20.170920297324702,11.1,5,15,2.9940111162289567,0.0,0,0,0.0,11.1,5,15,2.9940111162289567,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,2.7,2,3,0.4640954808922572,2.0,2,2,0.0,1.0,1,1,0.0,1.7,1,2,0.46409548089225716,0.0,0,0,0.0,0,0,0,0.0,2.0,2,2,0.0,0,0,0,0.0,7.3,5,9,1.5721942856386653,200.55,124,258,40.023678888813706,10.1,3,14,3.3801835786893326,0.0,0,0,0.0,1.7,0,3,1.017790467580354,0.0,0,0,0.0,0.7,0,1,0.46409548089225705,10.4,7,14,2.5298221281347035,0.0,0,0,0.0,3.4,2,4,0.9281909617845143,0.0,0,0,0.0,3.4,2,4,0.9281909617845143,1.0,1,1,0.0,2.9,2,4,0.7089175569585666,2.0,2,2,0.0,0.0,0,0,0.0,120.725,61,140,22.060508281565625,1.0,1,1,0.0,51.975,24.0,430.0,82.80576206260788,153.0,113,184,20.98595378843327,18.0,9,27,5.817744738827396
+9,12.223264540337711,1.0,166.0,1.0,1.0,2.0,2.0,4.0,6.0,9.0,13.0,16.0,17.0,27.80000000000001,15be875275fb824d53c770f2142f9dda44148830,William Cheng,wing328hk@gmail.com,2020-06-01 03:08:15,wing328,"[Java][Jersey2] add petstore integration tests (#6508)
+
+* add tests to jersey2 client
+
+* remove import",e3eb3c2f7dadd4e0edc940055dffb625dd9cf788,2020-05-31 16:13:12,10.0,1,openapi-generator,15be875275fb824d53c770f2142f9dda44148830,7.0,7,7,0.0,12.0,12,12,0.0,1.0,1,1,0.0,3.0,3,3,0.0,66.0,66,66,0.0,12.0,12,12,0.0,0.0,0,0,0.0,12.0,12,12,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,71.0,71,71,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,19.0,19,19,0.0,0.0,0,0,0.0,19.0,19,19,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,83.0,83,83,0.0,1.0,1,1,0.0,168.25,131.0,188.0,25.36894426919128,200.0,200,200,0.0,1.0,1,1,0.0
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,3d038b74fd106c664f408c0aa8e1c2f78b406bab,Peter Leibiger,kuhnroyal@gmail.com,2021-03-20 04:26:56,kuhnroyal,"[dart][dart-dio] Next-gen dart-dio generator (#8869)
+
+* [dart-dio] Remove old Dart 1.x templates
+
+* [dart-dio] Initial version of a next-gen Dart Dio generator
+
+* Fix a couple readme links and examples
+
+* Fix import in testcase
+
+* Add integration tests to master POM
+
+* Run initial dart format and improve some base formatting
+
+* Generate docs
+
+* Use integer matchers in test for content-length
+
+* Separate more built_value specific files
+
+* Fix mustache partial path
+
+* Update pubspec template
+
+* Fix tests after mock lib updates
+
+* Generate with new built_value pre-release
+
+This solves the problem of not being able to serialize null.
+
+* Update built_value dependency
+
+* Regenerate after merge
+
+* Regenerate tests
+
+* Fix missing byte response cast
+
+* Update dio to 4.0.0-prev1
+
+* Run format
+
+* Ignore unused imports in inheritance classes
+
+* Update mock test library
+
+* Update docs
+
+* Make a couple variables final
+
+* Update and freeze dio dependency
+
+* Update generator doc
+
+* Add a new option to post processes all dart output at once
+
+This is much faster than individual files. The committed samples should be formatted since Dart is very opinionated and it makes diffs in PRs much easier to read.
+Due to this, we also need to format in CI, otherwise there is a git diff.
+
+* Test some CI stuff",88fa5d70d7764ca5e09281b08b4f80d8153ef212,2021-03-19 17:01:21,11.0,1,openapi-generator,3d038b74fd106c664f408c0aa8e1c2f78b406bab,7.0,3,14,5.187397315522584,8.666666666666666,3,16,5.678241298362042,1.3333333333333333,1,2,0.49236596391733095,19.333333333333332,13,25,4.886592665527574,42.333333333333336,1,120,57.4002428460706,7.666666666666667,3,16,6.16932784512268,0.6666666666666666,0,2,0.9847319278346619,7.0,1,16,6.768912897813195,0.0,0,0,0.0,0.6666666666666666,0,2,0.9847319278346618,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.3333333333333333,0,1,0.4923659639173309,0.0,0,0,0.0,0.0,0,0,0.0,0.3333333333333333,0,1,0.4923659639173309,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,2.0,0,3,1.4770978917519928,163.0,30,405,177.95607220986767,1.0,0,2,0.8528028654224418,0.6666666666666666,0,2,0.9847319278346618,0.3333333333333333,0,1,0.4923659639173309,0.3333333333333333,0,1,0.4923659639173309,0.0,0,0,0.0,73.66666666666667,1,220,105.15558458634982,10.333333333333334,0,30,14.5310534770028,29.0,1,79,37.01596707073609,0.0,0,0,0.0,29.0,1,79,37.01596707073609,0.6666666666666666,0,2,0.9847319278346618,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,39.333333333333336,13,64,21.781281927936252,1.0,1,1,0.0,372.3333333333333,35.0,1648.0,599.5224362066457,173.66666666666666,28,440,196.98884755388073,3.5,1,6,1.7837651700316894
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,c7d5275b62adfb76346906087281bb68f4c6c4eb,Philipp Paris,paris.philipp@gmail.com,2020-09-21 01:18:07,PhilippParis,"[java] jaxrs (all) add usetags option (#6130)
+
+* Adds ""useTags"" option to all jaxrs code generators (AbstractJAXRSServerCodegen):
+  - jaxrs-jersey
+  - jaxrs-spec
+  - jaxrs-cxf-cdi
+  - jaxrs-resteasy
+  - jaxrs-cxf
+  - jaxrs-cxf-extended
+  - java-msf4j
+  - jaxrs-resteasy-eap
+* jaxrs-spec
+  - Changed handling of root paths: e.g ""/:"", ""/{id}:"" to simplify code and create a more consistent behaviour
+    -- old: use tag for classname
+    -- new: use tag only if useTags is enabled, use ""DefaultApi"" if not
+* @path class level annotation
+  - for all generators above and the microprofile generator (uses same jaxrs postprocessing)
+  - extended the ""commonPath"" to contain more than only the root path if possible
+  - e.g. ""/group1/subgroup1/op1"" -> ""/group1/subgroup1"" is moved to class level annotation",3ca6bc2518a04f72cb42508cc40f33eb4767c9cf,2020-09-20 20:02:29,5.0,1,openapi-generator,c7d5275b62adfb76346906087281bb68f4c6c4eb,14.794871794871796,6,32,5.887652862849656,7.923076923076923,1,56,12.15925491574631,1.0,1,1,0.0,3.128205128205128,0,17,5.216912915829896,8.820512820512821,0,28,12.253511378950046,5.256410256410256,1,15,4.449242179087328,0.0,0,0,0.0,5.256410256410256,1,15,4.449242179087328,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.6410256410256411,0,2,0.6223085283918933,0.0,0,0,0.0,0.0,0,0,0.0,0.48717948717948717,0,1,0.5019854479169933,0.0,0,0,0.0,0,0,0,0.0,0.48717948717948717,0,1,0.5019854479169933,0,0,0,0.0,1.0769230769230769,0,14,2.3347223350888786,79.43589743589743,33,283,70.64339593989251,2.7435897435897436,0,18,5.442732969296427,0.0,0,0,0.0,0.5128205128205128,0,9,1.928083668127432,0.5128205128205128,0,8,1.8598080389235232,0.0,0,0,0.0,43.333333333333336,10,217,53.201633368755225,8.282051282051283,1,25,7.024398555485943,5.846153846153846,0,83,19.23969288978825,0.23076923076923078,0,4,0.8344378180239322,5.256410256410256,0,74,17.123362668343454,-0.28205128205128205,-1,2,0.8183894385984885,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,59.15384615384615,22,122,30.37825202816108,1.0,1,1,0.0,67.06837606837607,7.0,585.0,99.41004654145672,75.23076923076923,11,226,52.77757240098405,120.25641025641026,6,195,50.715595412428456
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,7e5f720f204a992d0355239bf2e155940258f809,Jim Schubert,james.schubert@gmail.com,2020-05-31 11:14:31,jimschubert,"Remove deprecations 5.0 (#6060)
+
+* [breaking] Enforce vendor extension naming convention
+
+* [breaking] Rename system properties to global properties
+
+* [docs] Update site with global properties list and usage explanation
+
+* Use proper vendor extension casing in all templates
+
+* Set remaining vendor extensions to convention of lower kebab-cased with x- prefix
+
+* [samples] Regenerate
+
+* Update modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/RustServerCodegen.java
+
+Before we were adding hasPathParams twice, once with !op.pathParams.isEmpty(), and then again with hasPathParams. This was probably caused by a mistaken merge.
+
+This is causing the difference in samples
+
+Co-authored-by: Richard Whitehouse <richard.whitehouse@metaswitch.com>
+
+* [Samples] Regenerated!
+
+* Fix -D conversion to additional-properties, missed in bat files
+
+* JERSEY2 option changed
+
+* [samples] Regenerate
+
+* [scala][finch] Fix remaining vendor extensions format to conventino
+
+* [scala] The -D option was replaced with --global-property
+
+* [samples] Regenerate
+
+* Fix -DskipFormModel usage which has been moved to --global-property skipFormModel=true
+
+* [samples] Regenerate
+
+Co-authored-by: Richard Whitehouse <richard.whitehouse@metaswitch.com>",40a7e53b19267611d11c307f8aead367050d8fd3,2020-05-30 15:15:53,19.0,1,openapi-generator,7e5f720f204a992d0355239bf2e155940258f809,10.0,10,10,0.0,211.0,211,211,0.0,2.0,2,2,0.0,100.0,100,100,0.0,260.0,260,260,0.0,37.0,37,37,0.0,0.0,0,0,0.0,37.0,37,37,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,18.0,18,18,0.0,7.75,7,8,0.4999999999999999,7.0,7,7,0.0,1.0,1,1,0.0,10.0,10,10,0.0,0,0,0,0.0,8.0,8,8,0.0,0,0,0,0.0,24.0,24,24,0.0,876.5,876,877,0.5773502691896257,48.0,48,48,0.0,4.0,4,4,0.0,9.0,9,9,0.0,7.0,7,7,0.0,19.5,18,21,1.7320508075688772,732.5,732,733,0.5773502691896257,51.5,50,53,1.7320508075688772,192.0,192,192,0.0,53.5,52,55,1.7320508075688772,161.0,161,161,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,328.5,326,331,2.886751345948129,1.0,1,1,0.0,600.25,29.0,2165.0,1045.528694010834,1200.0,1200,1200,0.0,20.0,20,20,0.0
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,a47e522fae1a70d927d0701cb3915c08897b6c58,Jim Schubert,james.schubert@gmail.com,2020-05-30 04:19:03,jimschubert,"[core] Refactor templating management (#6357)
+
+* [core] Refactor templating management
+
+This refactors template management to get logic out of DefaultGenerator
+and to provide a cleaner API to template search and read/compile.
+
+Deprecates MockDefaultGenerator, which is not a mock and causes
+in-memory retention of file contents. Maintainers should prefer
+executing a ""dryRun"" with new DefaultGenerator(true) or do true
+mock/spies if evaluating template intermediaries is truly necessary.
+Tests may read written files with lower overhead than the in-process
+retention of those bytes.
+
+This attempts to maintain some compatibility with existing templating
+adapter interfaces. Any breaking change here would be unintentional but
+minimal effort to retarget the new interface.
+
+* Tests for dry run file outputs
+
+* Update API usage in Meta, test TemplateManager
+
+* Wait on lastModified, lookup by filename in SpringCodegenTest
+
+* Test DefaultGenerator + ignore file
+
+* Move config.processOpenAPI in DefaultGenerator
+
+* Fix wrong use of libraries templateDirector (java)
+
+The samples scripts for Java incorrectly referenced the libraries
+directories directly rather than the upper-level Java directory. This
+was incorrect usage of template directories, because the generator
+expects to be given the ""language"" directory and perform a lookup for
+missing templates in the order:
+
+* user defined libraries directory
+* user defined language root
+* embedded libraries directory
+* embedded language root
+* _common directory
+
+This is incorrect in our samples scripts because a user or maintainer
+has the expectation that any template change to files at the Java/ root
+should also be honored on generation if the script specifies a custom
+template directory.
+
+* Fix handlebars extension usage, clean up Meta tasks
+
+HandlebarseEngineAdapter previously didn't handle files without
+extensions in the same was as the MustacheEngineAdapter. This now allows
+for files without extension (or dotfiles) to lookup in the same
+location.
+
+Meta tasks are cleaned up to use template manager only, rather than
+attempting to create an ""empty"" generator to use the previous templating
+specific methods.
+
+* Update kotlin-multiplatform gradle wrapper
+
+* Rename GraphQL .gitignore template
+
+The .gitignore file is unable to load via classpath resource from the
+graphql node server resource directory (for unknown reasons). Before
+this change, the missing template would fail silently.
+
+A .gitignore file may exist in other directories and load as expected.
+Added a default .gitignore to _common as a fallback so as not to break
+any custom generators which may also be failing silently.
+
+* Log entire stacktrace in go sdk built by gradle in AppVeyor
+
+* Rename PHP .gitignore to gitignore
+
+Java resources may not load .gitignore, this follows suit with other
+generators and uses ""gitignore"" (some use ""gitignore.mustache"").
+
+* [php] Rename .gitignore templates to gitignore
+
+* Use same classpath lookup in common locator
+
+* [rust] Properly escape empty triple-braces
+
+* [samples] Regenerate",74584eb734f54ec0e7028aa643e68d1adeb3f014,2020-05-30 03:17:19,1.0,1,openapi-generator,a47e522fae1a70d927d0701cb3915c08897b6c58,7.2,0,18,6.661752574842528,11.75,0,39,13.988246946332444,1.4,1,3,0.8207826816681233,20.6,0,51,24.675579233856208,35.9,0,105,42.922083630200135,7.35,0,15,6.515366451704769,0.2,0,1,0.41039134083406165,6.2,0,15,6.135316231716006,0.75,0,4,1.5517392618742702,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,1.4,0,4,1.5355437918998287,0.15,0,1,0.36634754853252327,0.0,0,0,0.0,1.4,0,4,1.5355437918998287,0.0,0,0,0.0,0,0,0,0.0,0.8,0,4,1.6415653633362466,0,0,0,0.0,5.5,0,14,6.92440383145384,135.65,4,423,158.41460425764183,3.5,0,15,5.781094414691646,0.0,0,0,0.0,0.85,0,5,1.8431951662948316,1.0,0,6,2.077447826946374,0.0,0,0,0.0,55.05,0,252,101.46841613863997,5.8,0,29,11.901348884187788,22.85,0,88,34.37146154036881,0.85,0,8,2.007223796297028,21.85,0,89,34.990637845602436,0.4,-1,4,1.9029063643750177,0.0,0,0,0.0,0.4,0,2,0.8207826816681233,0.6,0,2,0.8207826816681233,72.15,26,138,39.92924663504316,1.0,1,1,0.0,489.9,27.0,2168.0,730.9806606988925,158.6,-6,483,184.08876577404317,130.4,4,196,79.71686739560468
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,db47b95fc948479e143f14c46a63c14171b51d03,Jim Schubert,james.schubert@gmail.com,2020-02-19 01:36:17,jimschubert,"[cli][core] Add support for dry-run and display (#5332)
+
+* :shirt::art: Minor refactor DefaultGenerator
+
+This cleans up some lint warnings and improve general code cleanliness
+of DefaultGenerator.
+
+Specifically:
+
+* logger strings are now using the built-in log formatter rather than
+  constructing new strings regardless of log level.
+* Diamond operators are used where possible
+* Some long-unused commented code has been removed
+* Lambdas are used where possible
+* Redundant operations are merged (HashMap constructor used rather than
+  subsequent putAll on a collection, for example)
+
+* [cli][core] Add support for dry-run and display
+
+CLI now supports `--dry-run`, which will output a file change status
+similar to git status --porcelain.
+
+The user may also specify `--verbose` for a one-liner below each file
+explaining why the change operation might take place.",1ec2c260532df9dd20d10b216d4bcb96793b3fde,2020-02-18 20:28:26,5.0,1,openapi-generator,db47b95fc948479e143f14c46a63c14171b51d03,52.0,51,53,1.4142135623730951,272.0,270,274,2.8284271247461903,1.0,1,1,0.0,297.5,289,306,12.020815280171307,122.5,109,136,19.091883092036785,31.0,30,32,1.4142135623730951,2.0,2,2,0.0,8.0,8,8,0.0,20.0,19,21,1.4142135623730951,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,20.5,20,21,0.7071067811865476,1.0,1,1,0.0,0.0,0,0,0.0,14.5,14,15,0.7071067811865476,6.0,6,6,0.0,0,0,0,0.0,3.0,3,3,0.0,0,0,0,0.0,84.5,83,86,2.1213203435596424,1107.0,1074,1140,46.66904755831214,27.5,27,28,0.7071067811865476,33.5,33,34,0.7071067811865476,25.5,25,26,0.7071067811865476,8.0,8,8,0.0,6.5,6,7,0.7071067811865476,211.5,211,212,0.7071067811865476,8.5,7,10,2.1213203435596424,220.0,220,220,0.0,20.5,20,21,0.7071067811865476,177.5,177,178,0.7071067811865476,6.0,6,6,0.0,0.0,0,0,0.0,0.0,0,0,0.0,10.0,8,12,2.8284271247461903,390.0,387,393,4.242640687119285,1.0,1,1,0.0,103.0,29.0,177.0,104.65180361560904,1456.0,1456,1456,0.0,2.0,2,2,0.0
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,4602596df2dacab0b4fd99458e213ff4cdd2b182,Jim Schubert,james.schubert@gmail.com,2020-02-09 01:50:14,jimschubert,"[maven]:memo: Docs and minor refactoring (#5251)
+
+The maven documentation was missing a few option, a couple of option
+properties, and was inconsistent regarding selective generation for apis
+an models. This adds properties and options where appropriate and
+updates the docs. All options in the README have been reordered to match
+property declaration order in CodegenMojo, hopefully making it easier
+for maintainers to recognized when there are docs missing or out of
+date.
+
+This also slightly refactors the code in CodegenMojo to reduce the
+cyclomatic complexity of the `execute` method.",561335f5e57e0733fa2e7ca3060cda78b8f3010a,2020-02-08 22:08:45,3.0,1,openapi-generator,4602596df2dacab0b4fd99458e213ff4cdd2b182,22.0,22,22,0.0,123.5,123,124,0.7071067811865476,2.0,2,2,0.0,124.0,122,126,2.8284271247461903,15.0,12,18,4.242640687119285,8.5,8,9,0.7071067811865476,0.0,0,0,0.0,2.0,2,2,0.0,6.5,6,7,0.7071067811865476,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,60.0,60,60,0.0,1.0,1,1,0.0,0.0,0,0,0.0,58.0,58,58,0.0,2.0,2,2,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,30.5,29,32,2.1213203435596424,514.0,511,517,4.242640687119285,9.0,9,9,0.0,5.5,5,6,0.7071067811865476,17.0,17,17,0.0,5.0,5,5,0.0,7.0,7,7,0.0,166.5,166,167,0.7071067811865476,4.5,4,5,0.7071067811865476,52.5,52,53,0.7071067811865476,5.0,5,5,0.0,88.0,88,88,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,378.5,378,379,0.7071067811865476,1.0,1,1,0.0,1385.5,177.0,2594.0,1709.0770901278854,-70.0,-70,-70,0.0,2.0,2,2,0.0
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,9126a5636f2a503e67177a3747d9b9c446aa2461,Keenan Pepper,keenanpepper@gmail.com,2020-02-08 14:09:46,keenanpepper,"Use EXISTING_PROPERTY for JavaSpring as well (#5243)
+
+This fixes issue #3796 for JavaSpring. It's a very straightfoward extension
+of #5120 for the JavaSpring generator (that PR was just for the Java generator).",17ee990baaa80585242c7a07d64e2be4888fcfd0,2020-02-07 14:58:51,23.0,1,openapi-generator,9126a5636f2a503e67177a3747d9b9c446aa2461,3.0,3,3,0.0,14.0,14,14,0.0,1.0,1,1,0.0,8.0,8,8,0.0,0.0,0,0,0.0,10.0,10,10,0.0,0.0,0,0,0.0,9.0,9,9,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3.0,3,3,0.0,70.0,70,70,0.0,11.0,11,11,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,17.0,17,17,0.0,0.0,0,0,0.0,7.0,7,7,0.0,0.0,0,0,0.0,4.0,4,4,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,37.0,37,37,0.0,1.0,1,1,0.0,67.25,2.0,553.0,139.84777438343448,99.0,99,99,0.0,9.0,2,16,4.732863826479693
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,22c6c0ca68aee25ca7923f7eff85079f9dc08376,Jim Schubert,james.schubert@gmail.com,2020-01-31 17:19:16,jimschubert,"[core] Extracting recommendations to validation framework (#4979)
+
+* [core] Extracting recommendations to validation framework
+
+This is work to extract recommendation logic out of the CLI validate command
+into a shared evaluation instance which can be used elsewhere (such as Gradle,
+or the Online tool).
+
+For now, these validations are in addition to those provided by swagger-parser and
+are only the following recommendations:
+
+* Apache/Nginx warning that header values with underscore are dropped by default
+* Unused models/schemas
+* Use of properties with oneOf, which is ambiguous in OpenAPI Specification
+
+I've allowed for disabling recommendations via System properties, since this is
+something that has been requested a few times by users. System properties in this
+commit include:
+
+* openapi.generator.rule.recommendations=false
+  - Allows for disabling recommendations completely. This wouldn't include all warnings
+    and errors, only those we deem to be suggestions
+* openapi.generator.rule.apache-nginx-underscore=false
+  - Allows for disabling the Apache/Nginx warning when header names have underscore
+  - This is a legacy CGI configuration, and doesn't affect all web servers
+* openapi.generator.rule.oneof-properties-ambiguity=false
+  - We support this functionality, but the specification may not intend for it
+  - This is more to reduce noise
+* openapi.generator.rule.unused-schemas=false
+  - We will warn when a schema is not referenced outside of Components, which
+    users have requested to be able to turn off
+* openapi.generator.rule.anti-patterns.uri-unexpected-body=false
+
+* Move recommendation/validations to oas package and add javadoc comments
+
+* Refactor and test recommendation validations
+
+* Refactor validation function signatures to return explicit state rather than boolean
+
+* Add operation recommendation for GET/HEAD w/body",f06ac9d91c19b93d488803ed09959560a871deb8,2020-01-31 13:57:15,3.0,1,openapi-generator,22c6c0ca68aee25ca7923f7eff85079f9dc08376,4.5,4,5,0.5773502691896257,7.0,3,11,4.618802153517006,1.0,1,1,0.0,8.0,1,15,8.082903768654761,0.0,0,0,0.0,5.0,2,8,3.4641016151377544,0.0,0,0,0.0,4.5,2,7,2.886751345948129,0.5,0,1,0.5773502691896257,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.5,0,1,0.5773502691896257,0.5,0,1,0.5773502691896257,0,0,0,0.0,0.5,0,1,0.5773502691896257,0,0,0,0.0,2.5,0,5,2.886751345948129,35.5,23,48,14.433756729740644,3.0,1,5,2.309401076758503,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,2.0,2,2,0.0,1.5,1,2,0.5773502691896257,0.0,0,0,0.0,0.0,0,0,0.0,4.0,1,7,3.4641016151377544,52.0,46,58,6.928203230275509,9.0,1,17,9.237604307034012,656.0,131.0,2139.0,988.9044443220993,62.5,39,86,27.135462651912412,5.0,1,9,4.618802153517006
+10,15.211747643219724,1.0,167.0,1.0,2.0,2.5,3.0,5.0,7.0,11.0,15.0,18.0,21.0,36.0,376e419d0beffe2aaf419efe0143412b89b3738c,Jim Schubert,james.schubert@gmail.com,2019-12-27 07:42:32,jimschubert,"Support models with multi-level hierarchy (via roxspring) (#4503)
+
+* Example of broken multi-level hierarchy
+
+* Support for multiple levels of hierarchy in model objects
+
+* Support for multiple levels of hierarchy in generators
+
+* Regenerated samples
+
+* Temporarily skip scalaz sample verification, which is having issue with Java version in CI container
+
+* Re-enable scalaz in verify samples
+
+Co-authored-by: Rob Oxspring <roxspring@imapmail.org>",daec02b8c555484f61aceb2b40c887f6325f84cd,2019-12-27 06:42:05,1.0,1,openapi-generator,376e419d0beffe2aaf419efe0143412b89b3738c,6.2592592592592595,3,11,4.005693953060324,14.0,14,14,0.0,1.0,1,1,0.0,8.0,8,8,0.0,0.0,0,0,0.0,10.0,10,10,0.0,0.0,0,0,0.0,9.0,9,9,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,2.814814814814815,2,4,1.001423488265081,0.8148148148148148,0,2,1.001423488265081,0.8148148148148148,0,2,1.001423488265081,1.5925925925925926,1,2,0.5007117441325405,0.4074074074074074,0,1,0.5007117441325405,0,0,0,0.0,0.8148148148148148,0,2,1.001423488265081,0,0,0,0.0,3.0,3,3,0.0,78.14814814814815,70,90,10.014234882650795,11.0,11,11,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,17.814814814814813,17,19,1.0014234882650805,0.0,0,0,0.0,7.814814814814815,7,9,1.0014234882650825,0.0,0,0,0.0,4.814814814814815,4,6,1.0014234882650808,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,43.111111111111114,37,52,7.510676161988107,1.0,1,1,0.0,83.70370370370371,3.0,553.0,113.8270668145373,103.74074074074075,72,119,10.063615318381027,42.22222222222222,8,70,18.36663641860788
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,9fc33f6a73b6eeef39d896d7b10d2ce6c917cfdd,agilob,agilob@users.noreply.github.com,2021-02-25 09:11:16,agilob,"[Dart] Add configuration to add new generators and add json_serializable (#8789)
+
+* Add Dart configuration flag to set new generator
+
+* Change templates to add json_serializable generator
+
+* Fix dart tests
+
+* Add custom serialization for standard generator
+
+* this change opens us a way to allow adding more than 2 generators
+
+* Add sample project for json_serializer
+
+* Use basename for json field name
+
+* Update samples with basename as json key
+
+* Update dart generator docs
+
+* Create AbstractDartCodegen class
+
+* Update docs, dart-dio and dart-jaguar dont get json_serializable yet
+
+* Deduplicate method calls
+
+* Dix dart-dio generation
+
+* Revert formatting change in dart mustache
+
+* Fix formatting changes again
+
+* Improve dart serialization documentation
+
+specify default serializer
+
+* Better name for cli option
+
+* Rename default dart generator to 'native'
+
+* Another attempt to reduce whitespace noise
+
+* Fix api-client and api-helper
+
+* Rename default serialization mode to include word serialization
+
+* Remove trailing whitespace in enums",34c77c2807b29412f4c6fd625dd6a017652ad0bd,2021-02-25 07:43:21,1.0,1,openapi-generator,9fc33f6a73b6eeef39d896d7b10d2ce6c917cfdd,17.0,17,17,0.0,113.5,112,115,2.1213203435596424,2.0,2,2,0.0,110.5,109,112,2.1213203435596424,861.0,858,864,4.242640687119285,44.0,44,44,0.0,0.0,0,0,0.0,41.5,41,42,0.7071067811865476,0.0,0,0,0.0,2.5,2,3,0.7071067811865476,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,23.0,23,23,0.0,9.0,9,9,0.0,8.0,8,8,0.0,1.0,1,1,0.0,14.0,14,14,0.0,0,0,0,0.0,9.0,9,9,0.0,0,0,0,0.0,22.0,21,23,1.4142135623730951,560.5,557,564,4.949747468305833,48.0,47,49,1.4142135623730951,4.0,4,4,0.0,5.0,5,5,0.0,2.5,2,3,0.7071067811865476,2.5,2,3,0.7071067811865476,215.0,209,221,8.48528137423857,2.5,2,3,0.7071067811865476,83.5,83,84,0.7071067811865476,31.0,28,34,4.242640687119285,51.5,51,52,0.7071067811865476,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,217.5,217,218,0.7071067811865476,1025.0,1025,1025,0.0,209.5,188.0,231.0,30.405591591021544,659.0,659,659,0.0,7.0,7,7,0.0
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,df1ae0396069074944ddf50190bc302d5eb427c3,William Cheng,wing328hk@gmail.com,2021-02-25 06:10:49,wing328,"[Refactor] create Python abstract class (#8817)
+
+* create python abstract base class
+
+* refactor AbstractPythonConnexionServerCodegen
+
+* update doc",a31dba5b8873e4d3ccb3cd648e132bc3a3228462,2021-02-24 18:32:49,11.0,1,openapi-generator,df1ae0396069074944ddf50190bc302d5eb427c3,13.0,13,13,0.0,175.0,175,175,0.0,2.0,2,2,0.0,112.5,110,115,3.5355339059327378,401.0,401,401,0.0,30.0,30,30,0.0,1.0,1,1,0.0,28.0,28,28,0.0,1.0,1,1,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,3.0,3,3,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,50.5,50,51,0.7071067811865476,550.5,550,551,0.7071067811865476,48.5,48,49,0.7071067811865476,6.0,6,6,0.0,15.5,15,16,0.7071067811865476,1.0,1,1,0.0,1.0,1,1,0.0,258.0,257,259,1.4142135623730951,18.0,18,18,0.0,121.0,121,121,0.0,44.5,41,48,4.949747468305833,43.0,43,43,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,186.5,186,187,0.7071067811865476,1025.0,1025,1025,0.0,179.5,171.0,188.0,12.020815280171307,658.0,658,658,0.0,1.0,1,1,0.0
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,a7a59378137cb1ce70d785f422251928df009846,Hugo Alves,hugo.ma.alves@gmail.com,2021-01-23 02:33:16,hugo-ma-alves,"[JAVA][FEIGN]Implement unit tests for java-feign client (#8484)
+
+* Implement unit tests for feign client
+
+Implement tests
+Migrate to junit 5
+
+* Default feign client does not support PATCH verb
+
+Default feign client does not support PATCH verb
+
+* Remove test for GET endpoint with request body
+
+* Configure junit in gradle build
+
+* Configure logback for unit tests
+
+* Add missing dependencies to sbt
+
+* Fix gradle dependency
+
+* Add logback to gradle unit test
+
+* Regenerate samples
+
+* Make junit test classes package private
+
+* Make junit test classes package private
+
+* Update samples
+
+* Organize imports
+
+* Organize imports",90ed1290fafe08306283f9acb74650e5b8d19302,2021-01-22 09:58:27,16.0,1,openapi-generator,a7a59378137cb1ce70d785f422251928df009846,2.4901960784313726,1,14,1.950430610548211,4.627450980392157,1,30,4.805263496993875,1.0,1,1,0.0,0.35294117647058826,0,10,1.4976762185891697,19.862745098039216,0,435,63.1533283307932,4.627450980392157,1,30,4.805263496993875,0.0,0,0,0.0,4.627450980392157,1,30,4.805263496993875,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.9607843137254902,0,1,0.19474520942612997,0.0,0,0,0.0,0.0,0,0,0.0,0.9607843137254902,0,1,0.19474520942612997,0.0,0,0,0.0,0,0,0,0.0,0.8627450980392157,0,1,0.34524635615691646,0,0,0,0.0,0.0,0,0,0.0,29.11764705882353,9,126,20.767174622361743,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,2.5098039215686274,0,50,7.31717306559211,0.0,0,0,0.0,2.5098039215686274,0,50,7.31717306559211,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,17.352941176470587,6,116,19.005702256592727,1.0,1,1,0.0,183.66666666666666,8.0,3513.0,347.4456981427381,44.72549019607843,-33,246,44.63761030644415,130.72549019607843,1,262,72.64162530914477
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,ede2a2316c9ce6845f2374a4994b8b362e8b1f35,Hugo Alves,hugo.ma.alves@gmail.com,2021-01-19 04:41:25,hugo-ma-alves,"[JAVA][Feign] Replace Apache oltu with scribejava (#8318)
+
+* - Replace apache oltu with scribejava
+- Implement the following authentication methods
+  - ApiKey header
+  - HTTP basic authentication
+  - Oauth client credentials flow
+  - Oauth Implicit flow
+  - Oauth Pasword (deprecated)
+
+* Create class hierarchy for Oauth flows implementation
+
+* Add instructions of how to use the ApiClient to Readme.md
+
+* Update samples
+
+* Remove support for java 6 and 7
+
+* Remove java 6 and 7 support from gradle
+
+* Format pom.xml
+
+* Remove empty line
+
+* Update samples
+
+* Remove oltu dependency from build.gradle and build.sbt.
+Replace oltu with ScribeJava
+
+Update samples
+
+* Update samples
+
+* Update samples",6e4c1307a768fca44dd5f2dce14e85e77d9c8387,2021-01-19 03:33:17,1.0,1,openapi-generator,ede2a2316c9ce6845f2374a4994b8b362e8b1f35,16.0,16,16,0.0,28.0,28,28,0.0,1.0,1,1,0.0,18.0,18,18,0.0,51.0,51,51,0.0,15.0,15,15,0.0,0.0,0,0,0.0,15.0,15,15,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4.0,4,4,0.0,7.0,7,7,0.0,1.0,1,1,0.0,0.0,0,0,0.0,6.0,6,6,0.0,0.0,0,0,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,2.0,2,2,0.0,160.0,160,160,0.0,5.0,5,5,0.0,0.0,0,0,0.0,2.0,2,2,0.0,1.0,1,1,0.0,0.0,0,0,0.0,3.0,3,3,0.0,1.0,1,1,0.0,12.0,12,12,0.0,3.0,3,3,0.0,8.0,8,8,0.0,2.0,2,2,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,72.0,72,72,0.0,1.0,1,1,0.0,142.83333333333334,26.0,188.0,64.1260595635777,-11.0,-11,-11,0.0,11.25,9,14,2.0056737702645644
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,9377dbca56afcc32901262e94ba4d7af4379ba94,William Cheng,wing328hk@gmail.com,2020-11-02 13:31:32,wing328,"Add ""decimal"" support (#7808)
+
+* rename BigDecimal to decimal
+
+* add isDecimal
+
+* fix tests
+
+* minor fixes
+
+* fix mapping, update doc
+
+* update test spec
+
+* update c# samples",ca6fcaf92a081876ff1309771ca399d338a47383,2020-11-02 11:42:52,1.0,1,openapi-generator,9377dbca56afcc32901262e94ba4d7af4379ba94,6.666666666666667,4,8,2.0,50.0,50,50,0.0,1.0,1,1,0.0,10.666666666666666,8,12,1.9999999999999996,693.0,693,693,0.0,46.0,46,46,0.0,0.0,0,0,0.0,45.0,45,45,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,23.333333333333332,14,28,7.0,9.333333333333334,0,14,7.0,9.333333333333334,0,14,7.0,14.0,14,14,0.0,0.0,0,0,0.0,0,0,0,0.0,9.333333333333334,0,14,7.0,0,0,0,0.0,15.666666666666666,15,16,0.49999999999999994,294.0,264,309,22.5,35.0,35,35,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,67.66666666666667,63,77,7.000000000000001,0.0,0,0,0.0,39.333333333333336,30,44,7.0,0.0,0,0,0.0,25.333333333333332,16,30,7.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,83.66666666666667,69,91,11.0,1.0,1,1,0.0,284.0,29.0,2147.0,700.2462067016143,517.0,486,533,23.25403190846697,5.333333333333333,2,10,3.605551275463989
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,14a500c6fec8e817302e9652f622302946263c3c,Oleh Kurpiak,oleh.kurpiak@gmail.com,2020-08-31 14:31:28,borsch,"[Java][Client] Use java8 OffsetDateTime for clients (#7190)
+
+* use java8 OffsetDateTime for clients
+
+* use java8 OffsetDateTime for clients
+
+* fix javadoc
+
+* add javadoc to JavaTimeFormatter.mustache
+
+* add javadoc to JavaTimeFormatter.mustache
+
+* add javadoc to JavaTimeFormatter.mustache",b9662dc25d09d2c7573eebe108212417433fce65,2020-08-31 13:25:18,1.0,1,openapi-generator,14a500c6fec8e817302e9652f622302946263c3c,0.6666666666666666,0,2,1.1547005383792517,5.0,5,5,0.0,1.0,1,1,0.0,2.0,2,2,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.6666666666666666,0,1,0.5773502691896258,24.0,24,24,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,1.0,1,1,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,41.0,41,41,0.0,1.0,1,1,0.0,120.0,34.0,177.0,75.78258375114957,45.0,45,45,0.0,1.0,1,1,0.0
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,90dd7a03418ff4554ae8351b325eb86ee5794e92,William Cheng,wing328hk@gmail.com,2020-04-22 03:47:08,wing328,"Sync master to 5.0.x  (#5968)
+
+* Change the Model template (#5222)
+
+* Add a link to Xero blog post (#5426)
+
+* Removal of Encoding in the Query-Params in order to prevent double Encoding. (#5255)
+
+This way letting WebClient do its Job in encoding the URL.
+
+* update java webclient sample
+
+* [kotlin][client] Add Jackson as serialization library (#5236)
+
+* [kotlin][client] Add Jackson as serialization library
+
+* [kotlin][client] Add kotlin-client-jackson.sh to kotlin-client-all.sh
+
+* update kotlin client samples
+
+* update doc
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* include kotlin jackson in CI tests (#5438)
+
+* [Ruby] Add error output (#5428)
+
+* Add error output to the log so that we can make sure why the error occurred
+
+* Fix forbidden method invocation using default charsets
+
+* Update usage.md (#5443)
+
+* fix NPE for enum (#5445)
+
+* [Java][WebClient] better code format (#5433)
+
+* better code format for java webclient
+
+* prefix local varaible with localVar
+
+* fix issue with online service (#5461)
+
+* Support for additionalProperties in the C generator ""Client: C"" solves #5395 (#5440)
+
+* Support for additionalProperties in the C generator.
+
+* Support for additionalProperties in the C generator.
+
+* [docs] Enable Algolia search (#5472)
+
+* Fix #5420 add headers from configuration object (#5422)
+
+* Fix #5420 add headers from configuration object
+
+* Add baseOptions undefined checking #5420
+
+* Update the samples and replace array to object #5420
+
+* Update sample
+
+* [typescript] Clean up modelPropertyNaming across generators  (#5427)
+
+* [typescript] Clean up modelPropertyNaming across generators
+Fixes https://github.com/OpenAPITools/openapi-generator/issues/2976
+
+Generators without runtime models conversion use ""original"" property naming by default. It's still possible to change it via cli options
+
+Generators with runtime conversion keep using ""camelCase""
+
+* Refactoring: use enum instead of string for modelPropertyNaming
+
+* Restore the original camelCase for var names, decouple it from property names
+
+* Swap toParamName and toVarName logic (looks like I've mistaken them)
+
+* Regenerate docs
+
+* Remove a no longer used private method
+
+* Added support for msvc builds in cpp-qt5-client generator (#5468)
+
+* Added support for msvc builds
+
+Moved GCC-specific compile flags to non msvc builds, and added equivalent flags for msvc.
+
+* CMakeLists condition cleanup
+
+* [all] Move feature set setter (#5460)
+
+When I originally implemented the feature set code, I added the
+getter/setter on DefaultCodegen and CodegenConfig as well as on
+GeneratorMetadata. GeneratorMetadata also includes the library variation
+features. When I went to add library-specific features, I realized the
+discrepancy.
+
+This removes the public setter from DefaultCodegen/CodegenConfig, and
+adds a protected modifyFeatureSet which accepts a lambda and hides the
+builder logic away in the method.
+
+This will be a breaking change for anyone who's created a custom
+generator in 4.2.3, so the impact is very limited.
+
+* [Swift5] small improvements to Objc compatibility (#5410)
+
+* [swift] make some small improvements
+
+* [swift][client] revert model to use allVars
+
+* PostProcessModelProperty with allVars
+
+* PostProcessModelProperty with vars
+
+* [swift] improve objc interoperability
+
+* [swift] fix swift4 for CI to pass
+
+* [swift] improve objc interoperability
+
+* [swift] improve objc interoperability
+
+* Swift - try to fix build
+
+* [swift] remove pods from git
+
+* [scala] [template] scala sttp client (#5429)
+
+* scala-sttp-client template
+
+* invoker for sttp fixed and tests added
+
+* clean up pet api test from redunant comments
+
+* docs updated
+
+* fix artefact name, model comments and redunant generic
+
+* code optimization
+
+* cross scala versions 2.11 2.12 2.13
+
+* date serializers extracted and joda enabled as default
+
+* basic and bearer authorization added, apikey in query supported
+
+* [Ruby] Fix obsolete configuration of Rubocop and Rubocop's warns (#5417) (#5474)
+
+* fix obsolute configuration in generated .rubocop.yml
+
+* fix style of `expect` with block in generated ruby client's test code
+
+* update sample of ruby client
+
+* [scala] strip model class name for all scala generators (#5439)
+
+* stripped parameter enabled for all scala based generators
+
+* scala samples updated
+
+* docs generators updated
+
+* fix scalatra. regenerated by openapi3 script.
+manually removed enum default value from scalatra example due bug in schema extraction
+
+* [Scala][sttp] various improvements (#5475)
+
+* various improvements to scala sttp
+
+* update ScalaSttpClientCodegen.java
+
+* add windows batch file
+
+* test scala sttp in jdk8
+
+* fix tempalte directory
+
+* Use the dataType if the baseType is not set (#5372)
+
+* Use the dataType if the baseType is not set
+
+* add tests for passing enum as parameter
+
+* updated requirements file in samples
+
+* Update spec to explicitly name objects and prevent `inline_object`
+
+* use the correct scripts to generate samples (`bin/openapi3/python-flask*`)
+
+* [python] Adds python oneOf/anyOf models + tests (#5341)
+
+* Adds oneOf + anyOf schemas, models and tests to python-experimental
+
+* Adds setUpClass and tearDownClass
+
+* Removes newline in method_init_shared.mustache
+
+* Regenerated v3 spec sample for python-experimental
+
+* Fxes test for discard_unknown_keys
+
+* Moves new models into existing spec, regen python-exp and go-exp
+
+* Also fix python-exp windows file
+
+* fix CVE-2020-8130 (#5483)
+
+* [go] Add Ptr method to const enum values (#5257)
+
+* fix rubocop warns in Ruby client's custom spec (#5488)
+
+* [C-libcurl] The name in API parameter should not be escaped even though it includes a C key word. (#5487)
+
+* [go-experimental] Support aliasing of API keys (#4940)
+
+* [go-experimental] Support aliasing of API keys
+
+* Use {{.}} inside condition
+
+* Use name instead of keyParamName for lookup
+
+* x-lookup to x-auth-id-alias
+
+* [java] Support aliasing of API keys (#4966)
+
+* [java] Support aliasing of API keys
+
+* Rebuild Java Jersey2 sample client
+
+* x-lookup to x-auth-id-alias
+
+* Regenerated
+
+* [cli][gradle] Validate now uses parseOptions w/setResolve (#5471)
+
+* [cli] Validate now uses parseOptions w/setResolve
+
+The validate command now uses ParseOptions#setResolve(true) to match how
+we parse in CodegenConfigurator and online's Generate. Without this
+option, the OpenAPI 3 parser skips the ""resolve"" block, which made lead
+to validations in the command not matching validations during
+generation.
+
+* [gradle] Validate now uses parseOptions w/setResolve
+
+The Graldle validate command now uses ParseOptions#setResolve(true) to match how
+we parse in CodegenConfigurator and online's Generate. Without this
+option, the OpenAPI 3 parser skips the ""resolve"" block, which made lead
+to validations in the command not matching validations during
+generation.
+
+* [kotlin]Fix ktor doesn't generate nullable types (#5258)
+
+* If not required, need `? = null`
+
+* run  ./bin/kotlin-server-petstore.sh
+
+* Added `?` when value is `required` and `isNullable`
+
+* Rerun ./bin/kotlin-server-petstore.sh. But No differences
+
+* [C++] Add an option to allow having lowercase variables in models, Pistache: allow using reservedWords in models (#5434)
+
+* [C++][Pistache] Use reserved words to replace incorrect names
+
+discard old decision to truncate reservedWords
+
+* [C++][Pistache] Update struct model to use name instead of baseName
+
+* [C++][Pistache] Update Petstore sample
+
+* [C++] Add option to have lowercase variables
+
+* [C++] Update generated docs
+
+* [BUG] [JAVA | Spring] Cookie in parameter is not correctly generated (#5393)
+
+* Cookie in parameter is not correctly generated
+
+* gh-5386: Fix cookie parameter in
+
+* gh-5386: Fix cookie parameter in
+
+* gh-5386: Update test file
+
+* gh-5386: Fix cookie parameter in
+
+* gh-5386: Fix cookie parameter in
+
+* gh-5386: Regenerate samples
+
+* gh-5386: Fix test
+
+* Added Spring CookieValue tests
+
+Co-authored-by: Gonzalo <gonzalo.nom.es@gmail.com>
+
+* Add missing `@Generated` annotation. (#5384)
+
+The annotation is present on other generated files when using jaxrs-spec, but it missing on model classes.
+
+* [scala] [template] scala model property style (#5486)
+
+* Model property naming style generic for scala
+
+* scala templates based on abstractScala regererated
+
+* docs generators updated
+
+* property format tests
+
+* add Agoda as the user (#5494)
+
+* Hide timestamp in Scala Play server samples (#5495)
+
+* hide timestamp in scala play server output
+
+* add chameleon82 to scala tech committee
+
+* Add a link to tech blog tech.medpeer.co.jp (#5498)
+
+* Add links to blog posts about OpenAPI Generator (#5508)
+
+* Typescript array alias array (#4981)
+
+* Add failing tests for typescript type declaration
+
+* Refactor array and map child type string fallback
+
+* Add unaliasSchema to typescript getTypeDeclaration
+
+* TypeScriptRxjs: Use Blob as file type declaration
+
+This was inadvertantly changed in
+https://github.com/OpenAPITools/openapi-generator/pull/5266
+
+* [core] Sanitize/underscore/camelize cache expiry (#5484)
+
+The helper methods for sanitize/underscore/camelize were recently
+updated to cache values in static maps. This would lead to a memory leak
+in hosted environments as the maps had no cleanup/expiry.
+
+This moves those cached entries to Caffeine caches with expiry based on
+last access to allow the edge-case performance improvement gains on very
+large documents, without the memory leak in hosted or embedded
+environments.
+
+* Update README.md
+
+* Add a link to the conference paper (#5510)
+
+* Add a link to the conference paper
+
+* fix author list
+
+* [Slim4] Add Data Mocker middleware (#4978)
+
+* [Slim4] Store response schemas
+
+* [Slim4] Add Data Mocker middleware
+
+* [Slim4] Enhance Slim router
+
+* [Slim4] Enhance config
+
+* [Slim4] Fix data format key in object mocking
+
+* [Slim4] Add tests for Data Mocker middleware
+
+* [Slim4] Add Mock feature documentation
+
+* [Slim4] Refresh samples
+
+* [Java][Spring][Spring-Cloud] Fix #5144 - Use conditional package declaration to avoid unnecessary dependencies (#5145)
+
+* FIX: Use conditional package declaration to avoid unnecessary dependencies
+
+* DEV: Adjusted sample ClientConfiguration.java for async spring-cloud
+
+* fix(php): no need to serialize collections, Guzzle does that, fix #2292 (#3984)
+
+* fix(php): only serialize collections if !explode, Guzzle handles the rest, fix #2292
+
+* fix(php): update petstore samples
+
+Co-authored-by: Mahdi Dibaiee <mdibaiee@pm.me>
+
+* [php] replace $collectionFormat with $style (#5517)
+
+* php - remove $collectionFormat
+
+* update php openapi3 petstore sample
+
+* [BUG][scala][template] scala generate java.math.BigDecimal instead of scala type (#5514)
+
+* [BUG] scala generate java.math.BigDecimal instead of scala type
+
+* update docs/generators
+
+* [PHP] complete support for form style (#5519)
+
+* [BUG][PHP] Parameter property style not fully implemented (related to comment on PR #3984)
+
+* [AUTOGENERATED][PHP] Sample Files
+
+* update jackson dependency to newer version (#5527)
+
+* Fix Swift4 CI tests (#5540)
+
+* comment out swift 4 order tests
+
+* comment out store tests
+
+* Test Dart petstore client in CircleCI (#5544)
+
+* test dart2 in circle ci (jdk7)
+
+* fix tests
+
+* update package
+
+* fix dart installation
+
+* Add serialization of ModelComposed (#5551)
+
+* Fixes kwargs typos, removes E501s (#5552)
+
+* Update generic model to support nullable properties (#5568)
+
+* [DOC] Add link to integration test wiki in CONTRIBUTING.md (#5570)
+
+* Add link to integration test wiki
+
+* Add link to integration test wiki
+
+* [Kotlin][client] fix file upload (#5548)
+
+* [kotlin] fix file upload
+
+* [kotlin] fix file upload
+
+* [kotlin] fix file upload
+
+* [kotlin][client] fix jackson integration
+
+* [kotlin] fix file upload
+
+* [kotlin] fix file upload
+
+* update doc
+
+* [Java] Fix exception when OAuth2 token URL is a relative URL (#5535)
+
+* Add support for case when OAuth2 token URL is a relative URL
+
+* Add support for case when OAuth2 token URL is a relative URL
+
+* run scripts under bin
+
+* [Java] fix runtime exception when there are multiple auth methods (#5530)
+
+* fix runtime exception when there are multiple auth methods
+
+* Refactor a bit so that it does not cause conflict with relative url token branch
+
+* [markdown] Fix broken links when generating markdown (#5569)
+
+* [markdown] Fix broken links when generating markdown
+
+The `api.mustache` file generates links to the markdown model files.
+These links were previously brokeen.
+
+Additionally, the defaultPackage for markdown is ""/Models"", so this
+looked pretty in the heading for model files. So this prefix has been
+stripped from the header in `model.mustache`.
+
+* Re-generate Petstore samples for markdown
+
+* typescript-angular: fix zone-js version for angular 8 (#5585)
+
+* Add a link to the slide (#5590)
+
+* [Swift] fix URLSession file upload (#5546)
+
+* [swift5] - fix URLSession file upload
+
+* [swift5] - fix URLSession file upload
+
+* [swift5] fix file upload
+
+* [swift5] - fix URLSession file upload
+
+* [swift] add unit tests for file upload
+
+* [swift] update samples copyright
+
+* [swift] add option for API prefix (#5567)
+
+* [swift] add option for API prefix
+
+* [swift] update docs
+
+* [haskell-http-client] update stack; exclude problem time versions (#5589)
+
+* [go-experimental] Do not generate HTTP signature unit test for every generated SDK (#5588)
+
+* Do not generate HTTP signature unit test for every generated SDK
+
+* Add golang 1.14 to CI environment
+
+* fix unit test issues
+
+* remove script commands that were commented out
+
+* add support for ed25519 private keys
+
+* PR to solve 2 open issues on enums: #5091 and #4293 (#5477)
+
+* PR to solve 2 open issues on enums:
+Issue 5091 needs to generate enums also when the enum is directly in a param to a API call, instead than in a model. I did that by copying and adapting enum code from *model* to *api*
+Issue 4293 needs to decorate enums, for when enum names or enum values are repeated over the yaml definition.
+
+* PR to solve 2 open issues on enums:
+Issue 5091 needs to generate enums also when the enum is directly in a param to a API call, instead than in a model. I did that by copying and adapting enum code from *model* to *api*
+Issue 4293 needs to decorate enums, for when enum names or enum values are repeated over the yaml definition.
+
+* Enums decorated: with {{projectName}}_{{classVarName}}_{{enumName}}_ in the models, with {{projectName}}_{{classVarName}}_{{enumName}}_ in the operations.
+
+* Changes to the c client:
+- Removed white space.
+- Removed ToJSON and FromJSON function for the enums, since they are not used
+- Sanitized project name in the .java file. For example, this solves a problem with the issue #2338, where the yaml file had title: ""Skycoin REST API.""
+
+* Changes to the c client:
+- Removed white space.
+- Removed ToJSON and FromJSON function for the enums, since they are not used
+- Sanitized project name in the .java file. For example, this solves a problem with the issue #2338, where the yaml file had title: ""Skycoin REST API.""
+
+* Adds parseFlattenSpec (#5526)
+
+* Adds parseFlattenSpec, updates tests and helper functions
+
+* Adds parseSPec invocation inside parseFlattenSpec
+
+* Scala-Akka: Add missing body to PATCH requests (#5605)
+
+* NodeJS - Adds missing keyword (#5606)
+
+* [jaxrs-cxf-cdi] Support PATCH httpMethod (#5574)
+
+Update the required CXF version to 3.1.2 since PATCH support appeared
+with this version.
+
+Add the cxf PATCH annotation to the imports so that the generated code
+when defining a PATCH api compiles.
+
+* fix default value for abstract scala and scalatra server impl (#5578)
+
+* [Java] Generated API class has wrong dataType and does not compile Issue (#5331)
+
+* add unit test assertion
+
+* add check for composed schema
+
+* add support for x-allOf-name
+
+* change x-allOf-name to x-all-of-name
+
+* Add more troubleshooting information
+
+* Add more troubleshooting information
+
+* Add more troubleshooting information
+
+* Add more troubleshooting information
+
+* [swift5] stop hiding network error (#5603)
+
+* [swift5] stop hiding network error
+
+* [swift5] stop hiding network error
+
+* [scala][templates] java 8 dates support (#5291)
+
+* [scala][akka-http-client] java8 dates support
+
+* scala-akka readme doc updated
+
+* DateSerializers renamed
+
+* rename serializers
+
+* move date-library option to abstractScala
+
+* generators docs updated
+
+* enum defined for date libraries
+
+* Backport to scala-http-client
+
+* fix scala-akka-client date serializers
+
+* fix typo in docs
+
+* switch scala templates to java8 (jsr-310) date library by default
+
+* update scala samples with java8 date library
+
+* update scala generators docs with java8 default date library
+
+* fix scala-play-server generator cli options as only java8 dateLibrary supported
+
+* fix scalaz DateTimeCodecs template to support java8
+
+* scalaz ci test againt java7 removed as it generate scala 2.11.8 client which is java8 based
+
+* update doc
+
+* Adding Response Interceptor (#5500)
+
+* added Response interceptor for native clients
+
+* added Response interceptor for native clients
+
+* [k6] Add blog post about using the k6 generator (#5608)
+
+* [Kotlin] Remove kotlin-reflect dependency when not needed (#5502)
+
+* Remove kotlin-reflect dependency when using CodeGen
+
+* Update Kotlin tests
+
+* Regenerated unit test samples
+
+* Remove newline in generated build.gradle files
+
+* [typescript-fetch] add interfaces, withInterfaces (#5612)
+
+* typescript-fetch: interfaces, first draft
+
+* fix name in description
+
+* [scala] Regenerate akka sample (#5622)
+
+* scala-version 2.11.12 (#5618)
+
+* micheleISEP->michelealbano (#5625)
+
+* [Powershell] refactor the client generator (#5629)
+
+* add api client
+
+* add local variables
+
+* add configuration
+
+* add header/query/form parameter support
+
+* add partial header
+
+* add auth, fix parameters type
+
+* fix accept, content type
+
+* url query string
+
+* fix path, header
+
+* remove dep on C# client
+
+* fix method naming with package name
+
+* fix object
+
+* convert result from json
+
+* better response handling
+
+* remove tostring method
+
+* fix model doc
+
+* fix default module
+
+* generate api test files
+
+* better api, model tests
+
+* fix add pet
+
+* add appveyor
+
+* fix accept, content type
+
+* add petstore tests
+
+* fix form parameters
+
+* test delete
+
+* better file handling (upload)
+
+* better code sample
+
+* add package version, better doc
+
+* delete unused files
+
+* fix header parameters
+
+* clean up api client
+
+* update samples
+
+* support query parameter
+
+* better method and parameter naming
+
+* minor formatting change
+
+* better doc, fix cookie parameter
+
+* better doc
+
+* add api prefix support
+
+* better api nam prefix option
+
+* fix configuration
+
+* throw errors for required parameter
+
+* fix authentication
+
+* add try catch block to sample code
+
+* rename model
+
+* use debug, clean up comment
+
+* revise code
+
+* move bin script
+
+* update doc
+
+* add new file
+
+* better map support
+
+* [PowerShell] minor improvements and bug fixes (#5635)
+
+* add output type, minor format fix
+
+* minor test improvement
+
+* Port client updates to server (#5634)
+
+* Revert ""scala-version 2.11.12 (#5618)""
+
+This reverts commit 6b984a926a0f99120a4ad80cef73bee19f8614cd.
+
+* update release date
+
+* Handle negative response from the server (#5649)
+
+* Fix integration tests (Travis, CircleCI) (#5672)
+
+* fix php tests
+
+* fix scala tests
+
+* update ts angular v6 rest
+
+* fix user create test
+
+* fix spring cloud test
+
+* comment out user delete
+
+* fix angular v7 tests
+
+* fix user test
+
+* fix tests
+
+* fix go exp tests
+
+* commented out delete user tests
+
+* comment out delete user tests in go openapi 3
+
+* fix clojure tests
+
+* [PowerShell] Fixes typo (#5648)
+
+* Solving issue #5623 and supporting bools for C client label:""Client: C"" (#5624)
+
+* Removed stray ""printf""s in
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/CLibcurlClientCodegen.java
+
+* Support for booleans in C client
+
+* Update README.md
+
+* Change to C API mustache files to solve issue #5623
+
+* Debugging of C's modle-body.mustache, as suggested by ityuhui
+
+* Final changes suggested by ityuhui
+
+* [PowerShell] Fix map type (#5638)
+
+* fix map type
+
+* remove output type, fix appveyor
+
+* test macos
+
+* comment out failing scala test
+
+* fix typo: configuration
+
+* Revert ""comment out failing scala test""
+
+This reverts commit 1dcf84ffcbb7ab520938ae7c75d60a8329f71478.
+
+* [powershell-experimental] Protects against stackoverflow when OAS spec has circular references (#5646)
+
+* protects against stackoverflow when OAS spec has circular references
+
+* protects against stackoverflow when OAS spec has circular references
+
+* Adds configuration option to skip certificate check. Fixes a typo. Fixes an issue which was restricting from cookie to get consumed (#5657)
+
+* [k6] bugfixes to improve the output script (#5614)
+
+* [k6] Skip appDescription escaping
+
+* [k6] Fix variable identifier in output
+
+* [k6] Fix bug with reserved words handling
+
+* [C][Client] Check the pointer before deleting operation to avoid core dump label:""Client C"" (#5626)
+
+* [C-libcurl] Check the pointer before deleting operation to avoid core dump
+
+* [C-libcurl] Check the pointer before deleting operation, update sample
+
+* [kotlin][client] Add Jackson to interface properties and remove extra line feed (#5459)
+
+* [kotlin][client] Ensure Jackson annotations are consistent with interface vars
+
+* [kotlin][client] Rebuild samples
+
+* [kotlin][client] Some kotlin client enhancements
+
+- Don't use JsonFormat for Date objects, this should be controlled via
+  a custom serializer/deserializer or a turning on and off serialization
+  features of Jackson.  I've updated the jacksonObjectMapper config to
+  write the dates as strings, which I think was intended in the original
+  commit.
+  https://fasterxml.github.io/jackson-databind/javadoc/2.6/com/fasterxml/jackson/databind/SerializationFeature.html#WRITE_DATES_AS_TIMESTAMPS
+  https://fasterxml.github.io/jackson-databind/javadoc/2.6/com/fasterxml/jackson/databind/cfg/MapperConfig.html#getDateFormat--
+- Dont' use @JsonFormat(shape = JsonFormat.Shape.OBJECT) for enums.
+  This causes Enums to be formatted as objects with an internal ""value""
+  field.  In reality, OpenAPI enums are just strings without properties
+  and should be treated as a string.
+  https://www.baeldung.com/jackson-serialize-enums#2-enum-as-json-object
+- Add's Kotlin use site annotation @get: to JsonProperty for parent interface
+  properties.  Otherwise Kotlin will warn:
+  ""This annotation is not applicable to target 'member property without
+  backing field or delegate'""
+- Add's JsonTypeInfo annotations to interfaces for inheritance.  This
+  was copied verbatim from the kotlin-spring generator.
+  https://github.com/OpenAPITools/openapi-generator/blob/master/modules/openapi-generator/src/main/resources/kotlin-spring/typeInfoAnnotation.mustache
+
+* [kotlin][client] Rebuild kotlin samples
+
+* Remove scala version in parent pom (#5647)
+
+* [asciidoc] Allow the inclusion of additional documentation to t (#5260)
+
+* [asccidoc] Allow the inclusion of additional documentation to the asccidoc generated
+
+Resolves #5228
+
+* [jaxrs-reasteasy-eap] Fix invalid Bean Validation annotations for Longs (#5659)
+
+* fix issue #5658
+
+* update samples
+
+* [PowerShell] Test powershell petstore client in Appveyor (#5674)
+
+* remove scala version in parent pom
+
+* test ps petstore in appveyor
+
+* fix command
+
+* build and import
+
+* fix import module
+
+* fix import
+
+* skip module import
+
+* run multiple commands
+
+* move to test script
+
+* test ps exit
+
+* fix exit
+
+* check last status code
+
+* clean tests
+
+* exit last code
+
+* add import
+
+* change dir
+
+* skip build failure
+
+* fix check
+
+* trigger build failure
+
+* fail fast
+
+* restore c# test
+
+* new line comment
+
+* add powershell exp to ensure up to date script
+
+* [PowerShell][Experimental] Better docstring (#5688)
+
+* add docstring to powershell module
+
+* add doc string
+
+* Nodejs express js packages update (#5675)
+
+* Updated to new nodejs packages, depending heavily on express-openapi-validator. Requires quite a change in code.
+Updated the business-logic in the controllers/Controller.js file.
+Logger now records also timestamp of events.
+Files are uploaded according to definition in config.js file
+
+* Removed commented-out code; Changed openApi document extensions to suit new express-openapi-validator definition; multipart and file uploading is supported now; Automatic response returns the values the were sent in the request
+
+* fixed README documentation, fixed a mistage in package.json/mustache
+
+* added generated files that were created when running the ./bin/test file
+
+* [go-experimental] Fix nullable support (#5414)
+
+* Fix nullable support in go-experimental client
+
+* Fix support for models with parents and container fields
+
+* Make sure that oneOf interfaces serialize properly even if they're required (non-pointers) on other models
+
+* Spaces => tabs
+
+* Regenerate samples
+
+* Make some methods of nullables pointer-receivers, add tests
+
+* Improve the Get/Set logic to make usage more convenient
+
+* Address review
+
+* [kotlin][client] make base path globally configurable (#5450)
+
+* [kotlin][client] make base path configurable
+
+* [kotlin][client] update pet project
+
+* [kotlin][client] set default base path
+
+* [kotlin][client] set default base path
+
+* [kotlin][client] set default base path
+
+* Add michelealbano to C technical committee (#5692)
+
+* [Go][Experimental] Rename extensions from x-basetype to x-go-base-type (#5691)
+
+* rename go vendor extension
+
+* update go exp petstore samples oas3
+
+* comment out powershell petstore in uptodate script
+
+* remove processing of http_signature_test.mustache (#5696)
+
+* Fix generation of oneOf interfaces for oneOf usage in properties (#5400)
+
+* Fix generation of oneOf interfaces for oneOf usage in properties
+
+* Only generate oneOf interface models when oneOf is defined
+
+* use basic parsing (#5702)
+
+* [python/asyncio] explicitly close client session via async context manager (#5621)
+
+* [gradle] Include engine option for handlebars generation (#5686)
+
+* [codegen][Go] Fix compilation error of generated go code when schema is free form object (#5391)
+
+* Fix code generation for free-form objects in go-experimental
+
+* Execute scripts in bin directory
+
+* Add more use cases for open-ended types
+
+* Add more use cases for open-ended types
+
+* Add more use cases for open-ended types
+
+* add code comments
+
+* Better name for test properties
+
+* handle scenario when type is arbitrary
+
+* handle interface{} scenario
+
+* handle interface{} scenario
+
+* add helper function isAnyType
+
+* isAnyType function
+
+* implementation of isAnyType function
+
+* fix javadoc issue
+
+* handle interface{} scenario
+
+* use equals comparison instead of ==
+
+* merge from master
+
+* Add code documentation
+
+* add code comments, remove unused min/max attribute, fix equals method
+
+* Handle 'anytype' use case
+
+* add code comments
+
+* override postProcessModelProperty to set vendor extension
+
+* Use vendorExtensions.x-golang-is-container
+
+* fix compilation error of generated code
+
+* fix compilation error of generated code
+
+* fix compilation error of generated code
+
+* [Java] Update version of maven-surefire-plugin (#5509)
+
+* use more recent version of maven-surefire-plugin
+
+* use more recent version of maven-surefire-plugin
+
+* higher debug level for troubleshooting ci issue
+
+* temporarily increase debug log to help troubleshoot
+
+* Use local instance of pet store service for unit test purpose
+
+* Add more logging to troubleshoot unit test failures
+
+* Add more logging to troubleshoot unit test failures
+
+* Add more logging to troubleshoot unit test failures
+
+* Add more logging to troubleshoot unit test failures
+
+* Add more logging to troubleshoot unit test failures
+
+* use random ID for Java unit test instead of fixed id
+
+* add code comments and specify URL for java unit test
+
+* reenable quiet argument
+
+* fix java unit test issues
+
+* fix java unit test issues
+
+* Revert ""fix java unit test issues""
+
+This reverts commit e8508416ff0f2aeb568e3f916b013dc967390f74.
+
+* fix java unit test issues
+
+* Generator for JavaScript/Apollo Client (#5645)
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* Add yutaka0m to Kotlin Technical Committee (#5716)
+
+* Add Scala client scripts to ensure-uptodate process (#5712)
+
+* add scala client to ensure-upto-date
+
+* new scala-akka petstore oas3 folder
+
+* regenerate scala akka oas2 petstore
+
+* remove script
+
+* Minor improvments to JS apollo generator (#5714)
+
+* minor improvments to js apollo generator
+
+* comment out apollo
+
+* [Rust Server] Handle text/xml correctly (#5660)
+
+* [Rust Server] Handle text/xml correctly
+
+  Treat application/xml the same as text/xml as per RFC 7303
+
+* [Rust Server] Add test for text/xml
+
+* Update samples
+
+* 4.3.0 release (#5721)
+
+* update samples (#5722)
+
+* 5211 - Use allVars instead of vars for Kotlin client (#5396)
+
+* [C++] [Qt5] fixed cpp-client-qt5 HttpRequestWorker requests crashing on timeout... (#5651)
+
+* - fixed cpp-client-qt5 HttpRequestWorker requests crashing on timeout when they have actually NOT timed out (were calling back into a deleted struct).
+
+* #minor fixes after review
+
+* Regenerate changed files
+
+Co-authored-by: valentin Bisson <valentin@inrosoftware.com>
+Co-authored-by: etherealjoy <sunn.ssb@live.com>
+
+* Fix SSL setting in checkout script (#5725)
+
+* fix ssl setting in checkout script
+
+* add check for sbt-openapi-generator
+
+* [C] fix decode funtion (#5642)
+
+* fix function names and add parameter to return decoded bytes length from base64decode function
+
+* format base64decode function to avoid unnecessary malloc and fix wrong length assigning
+
+* update the pointer assigning
+
+for some reason var++ / *var++ cannot be done on int *var, hence making a local variable which is incremented and at the end it is assigned to the pointer.
+
+* Update bump.sh to go SNAPSHOT to version (#5727)
+
+* Fix CI failures (#5734)
+
+* update ci to use petstore 1.0.4
+
+* comment out test
+
+* comment out test
+
+* comment out update user test
+
+* comment out more tests
+
+* use latest petstore
+
+* comment out updatePetWithForm
+
+* comment out update pet test
+
+* fix file path in release_version_update_docs (#5724)
+
+* better appveyor test (#5739)
+
+* better readme, type mapping, new option (#5740)
+
+* Remove warning for unused camel case vendor extension for Qt5 client and server (#5731)
+
+* [PS][Experimental] Add multiple server support (#5741)
+
+* code comment
+
+* add get host setting
+
+* add multiple server support
+
+* add default headers support (#5746)
+
+* [C][Client] Support SSL client authentication for the c client (#5719)
+
+* [C][Client] Support SSL client authentication
+
+* [C][Client] Support SSL client authentication, update sample
+
+* [kotlin] Fix #5247 incorrect enum parameter type for arrays (#5435)
+
+* [Erlang-Server] security definition context changes don't propagate to handler (#5751)
+
+* Map Merge Context & Params
+
+handler requires context and params to be merged before returned to user defined request_handler.
+
+* post build & shell script
+
+* Delete VERSION
+
+* [PS][PowerShell] fix passthru, use switch instead of bool (#5768)
+
+* fix passthru, use switch
+
+* remove line
+
+* comment out kotlin vertx server test (#5767)
+
+* add support for common verbs (#5771)
+
+* fix request.on_complete message when tempfile is nil (#5745)
+
+* fix request.on_complete message when tempfile is nil
+
+* update faraday client sample
+
+* add openapi3 client samples
+
+* use prepare instead of new (#5773)
+
+* use Initialize instead of prepare (#5777)
+
+* add map example (#5778)
+
+* [PS][Experimental] Better common verb handling (#5783)
+
+* better common verb handling
+
+* better debugging
+
+* add option to customize common verb
+
+* [cli][docker] Better expose version/sha information of builds (#5736)
+
+* [cli] Some CLI improvements
+
+* Introduce --version
+* Introduce --help
+* Add --sha to version command for short SHA display
+* Output Version and SHA details
+* In new --version output, display repo and doc site
+
+Additional cleanup to suppress warnings and code quality.
+
+* [docker] Adds labels for metadata
+
+This adds image labels to store metadata on the online and cli docker
+images, using standard labels:
+
+* org.opencontainers.image.created
+* org.opencontainers.image.revision
+* org.opencontainers.image.title
+* org.opencontainers.image.version
+
+These can be inspected via 'docker inspect IMAGE_NAME' and may be useful
+in tooling/automation or bug reports submitted by users.
+
+For more details on these labels, see:
+https://github.com/opencontainers/image-spec/blob/master/annotations.md
+
+* Include version --full for equiv to --version
+
+* [cli] Add --global-property for -D replacement (#5687)
+
+-D option has been deprecated as it was previously used to:
+
+* Pass ""system properties""
+* Pass additional properties
+
+This was confusing because we already have --additional-properties and
+because Java System Properties are passed as -D before program
+arguments.
+
+Confusion around the -D option had existed for some time, but when we
+introduced the thread-safe GlobalSettings to avoid overwriting Java
+System Properties, we created a hard break from Java System Properties
+in the generator. This also disconnected the previous ""system
+properties"" from accepting additional properties.
+
+Once these newly deprecated methods are removed, we will have a clear
+separation of concerns between:
+
+* Java System Properties
+* Global generator properties (used as workflow context)
+* Additional properties (used as generator options)
+
+This commit marks multiple places for cleanup in 5.0. These will be
+breaking changes, and lower effort to break in 5.0 with deprecation
+warnings now rather than adding sibling properties throughout the code
+and potentially introducing logic errors.
+
+* [dart-dio] Fixes --model-name-suffix having no effect (#5669)
+
+Fixes #5409
+
+* [go-experimental][go][client] Remove unreachable code in go client API methods (#5611)
+
+* [go-experimental][go][client] Remove unreachable code in go client API methods
+
+* Properly regenerate all samples
+
+* please add openVALIDATION Project to readme (#5534)
+
+* added openVALIDATION Project to readme
+
+* Update README.md
+
+Co-Authored-By: Akihito Nakano <sora.akatsuki@gmail.com>
+
+Co-authored-by: Akihito Nakano <sora.akatsuki@gmail.com>
+
+* [Csharp-client] Complex form parameters are not serialized as application/json (#5787)
+
+* [csharp-client] Complex form parameters are now correctly serialized as json.
+Reference: http://spec.openapis.org/oas/v3.0.3#special-considerations-for-multipart-content
+
+* Updated bin/windows csharp sample generation scripts to point to the correct directories
+
+* Updated csharp samples
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* fix scala-akka java8 serializers (#5742)
+
+* fix scala-akka java8 serializers
+
+* regenerate samples for akka-http
+
+* [typescript-axios][client] Unnecessary imports occurs when using withSeparateModelsAndApi (#5797)
+
+* add ts-ignore
+
+* add petstore sample
+
+* use write verbose in auth, better api doc (#5804)
+
+* [PS][Experimental] add withHttpInfo support, fix ""null"" return (#5811)
+
+* add with http support
+
+* use full name in tests
+
+* using full name in test
+
+* skip type check
+
+* [PS][Experimental] Add tests for array of object in response (#5814)
+
+* debugging array response
+
+* fix find pet tests
+
+* better tests to ignore order
+
+* [codegen] Use once(LOGGER) to reduce amount of identical warning messages (#5808)
+
+* Warn once instead of many times when the log statement does not have contextual information
+
+* Warn once instead of many times when the log statement does not have contextual information
+
+* make name cache configurabl (#5775)
+
+* [codegen] Cachesize config seconds (#5816)
+
+* make name cache configurable
+
+* Address review comments
+
+* [Python-experimental] Documentation enhancement for oneOf schema and minor err msg improvement (#5791)
+
+* Add documentation to generated code
+
+* Improve error message
+
+* Improve documentation
+
+* Improve documentation
+
+* Improve documentation
+
+* Improve documentation
+
+* Improve documentation
+
+* Improve documentation
+
+* Run sample scripts
+
+* Address review comments
+
+* Address review comments
+
+* Fix problem in python error message
+
+* rename hostsetting, validate base url (#5821)
+
+* fix array return (#5822)
+
+* Scala akka-http server (#5758)
+
+* Scala akka-http server base implementation
+
+* [scala-akka-http-server] petStore samples
+
+* Improved the formatting of generated files
+
+* Updated scala-akka-http server samples
+
+* [scala-akka-http-server] the groupId, artifactId and artifactVersion default value are used as intended.
+
+* Fixed the default operation not being correctly generated on parameterless operations
+
+* Added build.sbt.mustache supporting file
+
+* Updated scala-akka-http server samples
+
+* ScalaAkkaHttpServer: Fixed a String.format call to use Locale.ROOT for locale
+
+* [scala-akka-http-server] Fixed defaultValue being escaped during generation
+
+* Added scala-akka-http.md
+
+* Replaced all """" character with ""=>"" to retain compatibility with scala 2.13
+
+* [scala-akka-http] Added a config option akkaHttpVersion
+It's set in the generated build.sbt.
+
+* Updated scala-akka-http server samples
+
+* [scala-akka-http] More accurate akkaHttpVersion parsing
+
+* Updated scala-akka-http.md
+
+* [scala-akka-http] Changed the akka-http version check to fix the generation of StringDirectives
+
+* Updated scala-akka-http samples
+
+* updated scala-akka-http.md
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* Minor improvements to scala akka server (#5823)
+
+* minor improvements to scala akka server
+
+* add samples
+
+* update doc
+
+* Update swagger parser to 2.0.19 (#5413)
+
+* update swagger parser to 2.0.18
+
+* fix online server exception
+
+* Revert ""fix online server exception""
+
+This reverts commit fe3cb5221f362c00b176fa81411eaf368f0e446d.
+
+* update parser to 2.0.19
+
+* [jaxrs-cxf-cdi] fix allOf equals and hashCode (#5756)
+
+When generating model that use allOf, the equals and hashCode methods
+must take the parent class into account.
+
+* [BUG] [KOTLIN] Fix default value generation for Kotlin Strings (#5776)
+
+* fix default value generation for kotlin
+
+* add updated pet templates
+
+* Revert ""add updated pet templates""
+
+This reverts commit 7e8168ad
+
+* regen pet store projects code
+
+* tests  for models for C-libcurl generator (#5699)
+
+* First try to generate unit tests for the models of the C-libcurl client. Models into models are not supported yet.
+
+* Added unit tests for the modules of the C-libcurl client to the git repository.
+
+* Support for objects having other objects as properties, for the C-libcurl client generator
+
+* Proper formatting of generated code
+
+* use allVars to cover all properties (#5835)
+
+* support enum in parameters (#5838)
+
+* [C++] [Qt5] [Client] fixed cpp-client-qt5 HttpRequestWorker contentCompression variables initialization (#5834)
+
+When contentCompression is not enabled, the variables isRequestCompressionEnabled and isResponseCompressionEnabled in HttpRequestWorker are not being initialized.
+Without initialization the compress function could be called and the request content could be an empty QByteArray instead of original request body.
+
+* minor fix to http basic auth (#5839)
+
+* Scala akka http server - normalization of some vendor extensions (#5829)
+
+* [scala-akka-http-server] Normalized vendor extension ""paths"" to ""x-paths""
+
+* [scala-akka-http-server] Normalized vendor extension ""hasDefaultValue"", ""isDefault"", ""specificMarshallers"", ""fileParams"", ""nonFileParams""
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* Add Bouill to the Scala technical committee (#5843)
+
+* C client generator improvements to support petstore. Solves #5836 (#5837)
+
+* C client generator improvement to support:
+openapi-generator/modules/openapi-generator/src/test/resources/3_0/petstore.yaml
+
+* Improvements to the C client generator:
+- moved base64* from apiClient.c to binary.h/binary.c
+- changed CR/LF to LF in binary.h/binary.c
+
+* C client generator: better support for base64encode / base64decode
+
+* Add openapi.yaml file to Java clients (#5765)
+
+* Add openapi.yaml file to Java client
+
+* Move supporting template file to Java root
+
+* Update petstore clients
+
+* [codegen] Fix 'super.HashCode' for oneOf and allOf Implementations (retry) (#5830)
+
+* Added hasVars after completion of all model post-processing (#5587)
+
+* Post ensure-up-to-date
+
+* Update to check the size of vars and not assume non-null
+
+* update mysql samples
+
+* Add default case to handle response code (#5825)
+
+* add default case to handle response code
+
+* fix default response code
+
+* add test for isDefault
+
+* fix user id in scala tc
+
+* Fix for Issue #4840 [BUG][JAVA][spring-mvc] Generated Code for Map of Maps Return Type does not compile (#5240)
+
+* add parent for allOf only (#5851)
+
+* Add pythonSrcRoot option to python servers (aiohttp/flask/blueplanet) to support src/ layout projects [and reenable/fix all python server tests] (#5423)
+
+* python server: Add pythonSrcRoot option
+
+This will allow the python project to be in a subdirectory (as specified
+in pythonSrcRoot). That could mean following the src layout with sources
+under src/ or lib/. Multi-language projects might use a sub directory
+like python/, or whatever makes sense for the project.
+
+By default, the pythonSrcRoot is """", meaning the existing behavior is
+the default.
+
+* python server: update template files to support pythonSrcRoot
+
+* python server: update docs to add pythonSrcRoot option
+
+* python server: add pythonSrcRoot sample script
+
+* python server: build sample srclayout project
+
+* [Python] copy test files preserving history
+
+* [Python] Make a conflict to preserve file copy history
+
+* [Python] customize pom.xml for src layout tests
+
+* [Python] add python-aiohttp-srclayout tests
+
+* [Python] Fix server tests by updating requirements
+
+Reverts the PR that disabled python2 server tests:
+https://github.com/OpenAPITools/openapi-generator/pull/4949
+
+Reverts commits that disabled python3 server tests:
+9adfedbfbb45c7059e64b3d9a285710bded4fb62
+17ee990baaa80585242c7a07d64e2be4888fcfd0
+
+Issue about the python 3 tests:
+https://github.com/OpenAPITools/openapi-generator/issues/5235
+
+I couldn't find an issue about the python2 tests being disabled.
+I'm guessing build errors like the following were the trigger:
+https://travis-ci.org/github/OpenAPITools/openapi-generator/builds/634238181
+
+Let's see what breaks!
+
+* [Python] Copy setup.py to python-aiohttp
+
+* [Python] Save history while copying setup.py to python-aiohttp
+
+* [Python] Add aiohttp server setup.py
+
+* [Python] Fix python server tests with src layout
+
+* [Python] bump Flask-Testing version
+
+* [Python] Pin pyyaml for py2.7 flask server
+
+* [Python] simplify flask server requirements
+
+* consolidate server tests
+
+* [Python] rebuild python server samples
+
+* [Python] Fix python server requirements for older pythons
+
+Documented minimum python version for our aiohttp server is 3.5.
+Documented minimum python version for our flask server is 3.4.
+Connexion 2.3 is the last version to support python 3.4 and 3.5, so fix
+the version pinning to correctly select <=2.3 for these EOL python
+versions. Newer pythons should get the latest if possible as there many
+relevant bug fixes.
+
+Werkzeug also needs to be pinned for these old versions in the aiohttp
+server just like for the flask server.
+
+3.4 and 3.5 are EOL. We really should increase the minimum supported
+version, but that is for another PR to do.
+
+* stop error globally (#5858)
+
+* [PS][Experimental] Add validations to model (#5842)
+
+* add validations to model
+
+* better error message
+
+* improve validation
+
+* Updates to allow the setting of the dateTime format string (#5763)
+
+* [PS] Select Content-Type in the response (#5872)
+
+* better return type handling
+
+* update tempalte
+
+* better documentation
+
+* fix greater than
+
+* various enhancement to ps exp generator (#5875)
+
+* [C#] dependency upgrade (#5870)
+
+* Updating packages version (#5313)
+
+* Add support to RestSharp version 106.10.1
+
+Restsharp 106.10.1 needs the Content Lenght as a parameter to AddFile method
+
+* Updating RestSharp Version
+
+Updating RestSharp Version
+
+* Update netcore_project.mustache
+
+* Update netcore_testproject.mustache
+
+* Update Project.mustache
+
+* Updating packages version
+
+Updating packages version
+
+* Updating packages version
+
+Updating packages version
+
+* Updating packages version
+
+Updating packages version
+
+* Updating packages version
+
+Updating packages version
+
+* Updating packages version
+
+Updating packages version
+
+* Updating packages version
+
+Updating packages version
+
+* Execute task async obsolete
+
+Use ExecuteAsync instead
+
+* update csharp samples
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* [csharp] Library upgrade fix (#5848)
+
+* On .net45 framework, Restsharp version is updated to 106.10.1 Otherwise, it stays on version 105.1.0
+
+* Added additionalProperties for library versions and target frameworks
+
+* Removed unused properties
+
+* Added an additional property to test for a specific version of RestSharp
+
+* Updated csharp samples
+
+* Fixed nuspec.mustache to use library specific additional properties
+
+* Updated csharp samples
+
+* Updating CI/samples.ci csharp petstore test project file.
+
+* Updated csharp.md
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* [csharp-client] Restored tests on csharp samples (#5879)
+
+* Restored tests on csharp samples
+
+* Restored a reference to the file used to test file uploads
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* update samples
+
+Co-authored-by: Igor Quirino <iquirino91@gmail.com>
+Co-authored-by: Bouillie <34162532+Bouillie@users.noreply.github.com>
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* [Csharp-client] Complex form parameters are not serialized as application/json (#5849)
+
+* [csharp-client] Complex form parameters are now correctly serialized as json.
+
+* Updated csharp samples
+
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+
+* docs: removes Nico from technical committee (#5883)
+
+* [PS] better handle special variables (#5885)
+
+* add variable
+
+* fix reserved words
+
+* update ps doc
+
+* [PS] add file post-processing to the PowerShell generator (#5864)
+
+* add post process to ps generator
+
+* add import
+
+* fix merge issue
+
+* consolidate header selection functions (#5889)
+
+* [Java-client] Add maven-compiler-plugin in pom.xml and enable linter checks by default (#5866)
+
+* Add maven-compiler-plugin plugin in Java pom.xml and enable linter checks by default
+
+* Add maven-compiler-plugin plugin in Java pom.xml and enable linter checks by default
+
+* Update enum.mustache (#5793)
+
+https://github.com/OpenAPITools/openapi-generator/issues/5792
+
+* Update modelGeneric.mustache (#5378)
+
+* Update modelGeneric.mustache
+
+If maxlength is specified for a property type enum it there should be .ToString() appended before length check
+
+* ran the csharp petstore bar and updated the file
+
+Co-authored-by: Shweta Shukla <shshukl@microsoft.com>
+
+* Fix Scala sttp generator packages (#5890)
+
+* Fix Scala sttp generator packages
+
+* Change package to parameterised
+
+* [Dart] Fix ""basic"" auth method and  Add Bearer token support (#5743)
+
+* added auth check and lint
+
+* fixed basic auth condition
+
+* Added bearer auth
+
+* updated samples
+
+* update dart petstore samples
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* Add date time format annotation on pojo for model query parameters (#5437)
+
+* Add date time format annotation on pojo for model query parameters
+
+* Regenetare samples
+
+* update spring samples
+
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* [mysql] Add basic SQL queries (#5757)
+
+* Add basic SQL queries template
+
+* Add namedParametersEnabled option
+
+* Move model related SQLs into Model folder
+
+* Update README template
+
+* Refresh samples
+
+* [enhancement] [jaxrs-spec] Add builders to models (#4930)
+
+* Update formatting in jaxrs-spec POJOs
+
+* Add generateBuilders option
+
+* Update formatting in jaxrs-spec POJOs
+
+* Disable the builders generation by default
+
+* Ensure samples are up-to-date
+
+* Revert newline change
+
+* Run ensure-up-to-date
+
+* update doc
+
+* fix merge conflicts
+
+Co-authored-by: Artem Shubovych <ashubovych@atlassian.com>
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* Update generated build files for REST Assured (#5873)
+
+* REST Assured 4.3.0
+* Jackson 2.10.3
+* Gson 2.8.6, GSON-Fire 1.8.4
+* Okio 1.17.5
+* Joda-Time 2.10.5
+* ThreeTenBP 1.4.3
+* Added missing dependencies for Bean Validation
+* Added missing dependencies for `@Generated` annotation
+* Refresh REST Assured sample project
+
+* [Java][Feign] Bug fix in @Param annotation (#5250)
+
+* FIX-5249 fix @Param annotation for Feign-client code generation
+
+Use paramName instead of baseName in order to make mapping in @Headers
+section fit the param-value.
+
+* update samples
+
+* FIX-5249 fix @Param annotation for Feign-client code generation
+
+Use paramName instead of baseName in order to make mapping in @Headers
+section fit the param-value.
+
+Co-authored-by: Christoph Preiner <christoph.preissner@blu-pa.com>
+Co-authored-by: William Cheng <wing328hk@gmail.com>
+
+* [Java] Increase java compiler stack size to handle large files (#5901)
+
+* increase java compiler stack size to handle large files
+
+* increase java compiler stack size to handle large files
+
+* Added emineo to list of companies on website (#5905)
+
+* add emineo to the list
+
+* [swift5] fix warning (#5900)
+
+* update bitwise config (#5904)
+
+* [Java] Discriminator lookup should not be case insensitive by default (#5894)
+
+* Add 'discriminatorCaseSensitive' property
+
+* Discriminator value lookup should not be case insensitive
+
+* fix typo
+
+* run scripts
+
+* execute ./bin/utils/export_docs_generators.sh
+
+* fix discriminator mapping, add code comments
+
+* minor fix to users.yml
+
+* Add a link to optim blog post (#5922)
+
+* [Java] Fix inclusive max validation (#5908)
+
+Co-authored-by: erikmolin <erik@zaver.se>
+
+* add bearer auth support to csharp netcore (#5921)
+
+* [Python][aiohttp] create venv as rule (#5913)
+
+* create venv as rule
+
+* create venv as rule II
+
+* Fix for Result Model Name collision (#5923)
+
+* Fix for Result Model Name collision
+
+* Run Scripts
+
+Co-authored-by: Sebastian Ohm <sebastian.ohm@ubimax.com>
+
+* [Dart] Remove content type from header when content type is not specified (#5752)
+
+* accept empty content type
+
+* fixed test
+
+* updated samples
+
+* additional comment out
+
+* update dependency for java client (#5926)
+
+* Update axios dependency to the new minor version 0.19.0 (#5867)
+
+* Update axios dependency to 0.19.0
+
+Axios (version 0.18.0) used by typescript-axios generator is more than two years old (released in Feb 2018). Axios 0.19.2 released earlier this year contains a lot of fixes and functionality, I recommend updating to 0.19.2.
+
+* Ran ./bin/typescript-axios-petstore-all.sh to update package.json in ./samples
+
+Co-authored-by: Chandra Yalangi <chandra.yalangi@appklenz.com>
+
+* fixed README/doc of bearer auth support for csharp-netcore (#5931)
+
+* fix duplicated semi-colon in c# model (#5934)
+
+* [Python-experimental] Use DER encoding for ECDSA signatures, add parameter to configure hash algorithm (#5924)
+
+* Use DER encoding for ECDSA signatures
+
+* Use DER encoding for ECDSA signatures
+
+* Use DER encoding for ECDSA signatures
+
+* Use DER encoding for ECDSA signatures
+
+* fix python unit tests for http message signature
+
+* Fix error message
+
+* format python code
+
+* format python code
+
+* [Python-experimental] Fix TypeError: unhashable type: 'list' (#5810)
+
+* handle scenario when value is a list, fix TypeError: unhashable type: 'list'
+
+* Add __hash__ function
+
+* use list instead of set
+
+* use list instead of set
+
+* use list instead of set
+
+* use list instead of set
+
+* use list instead of set
+
+* use list instead of set
+
+* [python/asyncio] fix passing proxy parameters to aiohttp (#5943)
+
+* [C][Client]Fix data lost when libcurl write-data callback function is called multiple times (#5828)
+
+* [C][Client]Fix the defect of data lost when libcurl write-data callback function (configured by CURLOPT_WRITEFUNCTION) is called multiple times.
+
+* [C][Client]Fix data lost when libcurl write-data callback function is called multiple times (Reset count)
+
+* [typescript-axios][client] Allow apiKey type Promise. (#5953)
+
+* change apiKey type
+
+* recreate sample
+
+* Add YITU Technology to the user list (#5967)
+
+* add yitu to the user list
+
+* use yitu technology
+
+* Use model as body param for generateAliasAsModel (#4569)
+
+* generateAliasAsModel: Use model name as body param
+
+* Update samples
+
+* resolve merge conflicts in the core generator files
+
+* fix merge conflicts in pom.xml
+
+* Resolve Elm merge conflicts
+
+* [Rust Server] Fix up merge conflicts
+
+* Update samples
+
+* [Rust Server] Add debug log for rust-server-petstore.sh
+
+* update samples
+
+* update more samples
+
+* fix dart openapi-generator version
+
+* remove deprecated c# files
+
+* update meta codegen
+
+* fix port in pom.xml
+
+* fix port in sample
+
+* update jaxrs cxf version
+
+Co-authored-by: sunn <33183834+etherealjoy@users.noreply.github.com>
+Co-authored-by: dwlabcube <46682038+dwlabcube@users.noreply.github.com>
+Co-authored-by: Herve DARRITCHON <herve.darritchon@orange.com>
+Co-authored-by: Akihito Nakano <sora.akatsuki@gmail.com>
+Co-authored-by: Johnny Peck <johnnypeck@users.noreply.github.com>
+Co-authored-by: Michele Albano <michele.albano@gmail.com>
+Co-authored-by: Jim Schubert <james.schubert@gmail.com>
+Co-authored-by: Nikita <nickita.davidenko@gmail.com>
+Co-authored-by: Alexey Makhrov <amakhrov@gmail.com>
+Co-authored-by: val <onzeonline@gmail.com>
+Co-authored-by: Bruno Coelho <4brunu@users.noreply.github.com>
+Co-authored-by: Aleksandr Nekrasov <snake_nas@mail.ru>
+Co-authored-by: Akira Tanimura <autopp.inc@gmail.com>
+Co-authored-by: Justin <JustinBusschau@users.noreply.github.com>
+Co-authored-by: Justin Black <spacether@users.noreply.github.com>
+Co-authored-by: Jiri Kuncar <jiri.kuncar@gmail.com>
+Co-authored-by: Hui Yu <ityuhui@gmail.com>
+Co-authored-by: Yutaka Miyamae <48900426+yutaka0m@users.noreply.github.com>
+Co-authored-by: Mateusz Szychowski (Muttley) <muttleyxd@users.noreply.github.com>
+Co-authored-by: Jorge Rodriguez <jorgerod84@gmail.com>
+Co-authored-by: Gonzalo <gonzalo.nom.es@gmail.com>
+Co-authored-by: ChristianCiach <christian.ciach@gmail.com>
+Co-authored-by: Bodo Graumann <mail@bodograumann.de>
+Co-authored-by: Yuriy Belenko <yura-bely@mail.ru>
+Co-authored-by: Daniel Klessing <sakanaou@users.noreply.github.com>
+Co-authored-by: copypasta-g <53397163+copypasta-g@users.noreply.github.com>
+Co-authored-by: Mahdi Dibaiee <mdibaiee@pm.me>
+Co-authored-by: Sebastien Rosset <serosset@cisco.com>
+Co-authored-by: siada <siada@users.noreply.github.com>
+Co-authored-by: Samuel Hoffstaetter <samuel@hoffstaetter.com>
+Co-authored-by: Esteban Gehring <esteban.gehring@bithost.ch>
+Co-authored-by: Jon Schoning <jonschoning@gmail.com>
+Co-authored-by: Marcin Kubala <marcin@mkubala.pl>
+Co-authored-by: anoohya-n <51289018+anoohya-n@users.noreply.github.com>
+Co-authored-by: Antoine Reilles <areilles@gmail.com>
+Co-authored-by: Clemens Angermann <clemens.tirsch@web.de>
+Co-authored-by: Mostafa Moradian <mostafa@loadimpact.com>
+Co-authored-by: Adam <adkapx@gmail.com>
+Co-authored-by: Lars Hvam <larshp@hotmail.com>
+Co-authored-by: sullis <github@seansullivan.com>
+Co-authored-by: Vikrant Balyan <vvb@users.noreply.github.com>
+Co-authored-by: Matt Traynham <matt.traynham@pureport.com>
+Co-authored-by: LEZIER-S2 <60382243+LEZIER-S2@users.noreply.github.com>
+Co-authored-by: Thomas Enderle <dommaes@users.noreply.github.com>
+Co-authored-by: YishTish <yishail@gmail.com>
+Co-authored-by: Slavek Kabrda <slavek.kabrda@datadoghq.com>
+Co-authored-by: Tomasz Prus <tomasz.prus@gmail.com>
+Co-authored-by: Erica Kastner <dkastner@gmail.com>
+Co-authored-by: Richard Whitehouse <richard.whitehouse@metaswitch.com>
+Co-authored-by: valentin Bisson <valentin@inrosoftware.com>
+Co-authored-by: etherealjoy <sunn.ssb@live.com>
+Co-authored-by: Hemant Zope <42613258+zhemant@users.noreply.github.com>
+Co-authored-by: Even Andr Fiskvik <even@myworkout.no>
+Co-authored-by: ehansen31 <e.hansen31@live.com>
+Co-authored-by: Timur Platonov <tpltn@users.noreply.github.com>
+Co-authored-by: Josh Burton <josh@arklabs.nz>
+Co-authored-by: Ilja leyberman <7ilya@gmx.de>
+Co-authored-by: Bouillie <34162532+Bouillie@users.noreply.github.com>
+Co-authored-by: Olivier Leonard <oleonard@ankama.com>
+Co-authored-by: tanmen <yt.prog@gmail.com>
+Co-authored-by: Alex Buchkovsky <alex.buchkovsky@gmail.com>
+Co-authored-by: Natan Laverde <natanlaverde@gmail.com>
+Co-authored-by: Nicholas Muesch <nicholas.muesch@datadoghq.com>
+Co-authored-by: jburgess <11861789+jburgess@users.noreply.github.com>
+Co-authored-by: emileonhardt <40421857+emileonhardt@users.noreply.github.com>
+Co-authored-by: Jacob Floyd <cognifloyd@gmail.com>
+Co-authored-by: Igor Quirino <iquirino91@gmail.com>
+Co-authored-by: Nico Knig <npunktkoenig@gmail.com>
+Co-authored-by: https://gitlab.com/selankon <selankon@selankon.xyz>
+Co-authored-by: Shweta Shukla <25539662+shwetashukla@users.noreply.github.com>
+Co-authored-by: Shweta Shukla <shshukl@microsoft.com>
+Co-authored-by: Bartek Kowalik <bkowalik@users.noreply.github.com>
+Co-authored-by: Shinya Sugmoto <34866626+gasugesu@users.noreply.github.com>
+Co-authored-by: Artem Shubovych <shybovycha@gmail.com>
+Co-authored-by: Artem Shubovych <ashubovych@atlassian.com>
+Co-authored-by: Jochen Schalanda <jochen@schalanda.name>
+Co-authored-by: Chr1st0ph <cpreissner@gmx.de>
+Co-authored-by: Christoph Preiner <christoph.preissner@blu-pa.com>
+Co-authored-by: Erikmolin <erik.johan.molin@gmail.com>
+Co-authored-by: erikmolin <erik@zaver.se>
+Co-authored-by: Nicolas Homble <nhomble@terpmail.umd.edu>
+Co-authored-by: Sebastian <63457660+sebohdev@users.noreply.github.com>
+Co-authored-by: Sebastian Ohm <sebastian.ohm@ubimax.com>
+Co-authored-by: chandra-gh <63366477+chandra-gh@users.noreply.github.com>
+Co-authored-by: Chandra Yalangi <chandra.yalangi@appklenz.com>
+Co-authored-by: Fabian Freund <mail@fabi.online>
+Co-authored-by: Erik Timmers <e.timmers@gmail.com>",c3837ca3314f90508bb6288006fb7ff2d9b282c6,2020-04-15 16:19:00,155.0,1,openapi-generator,90dd7a03418ff4554ae8351b325eb86ee5794e92,11.356060606060606,3,53,10.67216725076776,23.71969696969697,1,278,49.16467334632647,1.303030303030303,1,3,0.5233391605233761,25.09090909090909,0,309,54.258000366281465,8.037878787878787,0,168,22.86916164280486,7.28030303030303,1,33,5.85748610061706,0.09090909090909091,0,2,0.3799265789766593,5.818181818181818,1,15,4.145848989598196,1.2651515151515151,0,21,3.4879505749808346,0.030303030303030304,0,1,0.17207285601455768,0.0,0,0,0.0,0.030303030303030304,0,1,0.1720728560145577,0,0,0,0.0,0.0,0,0,0.0,6.159090909090909,0,62,12.841267889087355,0.3409090909090909,0,5,0.8980857118732727,0.12121212121212122,0,2,0.47903055776411807,5.704545454545454,0,60,12.277167187220195,0.2727272727272727,0,6,1.0848780780050893,0,0,0,0.0,0.5,0,5,0.9610744623271417,0,0,0,0.0,6.704545454545454,0,86,15.442945293362788,141.62878787878788,23,1148,203.03184442829323,5.704545454545454,0,29,6.621430205004818,1.856060606060606,0,35,6.024292522217477,2.3863636363636362,0,26,5.143212717514111,0.5151515151515151,0,8,1.622761986681206,0.49242424242424243,0,7,1.6181046877370195,49.28787878787879,1,217,63.955916389866864,4.886363636363637,0,17,6.002095979036684,15.083333333333334,0,221,38.240508809309944,1.5606060606060606,0,21,4.133751555181198,15.113636363636363,0,179,34.091625021397604,1.121212121212121,-1,6,1.5968972923437192,0.030303030303030304,0,1,0.17207285601455768,0.06060606060606061,0,2,0.34414571202911537,1.0606060606060606,0,13,2.891835244316026,90.67424242424242,18,402,94.34430173791134,32.03030303030303,1,1025,176.2026045589071,227.46212121212122,2.0,2594.0,539.7912998643147,138.96969696969697,-70,1468,255.51522383033802,1557.3333333333333,1,3730,1133.6142474786184
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,84099eefdc7fe4f5a9b7726e376fc01189ae355d,Falko Modler,famod@users.noreply.github.com,2020-04-19 00:40:09,famod,[maven] mark Mojo threadSafe=true + fix concurrency issue in Co (#5898),c5472be422eb8508abbe2a7cb6d4b623f3df6158,2020-04-18 07:22:20,17.0,1,openapi-generator,84099eefdc7fe4f5a9b7726e376fc01189ae355d,22.0,22,22,0.0,123.66666666666667,123,124,0.5773502691896278,2.0,2,2,0.0,124.66666666666667,122,126,2.309401076758505,16.0,12,18,3.4641016151377544,8.666666666666666,8,9,0.5773502691896255,0.0,0,0,0.0,2.0,2,2,0.0,6.666666666666667,6,7,0.5773502691896258,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,60.0,60,60,0.0,1.0,1,1,0.0,0.0,0,0,0.0,58.0,58,58,0.0,2.0,2,2,0.0,0,0,0,0.0,1.0,1,1,0.0,0,0,0,0.0,31.0,29,32,1.7320508075688772,515.0,511,517,3.4641016151377544,9.0,9,9,0.0,5.666666666666667,5,6,0.5773502691896258,17.0,17,17,0.0,5.0,5,5,0.0,7.0,7,7,0.0,166.33333333333334,166,167,0.5773502691896216,4.333333333333333,4,5,0.5773502691896258,52.333333333333336,52,53,0.5773502691896247,5.0,5,5,0.0,88.0,88,88,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,378.3333333333333,378,379,0.577350269189634,1.0,1,1,0.0,931.6666666666666,24.0,2594.0,1441.6540269195427,-70.0,-70,-70,0.0,2.0,2,2,0.0
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,78bf3adc4a470d6d0e3945d40d6e7fe6b2230e5f,Jim Schubert,james.schubert@gmail.com,2020-01-11 21:20:47,jimschubert,"[core] Initial FeatureSet structures and definitions (#3614)
+
+[core] Initial FeatureSet structures and definitions
+Add default feature set to DefaultCodegen
+Initial FeatureSet definitions for:
+
+*  ada 
+*  android 
+*  apache2 
+*  asciidoc 
+*  aspnetcore 
+*  avro 
+*  bash 
+*  c 
+*  clojure 
+*  cpp-pistache-server 
+*  cpp-qt5-client 
+*  cpp-qt5-qhttpengine-server 
+*  cpp-restbed-server 
+*  cpp-restsdk 
+*  cpp-tizen 
+*  csharp 
+*  csharp-nancyfx 
+*  csharp-netcore 
+*  cwiki 
+*  dart 
+*  eiffel 
+*  elixir 
+*  elm 
+*  erlang 
+*  flash 
+*  fsharp-functions 
+*  go  Client/Server
+*  graphql-nodejs-express-server 
+*  graphql-schema 
+*  groovy 
+*  haskell 
+*  haskell-http-client 
+*  java 
+*  jmeter 
+*  kotlin 
+*  kotlin vertx 
+*  kotlin-server 
+*  kotlin-spring 
+*  lua 
+*  mysql 
+*  nim 
+*  nodejs 
+*  nodejs-express 
+*  objc 
+*  ocaml 
+*  openapi 
+*  openapi-yaml 
+*  perl 
+*  php 
+*  php-laravel 
+*  php-lumen 
+*  php-silex 
+*  php-slim 
+*  php-symfony 
+*  php-ze-ph 
+*  powershell 
+*  protobuf 
+*  protobuf-schema 
+*  python 
+*  python-aiohttp 
+*  python-blueplanet 
+*  python-experimental 
+*  r 
+*  ror 
+*  ruby 
+*  ruby 
+*  ruby-sinatra 
+*  rust 
+*  scala-akka 
+*  scala-finch 
+*  scala-gatling 
+*  scala-http-client 
+*  scala-lagom 
+*  scala-play 
+*  scalatra 
+*  scalaz 
+*  spring 
+*  static docs 
+*  swift 
+*  typescript",4627c7d5343e97635ce5cfaffb1f8140348b0adc,2020-01-11 02:48:44,18.0,1,openapi-generator,78bf3adc4a470d6d0e3945d40d6e7fe6b2230e5f,4.0,4,4,,9.0,9,9,,1.0,1,1,,4.0,4,4,,3.0,3,3,,7.0,7,7,,2.0,2,2,,6.0,6,6,,1.0,1,1,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,4.0,4,4,,0.0,0,0,,0.0,0,0,,4.0,4,4,,0.0,0,0,,0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,76.0,76,76,,6.0,6,6,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,1.0,1,1,,0.0,0,0,,9.0,9,9,,0.0,0,0,,5.0,5,5,,1.0,1,1,,0.0,0,0,,1.0,1,1,,0.0,0,0,,66.0,66,66,,1.0,1,1,,177.0,177.0,177.0,,144.0,144,144,,2.0,2,2,
+12,16.589058524173026,1.0,167.0,1.0,2.0,2.0,3.0,5.0,7.0,11.0,15.0,19.0,23.0,40.0,e23f2aa6aa8fa7914eb3598372b588690fb557f4,Jim Schubert,james.schubert@gmail.com,2020-01-07 18:33:58,jimschubert,"[cli] Full config help details (#4928)
+
+* [cli] Dump additional generator info via config-help (plain text)
+* [cli] Dump additional generator info via config-help (markdown)",d51354783f8bac382d5e8f3f1c4ed38f5ad73af4,2020-01-06 09:09:56,33.0,1,openapi-generator,e23f2aa6aa8fa7914eb3598372b588690fb557f4,11.0,11,11,,41.0,41,41,,2.0,2,2,,72.0,72,72,,0.0,0,0,,6.0,6,6,,0.0,0,0,,1.0,1,1,,5.0,5,5,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,17.0,17,17,,5.0,5,5,,0.0,0,0,,17.0,17,17,,0.0,0,0,,0,0,0,,5.0,5,5,,0,0,0,,22.0,22,22,,371.0,371,371,,0.0,0,0,,5.0,5,5,,1.0,1,1,,2.0,2,2,,2.0,2,2,,111.0,111,111,,14.0,14,14,,51.0,51,51,,6.0,6,6,,54.0,54,54,,3.0,3,3,,0.0,0,0,,0.0,0,0,,13.0,13,13,,218.0,218,218,,1.0,1,1,,18.0,18.0,18.0,,361.0,361,361,,2.0,2,2,
+13,14.491916859122401,1.0,167.0,1.0,2.0,2.0,3.0,5.0,6.0,10.0,13.0,16.0,20.0,31.80000000000001,3ca6bc2518a04f72cb42508cc40f33eb4767c9cf,Jim Schubert,james.schubert@gmail.com,2020-09-20 20:02:29,jimschubert,"[sonar] Java 11, use -nsu, exclude maven/online projects (#7459)",35d42728d9df60da65300fe7cd900e4056719969,2020-09-20 17:55:54,2.0,1,openapi-generator,3ca6bc2518a04f72cb42508cc40f33eb4767c9cf,11.0,11,11,0.0,41.0,41,41,0.0,2.0,2,2,0.0,72.0,72,72,0.0,0.0,0,0,0.0,6.0,6,6,0.0,0.0,0,0,0.0,1.0,1,1,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,17.0,17,17,0.0,4.666666666666667,4,5,0.5773502691896257,0.0,0,0,0.0,17.0,17,17,0.0,0.0,0,0,0.0,0,0,0,0.0,5.0,5,5,0.0,0,0,0,0.0,22.0,22,22,0.0,371.0,371,371,0.0,0.0,0,0,0.0,5.0,5,5,0.0,1.0,1,1,0.0,2.0,2,2,0.0,2.0,2,2,0.0,111.0,111,111,0.0,14.0,14,14,0.0,51.0,51,51,0.0,6.0,6,6,0.0,54.0,54,54,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,13.0,13,13,0.0,218.0,218,218,0.0,1.0,1,1,0.0,231.33333333333334,18.0,340.0,184.76291114109813,436.0,436,436,0.0,2.0,2,2,0.0
+13,14.491916859122401,1.0,167.0,1.0,2.0,2.0,3.0,5.0,6.0,10.0,13.0,16.0,20.0,31.80000000000001,e14e5fccf395c939176cb44d51a870afeefa1ee8,Jim Schubert,james.schubert@gmail.com,2020-04-02 03:05:25,jimschubert,"[cli][docker] Better expose version/sha information of builds (#5736)
+
+* [cli] Some CLI improvements
+
+* Introduce --version
+* Introduce --help
+* Add --sha to version command for short SHA display
+* Output Version and SHA details
+* In new --version output, display repo and doc site
+
+Additional cleanup to suppress warnings and code quality.
+
+* [docker] Adds labels for metadata
+
+This adds image labels to store metadata on the online and cli docker
+images, using standard labels:
+
+* org.opencontainers.image.created
+* org.opencontainers.image.revision
+* org.opencontainers.image.title
+* org.opencontainers.image.version
+
+These can be inspected via 'docker inspect IMAGE_NAME' and may be useful
+in tooling/automation or bug reports submitted by users.
+
+For more details on these labels, see:
+https://github.com/opencontainers/image-spec/blob/master/annotations.md
+
+* Include version --full for equiv to --version",4623ec86d3443b1304b7f180890a13d156003207,2020-04-02 00:19:16,2.0,1,openapi-generator,e14e5fccf395c939176cb44d51a870afeefa1ee8,9.518518518518519,4,20,4.7423652843310675,15.11111111111111,3,44,15.472887785098694,2.0,1,3,0.4803844614152614,28.333333333333332,4,72,23.53883860934781,0.6666666666666666,0,3,0.9607689228305227,2.111111111111111,1,6,1.5525000516123695,0.1111111111111111,0,1,0.32025630761017426,1.1111111111111112,1,2,0.32025630761017426,0.6666666666666666,0,5,1.5932550136313832,0.0,0,0,0.0,0.0,0,0,0.0,0.1111111111111111,0,1,0.32025630761017426,0,0,0,0.0,0.0,0,0,0.0,9.74074074074074,2,45,13.549319008128991,0.9259259259259259,0,5,1.5671121388849159,0.4444444444444444,0,2,0.8473185457363235,8.962962962962964,0,43,13.28238127828186,0.1111111111111111,0,1,0.32025630761017426,0,0,0,0.0,0.7037037037037037,0,5,1.3816048309237736,0,0,0,0.0,8.11111111111111,0,22,8.692761503923972,136.22222222222223,23,371,130.4746758020154,0.6666666666666666,0,3,1.0741723110591492,0.8888888888888888,0,5,1.7614096918559583,0.5555555555555556,0,3,0.9740215340114143,0.4444444444444444,0,2,0.6979824404521128,0.3333333333333333,0,2,0.6793662204867574,38.851851851851855,1,143,49.12676201866704,3.888888888888889,0,14,5.250152622934172,14.037037037037036,3,51,14.211267148291666,2.2222222222222223,0,12,3.9839421270639552,18.51851851851852,3,54,18.274341765206398,1.8888888888888888,1,3,0.8915558282417287,0.1111111111111111,0,1,0.32025630761017426,0.2222222222222222,0,2,0.6405126152203485,2.814814814814815,0,13,3.990729999126215,99.48148148148148,18,281,93.46795846309716,114.77777777777777,1,1025,327.94245899281844,160.44444444444446,18.0,1309.0,251.81240473711213,142.33333333333334,-40,435,166.12692089530177,21.555555555555557,4,33,9.951162797665457
+13,14.491916859122401,1.0,167.0,1.0,2.0,2.0,3.0,5.0,6.0,10.0,13.0,16.0,20.0,31.80000000000001,cd2ef91dc3c4cd7aeaa203efc481da15cc3f2eef,William Cheng,wing328hk@gmail.com,2021-06-09 02:03:17,wing328,"Update logback to 1.2.0 (#9722)
+
+* update logback to 2.1.0
+
+* udpate jax-rs samples",e600f7d149df999c7a549ba0b467658f87e0acec,2021-06-08 15:17:20,10.0,1,openapi-generator,cd2ef91dc3c4cd7aeaa203efc481da15cc3f2eef,3.0,3,3,0.0,14.0,14,14,0.0,1.0,1,1,0.0,8.0,8,8,0.0,0.0,0,0,0.0,10.0,10,10,0.0,0.0,0,0,0.0,9.0,9,9,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,3.0,3,3,0.0,70.0,70,70,0.0,11.0,11,11,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,17.0,17,17,0.0,0.0,0,0,0.0,7.0,7,7,0.0,0.0,0,0,0.0,4.0,4,4,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,37.0,37,37,0.0,1.0,1,1,0.0,33.0,33.0,33.0,0.0,90.5,85,96,7.7781745930520225,3.0,2,4,1.4142135623730951
+14,19.81547619047619,1.0,160.0,1.0,2.0,3.0,4.0,6.799999999999997,10.0,13.0,16.0,20.0,26.19999999999999,55.10000000000008,7c31b7f20661a77e83f80e0d08f05c7851535267,William Cheng,wing328hk@gmail.com,2020-01-03 02:42:01,wing328,"[Swift] Minor improvements to swift 5 generator (#4910)
+
+* minor improvements to swift 5 generator
+
+* update readme
+
+* update samples",1cb99e3497349bbe5799ef1762c6e7682c338eed,2020-01-02 12:36:22,14.0,1,openapi-generator,7c31b7f20661a77e83f80e0d08f05c7851535267,15.0,10,20,7.0710678118654755,90.5,16,165,105.35891039679558,1.5,1,2,0.7071067811865476,77.0,30,124,66.46803743153546,547.0,0,1094,773.574818618083,32.0,16,48,22.627416997969522,0.5,0,1,0.7071067811865476,29.5,16,43,19.091883092036785,1.5,0,3,2.1213203435596424,1.0,0,2,1.4142135623730951,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,18.0,1,35,24.041630560342615,12.0,0,24,16.97056274847714,8.0,0,16,11.313708498984761,0.5,0,1,0.7071067811865476,9.0,0,18,12.727922061357855,0,0,0,0.0,12.0,0,24,16.97056274847714,0,0,0,0.0,20.5,1,40,27.577164466275352,493.5,132,855,511.23820279787384,43.5,0,87,61.518289963229634,4.5,0,9,6.363961030678928,1.5,0,3,2.1213203435596424,1.0,1,1,0.0,3.5,0,7,4.949747468305833,273.0,51,495,313.9554108468271,3.5,2,5,2.1213203435596424,78.0,20,136,82.02438661763951,28.0,0,56,39.59797974644666,54.0,20,88,48.08326112068523,2.0,1,3,1.4142135623730951,0.0,0,0,0.0,0.5,0,1,0.7071067811865476,0.0,0,0,0.0,184.0,80,288,147.07821048680188,1.0,1,1,0.0,103.0,29.0,177.0,104.65180361560904,576.0,117,1035,649.1240251292506,1.5,1,2,0.7071067811865476

@@ -1,0 +1,205 @@
+kmean_label,time_taken_mean,time_taken_min,time_taken_max,time_taken_q10,time_taken_q20,time_taken_q25,time_taken_q30,time_taken_q40,time_taken_q50,time_taken_q60,time_taken_q70,time_taken_q75,time_taken_q80,time_taken_q90,sha,name,email,date,login,message,parent_sha,parent_date,time_taken,contains_refactoring,project_name,commit_compared_with,cbo_mean,cbo_min,cbo_max,cbo_std,wmc_mean,wmc_min,wmc_max,wmc_std,dit_mean,dit_min,dit_max,dit_std,rfc_mean,rfc_min,rfc_max,rfc_std,lcom_mean,lcom_min,lcom_max,lcom_std,totalMethods_mean,totalMethods_min,totalMethods_max,totalMethods_std,staticMethods_mean,staticMethods_min,staticMethods_max,staticMethods_std,publicMethods_mean,publicMethods_min,publicMethods_max,publicMethods_std,privateMethods_mean,privateMethods_min,privateMethods_max,privateMethods_std,protectedMethods_mean,protectedMethods_min,protectedMethods_max,protectedMethods_std,defaultMethods_mean,defaultMethods_min,defaultMethods_max,defaultMethods_std,abstractMethods_mean,abstractMethods_min,abstractMethods_max,abstractMethods_std,finalMethods_mean,finalMethods_min,finalMethods_max,finalMethods_std,synchronizedMethods_mean,synchronizedMethods_min,synchronizedMethods_max,synchronizedMethods_std,totalFields_mean,totalFields_min,totalFields_max,totalFields_std,staticFields_mean,staticFields_min,staticFields_max,staticFields_std,publicFields_mean,publicFields_min,publicFields_max,publicFields_std,privateFields_mean,privateFields_min,privateFields_max,privateFields_std,protectedFields_mean,protectedFields_min,protectedFields_max,protectedFields_std,defaultFields_mean,defaultFields_min,defaultFields_max,defaultFields_std,finalFields_mean,finalFields_min,finalFields_max,finalFields_std,synchronizedFields_mean,synchronizedFields_min,synchronizedFields_max,synchronizedFields_std,nosi_mean,nosi_min,nosi_max,nosi_std,loc_mean,loc_min,loc_max,loc_std,returnQty_mean,returnQty_min,returnQty_max,returnQty_std,loopQty_mean,loopQty_min,loopQty_max,loopQty_std,comparisonsQty_mean,comparisonsQty_min,comparisonsQty_max,comparisonsQty_std,tryCatchQty_mean,tryCatchQty_min,tryCatchQty_max,tryCatchQty_std,parenthesizedExpsQty_mean,parenthesizedExpsQty_min,parenthesizedExpsQty_max,parenthesizedExpsQty_std,stringLiteralsQty_mean,stringLiteralsQty_min,stringLiteralsQty_max,stringLiteralsQty_std,numbersQty_mean,numbersQty_min,numbersQty_max,numbersQty_std,assignmentsQty_mean,assignmentsQty_min,assignmentsQty_max,assignmentsQty_std,mathOperationsQty_mean,mathOperationsQty_min,mathOperationsQty_max,mathOperationsQty_std,variablesQty_mean,variablesQty_min,variablesQty_max,variablesQty_std,maxNestedBlocks_mean,maxNestedBlocks_min,maxNestedBlocks_max,maxNestedBlocks_std,anonymousClassesQty_mean,anonymousClassesQty_min,anonymousClassesQty_max,anonymousClassesQty_std,subClassesQty_mean,subClassesQty_min,subClassesQty_max,subClassesQty_std,lambdasQty_mean,lambdasQty_min,lambdasQty_max,lambdasQty_std,uniqueWordsQty_mean,uniqueWordsQty_min,uniqueWordsQty_max,uniqueWordsQty_std,modifiers_mean,modifiers_min,modifiers_max,modifiers_std,num_dependency_mean,num_dependency_min,num_dependency_max,num_dependency_std,num_line_affected_mean,num_line_affected_min,num_line_affected_max,num_line_affected_std,actual_num_of_classes_touched_mean,actual_num_of_classes_touched_min,actual_num_of_classes_touched_max,actual_num_of_classes_touched_std,commit_line_changed,refactoring_perc,refactoring_perc_time_taken
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,a4dc54f7dc0333da096aa779dbaa79060c90d1ad,kqhzz,kuangqinghuazz@163.com,2021-06-09 18:09:26,kuszz,"Deprecate leader command
+
+Fix #13512
+
+pr-link: Alluxio/alluxio#13578
+change-id: cid-a0f84e692c922fcd4c9351646c478f589ee9654e",1356c0b35fd753d1081665b2c8f6b25da62bf2e8,2021-06-09 02:31:45,15.0,1,alluxio,a4dc54f7dc0333da096aa779dbaa79060c90d1ad,11.0,11,11,,8.0,8,8,,2.0,2,2,,9.0,9,9,,15.0,15,15,,6.0,6,6,,0.0,0,0,,6.0,6,6,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0,0,0,,0.0,0,0,,0,0,0,,2.0,2,2,,63.0,63,63,,4.0,4,4,,0.0,0,0,,0.0,0,0,,3.0,3,3,,0.0,0,0,,6.0,6,6,,2.0,2,2,,4.0,4,4,,0.0,0,0,,4.0,4,4,,3.0,3,3,,0.0,0,0,,0.0,0,0,,1.0,1,1,,58.0,58,58,,17.0,17,17,,85.0,85.0,85.0,,61.0,61,61,,2.0,2,2,,8,1.0,15.0
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,5c9c99f1955905f9e8e7232744fd63b7b4a9f8a9,maobaolong,307499405@qq.com,2021-05-28 17:52:32,maobaolong,"Support Fuse Auth policy
+
+
+
+pr-link: Alluxio/alluxio#13479
+change-id: cid-572306f2840b5a4d9d23dcba70d439dd5e2f50e7",cf6f354941a72b3da8e3b041d81878dbe8b96b61,2021-05-28 16:29:10,1.0,1,alluxio,5c9c99f1955905f9e8e7232744fd63b7b4a9f8a9,12.0,12,12,,8.0,8,8,,1.0,1,1,,16.0,16,16,,0.0,0,0,,2.0,2,2,,0.0,0,0,,2.0,2,2,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,0.0,0,0,,10.0,10,10,,5.0,5,5,,2.0,2,2,,8.0,8,8,,0,0,0,,0,0,0,,10.0,10,10,,0,0,0,,4.0,4,4,,80.0,80,80,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,3.0,3,3,,2.0,2,2,,16.0,16,16,,0.0,0,0,,16.0,16,16,,1.0,1,1,,2.0,2,2,,0.0,0,0,,0.0,0,0,,68.0,68,68,,17.0,17,17,,3.0,3.0,3.0,,78.0,78,78,,1.0,1,1,,346,0.2254335260115607,1.0
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,9e3e9df4bb73b6aeb2c9ef1217d1071e65677cbb,LuQQiu,luqiujob@gmail.com,2021-05-17 06:50:35,LuQQiu,"Improve DefaultBlockWorkerTest
+
+
+
+pr-link: Alluxio/alluxio#13375
+change-id: cid-e93bf7cbcfe629562cfe68291486b79f687401c0",1e2ca31dfe548a102910edb3aaa41c758b53f632,2021-05-17 05:34:55,1.0,1,alluxio,9e3e9df4bb73b6aeb2c9ef1217d1071e65677cbb,30.0,30,30,0.0,29.0,29,29,0.0,1.0,1,1,0.0,78.0,78,78,0.0,0.0,0,0,0.0,27.0,27,27,0.0,0.0,0,0,0.0,27.0,27,27,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,12.0,12,12,0.0,0.0,0,0,0.0,2.0,2,2,0.0,10.0,10,10,0.0,0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,5.0,5,5,0.0,350.0,350,350,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,24.0,24,24,0.0,72.0,72,72,0.0,82.0,82,82,0.0,5.0,5,5,0.0,81.0,81,81,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,6.0,6,6,0.0,103.0,103,103,0.0,1.0,1,1,0.0,78.0,78.0,78.0,0.0,322.0,322,322,0.0,1.5,1,2,0.7071067811865476,35,1.0,1.0
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,d5f9af6fa3de3acdb2ecbd803e18ce8003a67b64,Bin Fan,fanbin103@gmail.com,2021-05-07 18:05:06,apc999,"Improve tests for BlockWorkerDataReader
+
+Followup of https://github.com/Alluxio/alluxio/pull/13282/ to improve
+tests of `BlockWorkerDataReader`
+
+pr-link: Alluxio/alluxio#13331
+change-id: cid-d40bd99964bb4965370e985821198800fb529364",e18198d861069faf0d885ca1bbe98d0fd6820df4,2021-05-06 22:01:10,20.0,1,alluxio,d5f9af6fa3de3acdb2ecbd803e18ce8003a67b64,23.25,5,63,20.780782205944732,20.666666666666668,4,64,21.9931118693324,2.0,1,3,0.8528028654224418,40.41666666666666,3,111,41.359748402024735,27.16666666666667,0,106,39.35117725704215,15.0,3,37,13.197795959243278,0.16666666666666666,0,1,0.3892494720807616,13.166666666666664,3,35,13.42205331354019,0.25,0,1,0.4522670168666455,1.3333333333333333,0,4,1.969463855669324,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.16666666666666666,0,1,0.3892494720807615,7.666666666666668,2,21,7.302967433402215,1.6666666666666667,0,6,2.1461734799546397,1.1666666666666667,0,5,1.9462473604038075,6.5,2,21,7.428446552396952,0,0,0,0.0,0,0,0,0.0,4.0,0,13,4.824181513244218,0,0,0,0.0,7.916666666666668,0,36,13.22159619942335,193.58333333333331,37,531,191.01711409920284,6.5,0,24,8.522696969643098,1.0833333333333333,0,2,0.6685579234215214,0.3333333333333333,0,2,0.778498944161523,2.583333333333333,0,15,5.8068663640294815,0.6666666666666666,0,2,0.778498944161523,10.583333333333334,0,31,10.396313449167126,11.5,0,72,24.043521145849443,27.33333333333333,3,82,29.41036716822313,2.0,0,5,2.215646837627989,26.25,2,81,28.847955654682803,1.5833333333333333,0,3,1.1645001528813148,0.0,0,0,0.0,0.3333333333333333,0,2,0.778498944161523,4.333333333333333,0,10,3.845501110112801,121.33333333333331,37,320,98.91900574191848,1.0,1,1,0.0,57.58333333333334,8.0,111.0,37.20571396324967,222.66666666666663,36,661,228.67258584087318,7.833333333333332,1,13,4.018894767409959,194,0.18556701030927836,3.711340206185567
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,09659b8248d65bfb9e4fa19115c5ff199bbd3b47,Bin Fan,fanbin103@gmail.com,2021-03-25 01:15:13,apc999,"Support Fuse Mount with Worker to Reduce RPCs
+
+Fix https://github.com/Alluxio/alluxio/issues/12830
+
+Co-authored-by: Lu Qiu <luqiujob@gmail.com>
+
+pr-link: Alluxio/alluxio#13044
+change-id: cid-9ca184ef81f3f67df609a8d041a39d0ba4ba50c3",ab17c506ae480f78dd79fd21d0c246744229a63e,2021-03-24 21:36:14,3.0,1,alluxio,09659b8248d65bfb9e4fa19115c5ff199bbd3b47,7.833333333333332,0,31,11.027513799858092,7.833333333333332,1,21,7.444745961027981,1.1666666666666667,1,2,0.3892494720807615,13.0,0,48,17.766157818627068,6.666666666666668,0,38,14.65564324033165,5.833333333333332,1,12,4.8021459849327846,0.16666666666666666,0,1,0.3892494720807615,4.833333333333333,0,12,4.448356863818233,0.8333333333333334,0,4,1.5275252316519463,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,6.166666666666668,0,12,3.833662699947623,2.1666666666666665,0,6,2.8550858396053793,1.8333333333333333,0,5,2.1248885888797826,4.333333333333333,0,10,3.7009417310962487,0,0,0,0.0,0,0,0,0.0,4.5,0,8,2.938769068226293,0,0,0,0.0,3.5,0,10,4.461960433384737,71.33333333333333,4,196,64.31645248772713,3.0,0,10,3.567530340063379,0.8333333333333334,0,4,1.5275252316519463,0.16666666666666666,0,1,0.3892494720807615,0.16666666666666666,0,1,0.3892494720807615,0.3333333333333333,0,1,0.4923659639173309,3.0,0,8,3.0748244591432297,8.0,0,40,15.07556722888818,9.166666666666666,0,29,9.693796829400592,4.0,0,19,7.083912632282966,9.0,0,28,9.32250454057765,1.1666666666666667,-1,5,2.2087978356535665,0.16666666666666666,0,1,0.3892494720807615,0.16666666666666666,0,1,0.3892494720807615,1.1666666666666667,0,6,2.2896340848319503,63.5,8,125,36.3355573408848,10.333333333333334,1,17,8.238858408710996,54.33333333333334,3.0,157.0,50.46210699548961,88.0,8,203,63.59245238233858,37.0,1,136,50.58566092193608,1938,0.0041279669762641896,1.0
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,2c32656c9d831f32283ae9c053ddacb7415b600a,Bin Fan,fanbin103@gmail.com,2021-03-20 02:38:57,apc999,"Improve FUSE integration tests to cover JNI FUSE & JNR FUSE
+
+
+
+pr-link: Alluxio/alluxio#13105
+change-id: cid-565ccffdb84c8d078713c6ba3f2629117cee259b",342f17f06ea777f73e8bf2988d6204d5bc6c2c54,2021-03-20 00:59:00,1.0,1,alluxio,2c32656c9d831f32283ae9c053ddacb7415b600a,25.0,25,25,0.0,32.0,32,32,0.0,1.0,1,1,0.0,65.0,65,65,0.0,9.0,9,9,0.0,23.0,23,23,0.0,1.0,1,1,0.0,18.0,18,18,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,3,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,7.0,7,7,0.0,3.0,3,3,0.0,1.0,1,1,0.0,4.0,4,4,0.0,2,2,2,0.0,0,0,0,0.0,4.0,4,4,0.0,0,0,0,0.0,46.0,46,46,0.0,265.0,265,265,0.0,6.0,6,6,0.0,0.0,0,0,0.0,0.0,0,0,0.0,10.0,10,10,0.0,0.0,0,0,0.0,80.0,80,80,0.0,14.0,14,14,0.0,49.0,49,49,0.0,32.0,32,32,0.0,48.0,48,48,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,166.0,166,166,0.0,1025.0,1025,1025,0.0,51.0,51.0,51.0,0.0,321.0,321,321,0.0,1.5,1,2,0.7071067811865476,371,0.8652291105121294,1.0
+5,12.712987012987012,1.0,166.0,1.0,1.0,2.0,2.0,3.0,5.0,8.0,14.0,16.0,19.0,27.0,53b9398676efd139e12563a11ba8e6f43420d243,Bin Fan,fanbin103@gmail.com,2021-03-03 07:30:14,apc999,"Add NullCacheEvictor for debugging purpose
+
+
+
+pr-link: Alluxio/alluxio#12981
+change-id: cid-b5081bccc394709d6e7b1816404a7b0282bd66f4",839a7b6fc0df893d5685c1ac20fd66b5d2495aa7,2021-03-03 02:54:01,4.0,1,alluxio,53b9398676efd139e12563a11ba8e6f43420d243,8.0,8,8,,8.0,8,8,,1.0,1,1,,4.0,4,4,,15.0,15,15,,6.0,6,6,,1.0,1,1,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0,0,0,,0.0,0,0,,0,0,0,,1.0,1,1,,28.0,28,28,,2.0,2,2,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0.0,0,0,,2.0,2,2,,0.0,0,0,,2.0,2,2,,1.0,1,1,,0.0,0,0,,0.0,0,0,,0.0,0,0,,50.0,50,50,,1.0,1,1,,642.0,642.0,642.0,,48.0,48,48,,1.0,1,1,,175,0.2742857142857143,1.0971428571428572
+7,19.062946580469546,1.0,167.0,1.0,2.0,2.0,3.0,4.0,8.0,14.0,19.0,22.0,25.0,53.20000000000028,7fb84094a6075bcef5a103b40adcac4b26b724ca,Jiacheng Liu,jiacheliu3@gmail.com,2021-05-29 00:37:05,jiacheliu3,"Refactor MasterWorkerInfo
+
+Currently all the worker metadata are wrapped in `MasterWorkerInfo`
+object on the master side. This includes worker metadata, usage and the
+various block lists. The existing `DefaultBlockMaster` does a
+`synchronized (MasterWorkerInfo)` locking on this object on every read
+or write operation on any field in this object. This locking is
+excessive.
+
+By refactoring this `MasterWorkerInfo` object and refactoring the
+locking mechanism, the `DefaultBlockMaster` concurrency will be
+improved, as multiple operations will be able to happen on the same
+worker.
+
+That said, this PR aims at the following:
+1. Refactor `MasterWorkerInfo` object. Break this into multiple parts
+which can be individually locked and updated.
+2. Refactor the locking to lock individual parts on the object instead
+of the whole object. RW Locking should also be applied.
+
+pr-link: Alluxio/alluxio#13384
+change-id: cid-5cd3ab31ee5c9fc24433b35485f2382e22a9a09f",220237085593d731756e24249bcf88a4d6ea5710,2021-05-28 23:28:46,1.0,1,alluxio,7fb84094a6075bcef5a103b40adcac4b26b724ca,27.66666666666667,3,76,41.86088070422472,50.0,1,140,78.04485889538144,1.6666666666666667,1,3,1.1547005383792517,67.33333333333333,2,194,109.71478174491043,304.6666666666667,0,914,527.698146039318,20.0,1,56,31.192947920964446,0.0,0,0,0.0,14.0,1,40,22.516660498395403,4.333333333333333,0,13,7.505553499465135,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,10.0,3,21,9.643650760992957,2.0,0,6,3.4641016151377544,0.0,0,0,0.0,7.0,0,21,12.124355652982139,0,0,0,0.0,0,0,0,0.0,7.0,0,18,9.643650760992957,0,0,0,0.0,11.666666666666664,0,34,19.347695814575264,344.33333333333326,16,957,531.0408019477725,16.0,0,47,26.851443164195103,11.333333333333336,0,31,17.09775813764288,3.333333333333333,0,10,5.773502691896257,7.0,0,21,12.124355652982139,1.3333333333333333,0,4,2.309401076758504,12.666666666666664,1,29,14.571661996262927,7.0,0,15,7.549834435270751,44.33333333333334,3,117,63.12949653952053,4.666666666666667,0,7,4.0414518843273814,38.66666666666666,3,105,57.50072463311513,2.333333333333333,0,5,2.516611478423583,3.0,0,9,5.196152422706632,0.6666666666666666,0,2,1.1547005383792517,2.0,0,6,3.4641016151377544,175.0,36,407,202.23006700290642,1.0,1,1,0.0,69.33333333333333,8.0,177.0,93.54321639399264,458.66666666666674,24,1245,682.2479998749233,35.0,1,54,29.512709126747406,2162,0.011100832562442183,1.0
+7,19.062946580469546,1.0,167.0,1.0,2.0,2.0,3.0,4.0,8.0,14.0,19.0,22.0,25.0,53.20000000000028,1f2c0fd5408cd9a367dc85197c7d501de33455fe,Bin Fan,fanbin103@gmail.com,2021-04-30 20:29:38,apc999,"Improve distributedLoad
+
+Improve efficiency of `distributedLoad` in two fold:
+1. calling `BlockInStream.create` to obtain the InputStream without RPC,
+where the original `blockStore.getOutStream(blockId,...)` makes one RPC
+to master to get blockInfo.
+2. removing using `BlockOutStream` and only reads the block data to
+alluxio job worker without writing it back to the block store on worker.
+This will further save at least two RPCs and the overhead to transfer
+data back to worker.
+
+Note that, the original code is not removed to handle the case Pinned
+Media, because currently reading a block does not support promoting this
+block to a medium but only a tier. After discussed with @calvinjia , we
+will leave this once we consolidate medium and tier on worker
+
+pr-link: Alluxio/alluxio#13146
+change-id: cid-e4e50c5a23d8beda7b398f642a4263942780447e",8fd77c41cee3c1b0bf9c99f4ff443e1c550cbbe4,2021-04-30 19:03:08,1.0,1,alluxio,1f2c0fd5408cd9a367dc85197c7d501de33455fe,43.0,43,43,0.0,18.0,18,18,0.0,1.0,1,1,0.0,70.5,70,71,0.7071067811865476,0.0,0,0,0.0,12.0,12,12,0.0,0.0,0,0,0.0,10.0,10,10,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,19.0,19,19,0.0,11.0,11,11,0.0,1.0,1,1,0.0,18.0,18,18,0.0,0,0,0,0.0,0,0,0,0.0,12.0,12,12,0.0,0,0,0,0.0,13.0,13,13,0.0,260.5,258,263,3.5355339059327378,1.0,1,1,0.0,2.0,2,2,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,10.0,9,11,1.4142135623730951,22.0,22,22,0.0,44.0,44,44,0.0,0.0,0,0,0.0,44.0,44,44,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,125.0,125,125,0.0,17.0,17,17,0.0,65.5,36.0,95.0,41.719300090006314,242.0,242,242,0.0,4.0,4,4,0.0,142,1.0,1.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,6ad1e4fe77445e8689f6d3975b26e52165c9c3e6,Bin Fan,fanbin103@gmail.com,2021-08-04 02:49:16,apc999,"Fix IndexOutOfBoundsException on async cache
+
+### What changes are proposed in this pull request?
+
+Fix https://github.com/Alluxio/alluxio/issues/13828 and fix
+https://github.com/Alluxio/alluxio/issues/13050
+
+This patch will fix a miscaculation of block to async cache
+
+In earlier Alluxio versions prior to
+https://github.com/Alluxio/alluxio/pull/13064, users may see the
+following errors:
+```
+2021-03-12 08:36:48,521 ERROR AlluxioFuseFileSystem - Failed to read
+file=/data/0.5G_9.txt, offset=536862720, size=8192
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+```
+
+After 13064, we will not see the error anymore but caching the last
+block when fileSize happens on block size boundary will fail silently.
+
+### Why are the changes needed?
+
+Correct a bug when calculating the block id to async cache, when current
+pos is fileSize which is a multiple of blockSize
+
+### Does this PR introduce any user facing changes?
+
+No
+
+pr-link: Alluxio/alluxio#13845
+change-id: cid-4c598c4f286a3da40e051cbac01e77818fb925a6",df5dcab8bc308dfd2bf650a895865b13120a9866,2021-08-03 16:07:28,10.0,1,alluxio,6ad1e4fe77445e8689f6d3975b26e52165c9c3e6,38.0,38,38,,57.0,57,57,,1.0,1,1,,81.0,81,81,,0.0,0,0,,45.0,45,45,,1.0,1,1,,42.0,42,42,,3.0,3,3,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,0.0,0,0,,12.0,12,12,,1.0,1,1,,0.0,0,0,,12.0,12,12,,0,0,0,,0,0,0,,5.0,5,5,,0,0,0,,32.0,32,32,,576.0,576,576,,2.0,2,2,,6.0,6,6,,1.0,1,1,,5.0,5,5,,26.0,26,26,,13.0,13,13,,159.0,159,159,,100.0,100,100,,85.0,85,85,,90.0,90,90,,1.0,1,1,,2.0,2,2,,0.0,0,0,,2.0,2,2,,279.0,279,279,,17.0,17,17,,322.0,322.0,322.0,,764.0,764,764,,9.0,9,9,,202,1.0,10.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,8647c6162423b851dda8d10edf4686473d2e95cc,Zac Blanco,zac@alluxio.com,2021-07-15 21:54:27,ZacBlanco,"Update and improve conformance of S3 API
+
+### What changes are proposed in this pull request?
+
+Improve conformance of the S3 API to the specification defined by AWS.
+
+### Why are the changes needed?
+
+The AWS CLI does not work for many standard operations (e.g. listing
+buckets, setting max number of return keys, copying between buckets)
+
+### Does this PR introduce any user facing changes?
+
+This affects some of the values from the S3 API to be in-line with more
+of the S3 REST API specification. It can potentially break backwards
+compatibility with previous versions.
+
+### PR Summary
+
+This PR is a a serious of small changes and improvements to the S3
+API which improves the conformance to the specification defined
+by the AWS Rest API reference at
+https://docs.aws.amazon.com/AmazonS3/latest/API/Type_API_Reference.html
+
+A short summary of the changes:
+
+- Implement the CopyObjectResult type for bucket-bucket transfers
+- Make the ListAllMyBucketsResult conform to the spec. Added
+creationDate and proper timestamps to results
+- ListBucketOptions now includes the delimiter and encoding type
+parameters
+- the listBucketResult uses the CommonPrefix type and now includes
+the delimiter and encoding type. Additionally, make sure keyCount
+and truncation takes into account the common prefixes
+- Update the S3RestServiceHandler to use Java 8 lambda language
+features
+- Update credentials to use the latest amazon authorization format
+- A potentially breaking change which causes a ListAllMyBuckets result
+to only return folders
+
+pr-link: Alluxio/alluxio#13786
+change-id: cid-297ff4411b461dd5331a5ed82c6f177df855c820",79a5e5c78b7dfcdbf8edbd928a2ff59c904d08f8,2021-07-15 18:38:50,3.0,1,alluxio,8647c6162423b851dda8d10edf4686473d2e95cc,12.0,12,12,,17.0,17,17,,1.0,1,1,,30.0,30,30,,56.0,56,56,,13.0,13,13,,0.0,0,0,,13.0,13,13,,0.0,0,0,,0.0,0,0,,0.0,0,0,,0,0,0,,0.0,0,0,,0.0,0,0,,12.0,12,12,,1.0,1,1,,0.0,0,0,,12.0,12,12,,0,0,0,,0,0,0,,1.0,1,1,,0,0,0,,6.0,6,6,,157.0,157,157,,11.0,11,11,,2.0,2,2,,1.0,1,1,,0.0,0,0,,0.0,0,0,,12.0,12,12,,3.0,3,3,,19.0,19,19,,5.0,5,5,,18.0,18,18,,1.0,1,1,,0.0,0,0,,3.0,3,3,,1.0,1,1,,115.0,115,115,,1.0,1,1,,15.0,15.0,15.0,,275.0,275,275,,6.0,6,6,,827,0.33252720677146314,1.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,3ce52983e6f50bfb7880b5a2cb13a18e4272170b,Zhan Yuan,yuanzhanhku@gmail.com,2021-07-12 06:39:42,yuanzhanhku,"Add CacheContext to URIStatus to enable per-read metrics
+
+Add functions to URIStatus to track bytes read from cache and external
+file system in a per-read basis.
+The default implementation does nothing. It is up to the subclass to
+decide how to track them.
+Presto will use this information to compute query level metrics.
+See https://github.com/prestodb/presto/issues/16237 for details.
+
+There are no user facing changes in this commit.
+
+pr-link: Alluxio/alluxio#13665
+change-id: cid-54f05002475dd6556209cb4d18b158ee397ef5ac",cf79c7837c57c83c1b99a1dab53fec25deb2069d,2021-07-10 20:58:13,33.0,1,alluxio,3ce52983e6f50bfb7880b5a2cb13a18e4272170b,4.0,4,4,0.0,15.0,15,15,0.0,1.0,1,1,0.0,6.0,6,6,0.0,18.0,18,18,0.0,12.0,12,12,0.0,1.0,1,1,0.0,11.0,11,11,0.0,0.0,0,0,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,4.0,4,4,0.0,64.0,64,64,0.0,12.0,12,12,0.0,0.0,0,0,0.0,2.0,2,2,0.0,0.0,0,0,0.0,0.0,0,0,0.0,3.0,3,3,0.0,0.0,0,0,0.0,7.0,7,7,0.0,0.0,0,0,0.0,4.0,4,4,0.0,1.0,1,1,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,108.0,108,108,0.0,1.0,1,1,0.0,371.0,371.0,371.0,0.0,115.0,115,115,0.0,4.5,3,6,2.1213203435596424,400,0.2875,9.487499999999999
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,7b10a597002c00cade006f0b6e3e183ed855cac8,Jiacheng Liu,jiacheliu3@gmail.com,2021-05-22 00:16:41,jiacheliu3,"[SMALLFIX] Update some integration test names
+
+Integration tests should be named with suffix `IntegrationTest` at
+least. If it specifies to validate the concurrency correctness, the
+prefix will be `Concurrent`.
+
+pr-link: Alluxio/alluxio#13460
+change-id: cid-d153be42b359d96bc70f36d4f027aa414fc0034c",fe561c3aa2ef26e50f0cc547fef6e20bd8e57276,2021-05-21 21:32:46,2.0,1,alluxio,7b10a597002c00cade006f0b6e3e183ed855cac8,15.142857142857142,9,23,4.740906081772816,9.714285714285714,3,41,13.960829556468408,1.7142857142857142,1,2,0.4879500364742666,19.428571428571427,11,36,9.658452996505924,37.142857142857146,0,256,96.51844136645352,5.571428571428571,1,24,8.182443458550809,0.14285714285714285,0,1,0.3779644730092273,5.142857142857143,1,23,7.9041881604748285,0.42857142857142855,0,2,0.7867957924694432,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.14285714285714285,0,1,0.3779644730092273,0.0,0,0,0.0,4.571428571428571,2,9,2.8784916685156983,2.571428571428572,0,6,2.370453040886408,1.7142857142857142,1,3,0.9511897312113418,2.8571428571428568,1,6,2.115700942049815,0,0,0,0.0,0,0,0,0.0,1.5714285714285714,0,5,1.8126539343499315,0,0,0,0.0,6.857142857142858,0,14,5.17779140266618,98.71428571428572,44,258,77.01669577806767,0.14285714285714285,0,1,0.3779644730092273,2.4285714285714284,0,6,1.9880595947760096,0.0,0,0,0.0,0.0,0,0,0.0,0.2857142857142857,0,2,0.7559289460184545,7.7142857142857135,0,33,11.441361890297935,8.857142857142858,0,32,10.668154658117954,17.0,6,47,14.730919862656233,6.2857142857142865,0,26,9.068522219088138,14.714285714285715,6,36,11.116268644263172,1.0,0,2,0.5773502691896257,0.2857142857142857,0,2,0.7559289460184545,0.42857142857142855,0,2,0.7867957924694432,0.14285714285714285,0,1,0.3779644730092273,78.42857142857143,39,162,51.98030762656548,7.857142857142858,1,17,8.55235974119758,46.85714285714285,7.0,100.0,36.58519086291871,103.0,34,320,100.86294331087772,4.0,1,7,2.160246899469287,14,1.0,2.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,4395b546313a6144cce1ea0b18bfa082f9d80ec6,Bin Fan,fanbin103@gmail.com,2021-03-11 01:54:53,apc999,"Simplify code of Worker-side RPC handling
+
+- Remove unnecessary class hierarchy: e.g., `DataServer`,
+`AbstractReadHandler`, `ReadRequest`, `ReadRequestContext`
+- Simplify calls `AsyncCacheRequestManager`
+
+pr-link: Alluxio/alluxio#13028
+change-id: cid-152dda823220f504b12f53d045120723e2f10db9",be4ed06a4424fcb9ac5bc54ba1942b2192dc6d01,2021-03-11 00:18:40,1.0,1,alluxio,4395b546313a6144cce1ea0b18bfa082f9d80ec6,33.666666666666664,28,45,9.814954576223636,34.0,16,43,15.588457268119896,1.3333333333333333,1,2,0.5773502691896257,49.33333333333334,24,62,21.939310229205777,9.666666666666666,3,23,11.547005383792515,13.666666666666664,11,15,2.309401076758504,0.0,0,0,0.0,6.666666666666668,5,10,2.8867513459481287,5.666666666666668,1,8,4.0414518843273814,0.6666666666666666,0,1,0.5773502691896258,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,11.666666666666664,7,14,4.0414518843273814,4.666666666666667,2,6,2.309401076758503,0.0,0,0,0.0,11.666666666666664,7,14,4.0414518843273814,0,0,0,0.0,0,0,0,0.0,10.333333333333334,7,12,2.8867513459481287,0,0,0,0.0,15.333333333333336,15,16,0.5773502691896258,369.66666666666674,163,473,178.97858344878395,8.0,8,8,0.0,0.0,0,0,0.0,6.0,0,9,5.196152422706632,5.0,1,7,3.4641016151377544,0.0,0,0,0.0,11.0,9,12,1.7320508075688772,2.6666666666666665,0,4,2.309401076758504,24.0,18,27,5.196152422706632,2.0,0,3,1.7320508075688772,22.66666666666667,16,26,5.773502691896257,2.6666666666666665,2,3,0.5773502691896258,0.0,0,0,0.0,0.6666666666666666,0,1,0.5773502691896258,4.0,4,4,0.0,232.66666666666663,100,299,114.89270356873553,1.0,1,1,0.0,29.33333333333333,13.0,62.0,28.29016319029166,476.66666666666674,152,639,281.16958109534767,6.333333333333332,2,9,3.7859388972001824,1836,0.08278867102396514,1.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,cbcc2dd4825153f3d1e253fc76d03dd46a05b9f2,Bin Fan,fanbin103@gmail.com,2021-03-06 18:30:16,apc999,"Move BlockWorker interface to core/common module
+
+This refactor will help https://github.com/Alluxio/alluxio/pull/12890/
+
+pr-link: Alluxio/alluxio#13007
+change-id: cid-31fc069a2101aa163bd95e2bc81a8c8e4e7851a6",f9d8272392f616f56776aa65b624a10a1b4aca6f,2021-03-06 03:46:10,14.0,1,alluxio,cbcc2dd4825153f3d1e253fc76d03dd46a05b9f2,10.947368421052632,2,25,7.545960539774659,14.894736842105265,3,58,14.525436451052586,1.0526315789473684,1,2,0.22941573387056174,18.0,0,65,21.139746660943906,51.368421052631575,0,325,93.47501777142608,11.36842105263158,3,31,8.525846496362233,0.3157894736842105,0,1,0.4775669329409192,5.947368421052633,0,27,7.648338121670082,0.7368421052631579,0,4,1.407997208928653,0.10526315789473684,0,2,0.4588314677411235,0.0,0,0,0.0,0,0,0,0.0,0.05263157894736842,0,1,0.2294157338705617,0.0,0,0,0.0,5.052631578947368,0,19,6.141603882180455,2.1052631578947367,0,10,3.541731165563361,0.3684210526315789,0,2,0.6839855680567694,4.631578947368421,0,17,5.609619974410917,0,0,0,0.0,0,0,0,0.0,2.8421052631578947,0,10,3.337716416532864,0,0,0,0.0,6.2631578947368425,0,30,7.950137002754928,89.42105263157896,9,355,97.27870372712832,3.0526315789473686,0,20,5.3174104412927905,0.8421052631578947,0,4,1.5004872502970807,0.4736842105263158,0,8,1.8369183449048443,0.42105263157894735,0,4,1.0173926082384543,0.05263157894736842,0,1,0.2294157338705617,3.1052631578947367,0,18,4.829248122316826,9.578947368421053,0,64,16.293542652343678,14.526315789473687,0,72,18.965959040849512,2.7894736842105257,0,24,5.672339781473888,13.421052631578947,0,67,17.525586975345767,0.15789473684210525,-1,4,1.384965217964249,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,93.15789473684212,28,292,67.39705166473837,59.10526315789475,1,1025,234.01184555412812,83.05263157894737,5.0,322.0,88.50830073075414,143.31578947368422,28,528,134.43174750349004,40.10526315789474,1,116,49.7023303017766,1832,0.015283842794759825,1.0
+10,14.676328502415457,1.0,166.0,1.0,2.0,2.0,2.0,4.0,7.0,12.0,17.0,19.0,21.0,35.0,aab7849b31a17c405bee986ddd4f032fafe49859,Bradley Yoo,bradleyyoo@gmail.com,2021-03-05 20:32:02,bradyoo,"Add ListingCache metrics
+
+There are 2 changes here:
+
+1. Make it more specific that load times are loads that happened as a
+result of a cache miss.
+2. Add Listing Cache statistics.
+
+pr-link: Alluxio/alluxio#13001
+change-id: cid-163923c58a9804a6e23e5eff8e93594965149285",04781644462a50b85ce66203fe4ddf3db1302b64,2021-03-05 00:02:25,20.0,1,alluxio,aab7849b31a17c405bee986ddd4f032fafe49859,3.0,3,3,0.0,5.0,5,5,0.0,1.0,1,1,0.0,5.0,5,5,0.0,2.0,2,2,0.0,5.0,5,5,0.0,0.0,0,0,0.0,5.0,5,5,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0,0,0,0.0,0,0,0,0.0,4.0,4,4,0.0,0,0,0,0.0,5.0,5,5,0.0,33.0,33,33,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,4.0,4,4,0.0,0.0,0,0,0.0,0.0,0,0,0.0,0.0,0,0,0.0,1.0,1,1,0.0,38.0,38,38,0.0,16.0,16,16,0.0,23.0,23.0,23.0,0.0,47.0,47,47,0.0,9.333333333333334,1,14,7.234178138070233,176,0.26704545454545453,5.340909090909091

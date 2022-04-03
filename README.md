@@ -1,6 +1,10 @@
 # SoftwareRemodularization (MoveItOrNot)
 
 
+## To Run Streamlit
+streamlit run streamlit/src/app.py --global.dataFrameSerialization="legacy"
+
+
 ## 1. Introduction
 MoveItOrNot (MION) aims to introduce a new approach that evaluates the effectiveness of software remodularisation techniques by prodiving information about their their suitability according to the features of the software systems, which as a consequence, enables the selection of the best algorithm for a particular software system.
 

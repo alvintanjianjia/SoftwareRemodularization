@@ -190,3 +190,23 @@ MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropw
 
 MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
 The Mojo value is 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf) = 349
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/dropwizard/dropwizard_v2.0.6_300_cosine_single_a.rsf) = 699
+The Mojo value is 349

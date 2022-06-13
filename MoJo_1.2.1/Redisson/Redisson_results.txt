@@ -35,3 +35,8 @@ MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisso
 
 MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_hillclimbing_turbomqincrw_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_hillclimbing_turbomqincrw_a.rsf) = 1779
 The Mojo value is 1779
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf) = 203
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Redisson/Redisson_redisson-3.16.0_300_cosine_single_a.rsf) = 1029
+The Mojo value is 203

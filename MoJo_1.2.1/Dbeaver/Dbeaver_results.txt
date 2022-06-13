@@ -71,3 +71,23 @@ MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_
 
 MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_100_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_100_cosine_single_a.rsf) = 3491
 The Mojo value is 333
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf) = 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf) = 3461
+The Mojo value is 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf) = 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf) = 3461
+The Mojo value is 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf) = 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf) = 3461
+The Mojo value is 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf) = 516
+
+MoJo(C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_b.rsf,C:/Users/tanji/Desktop/SoftwareRemodularization/MoJo_1.2.1/Dbeaver/Dbeaver_21.1.0_300_cosine_single_a.rsf) = 3461
+The Mojo value is 516

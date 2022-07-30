@@ -1,0 +1,11 @@
+Requirements of a baseline estimation model
+ 1. Be simple to describe, implement, and interpret.
+ 2. Be deterministic in its outcomes.
+ 3. Be applicable to mixed qualitative and quantitative data.
+ 4. Offer some explanatory information regarding the prediction by representing generalised properties of the underlying data.
+ 5. Have no parameters within the modelling process that require tuning.
+ 6. Be publicly available via a reference implementation and associated environment for execution.
+ 7. Generally be more accurate than a random guess or an estimate based purely on the distribution of the response variable.
+ 8. Be robust to different data splits and validation methods.
+ 9. Do not be expensive to apply.
+ 10. Offer comparable performance to standard methods.

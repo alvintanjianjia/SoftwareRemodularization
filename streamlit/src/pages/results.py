@@ -33,11 +33,14 @@ def app():
 
     from st_aggrid import GridUpdateMode, DataReturnMode
     shows = pd.read_csv('pipeline_prediction_output.csv')
-    gb = GridOptionsBuilder.from_dataframe(shows)
+    shows = shows[['predicted_time','class_name','refactor_destination','class']]
+    gb = GridOptionsBuilder.from_dataframe(shows[['predicted_time','class_name','refactor_destination','class']])
+    
     # enables pivoting on all columns, however i'd need to change ag grid to allow export of pivoted/grouped data, however it select/filters groups
     gb.configure_default_column(enablePivot=True, enableValue=True, enableRowGroup=True)
     gb.configure_selection(selection_mode="multiple", use_checkbox=True)
     gb.configure_side_bar()  # side_bar is clearly a typo :) should by sidebar
+    #gb.configure_columns()
     gridOptions = gb.build()
 
     st.success(
@@ -52,7 +55,7 @@ def app():
         enable_enterprise_modules=True,
         update_mode=GridUpdateMode.MODEL_CHANGED,
         data_return_mode=DataReturnMode.FILTERED_AND_SORTED,
-        fit_columns_on_grid_load=False,
+        fit_columns_on_grid_load=True,
     )
 
     df = pd.DataFrame(response["selected_rows"])

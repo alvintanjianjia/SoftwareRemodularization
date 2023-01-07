@@ -13,8 +13,13 @@ from functionforDownloadButtons import download_button
 
 ###################################
 
+from PIL import Image
+
+###################################
+
 def app():
 
+    
     # def _max_width_():
     #     max_width_str = f"max-width: 1800px;"
     #     st.markdown(
@@ -28,6 +33,18 @@ def app():
     #         unsafe_allow_html=True,
     #     )
 
+    closest_results = pd.read_csv('closest_results.csv')
+    st.table(closest_results)
+    st.text("Best clustering algorithm & its parameters")
+    st.table(closest_results[['cluster_division','affinity','linkage']])
+
+    st.text("ESC4R: Project is trained on ")
+    st.table(closest_results[['project_name']])
+    
+
+    image = Image.open('../images/combined_algorithm_spread.png')
+
+    st.image(image, caption='Algorithm Visualisation') 
 
     c29, c30, c31 = st.columns([1, 6, 1])
 
